@@ -1,0 +1,117 @@
+{
+    "hobby": [
+		{
+			"id": 0,
+			"value": "Gaming",
+			"games": [
+				{
+					"GameId": 0,
+					"value": "Pokemon Go",
+					"platform": "Mobile"
+				},
+				{
+					"GameId": 1,
+					"value": "Brawl Stars",
+					"platform": "Mobile"
+				},
+				{
+					"GameId": 2,
+					"value": "Need For Speed: Most Wanted",
+					"platform": "PC"
+				},
+				{
+					"GameId": 3,
+					"value": "Krunker.io",
+					"platform": "PC"
+				}
+			]
+		}, 
+		{
+			"id": 1,
+			"value": "Programming",
+			"languages": [
+				{
+					"programmingLangId": 0,
+					"value": "Python"
+				},
+				{
+					"programmingLangId": 1,
+					"value": "HTML"
+				},
+				{
+					"programmingLangId": 2,
+					"value": "JavaScript"
+				},
+				{
+					"programmingLangId": 3,
+					"value": "CSS"
+				},
+				{
+					"programmingLangId": 4,
+					"value": "Sass"
+				},
+				{
+					"programmingLangId": 5,
+					"value": "TypeScript"
+				}
+			]
+		}, 
+		{
+			"id": 2,
+			"value": "Playing Instruments",
+			"instruments": [
+				{
+					"instrumentId": 0,
+					"value": "Mandolin",
+					"pictureURL": "https://www.bettermusic.com.au/media/catalog/product/cache/1/image/1224x/9df78eab33525d08d6e5fb8d27136e95/t/w/twmfvse-new__69352.1601420840.1280.1280.png"
+				},
+				{
+					"instrumentId": 1,
+					"value": "Guitar",
+					"pictureURL": "https://www.cordobaguitars.com/wp-content/uploads/2017/07/cordoba_interstitial_gkpro-1440x630.png"
+				},
+				{
+					"instrumentId": 2,
+					"value": "Tabla",
+					"pictureURL": "https://3.imimg.com/data3/IN/NH/MY-1077921/metal-tabla-set.png"
+				},
+				{
+					"instrumentId": 3,
+					"value": "Harmonium",
+					"pictureURL": "https://magictune.org/wp-content/uploads/2016/02/harmonium3.png"
+				}
+			]
+		}
+	],
+	"fav-food": [
+		{
+			"id": 0,
+			"value": "Chilli Chicken with Rice",
+			"ingredients": [
+				"Rice",
+				"Chicken",
+				"Bell Pepper (Capsicum)",
+				"Soy Sauce",
+				"Chilli Pepper",
+				"Garlic",
+				"Salt",
+				"Onion",
+				"Ginger",
+				"Spring Onion",
+				"Corn Flour"
+			]
+		},
+		{
+			"id": 2,
+			"value": "Egg Roll",
+			"ingredients": [
+				"Egg",
+				"Soy Sauce",
+				"Cabbage",
+				"Carrot",
+				"Onion",
+				"Spring Onion"
+			]
+		}
+	]
+}

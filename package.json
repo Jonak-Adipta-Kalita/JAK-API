@@ -1,0 +1,22 @@
+{
+  "name": "jak-api",
+  "version": "1.0.0",
+  "description": "A API for JAK",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jonak-Adipta-Kalita/JAK-API"
+  },
+  "keywords": [
+    "api",
+    "jak"
+  ],
+  "author": "Jonak Adipta Kalita",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

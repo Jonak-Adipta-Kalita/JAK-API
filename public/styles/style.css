@@ -3,3 +3,7 @@
     color: whitesmoke;
     text-align: center;
 }
+
+.main__body {
+    padding-top: 40px;
+}

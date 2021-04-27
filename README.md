@@ -23,3 +23,8 @@ To run the server, open a terminal in the directory. Now type
 npm start
 ``` 
 to run the server. After you did that, go to [http://localhost:3000/](http://localhost:3000/)
+
+## Contributors
+<a href = "https://github.com/Jonak-Adipta-Kalita/JAK-Website/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=Jonak-Adipta-Kalita/JAK-Website"/>
+</a>

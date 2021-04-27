@@ -1,4 +1,8 @@
+<div align=center>
+
 # JAK-API
+
+</div>
 
 Go to the [Website](http://jak-api-dot-com.herokuapp.com/)
 

@@ -60,27 +60,39 @@
 			"languages": [
 				{
 					"programmingLangId": 0,
+					"website": "https://www.python.org/",
+					"imageURL": "http://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Python.png",
 					"value": "Python"
 				},
 				{
 					"programmingLangId": 1,
+					"website": "https://html.com/",
+					"imageURL": "http://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/HTML.png",
 					"value": "HTML"
 				},
 				{
 					"programmingLangId": 2,
+					"website": "https://www.javascript.com/",
+					"imageURL": "http://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/JavaScript.png",
 					"value": "JavaScript"
 				},
 				{
 					"programmingLangId": 3,
+					"website": "https://css.com/",
+					"imageURL": "http://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/CSS.png",
 					"value": "CSS"
 				},
 				{
 					"programmingLangId": 4,
-					"value": "Sass"
+					"website": "https://www.typescriptlang.org/",
+					"imageURL": "http://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/TypeScript.png",
+					"value": "TypeScript"
 				},
 				{
 					"programmingLangId": 5,
-					"value": "TypeScript"
+					"website": "https://golang.org/",
+					"imageURL": "http://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Go.png",
+					"value": "Go"
 				}
 			]
 		}, 
@@ -90,23 +102,19 @@
 			"instruments": [
 				{
 					"instrumentId": 0,
-					"value": "Mandolin",
-					"pictureURL": "https://www.bettermusic.com.au/media/catalog/product/cache/1/image/1224x/9df78eab33525d08d6e5fb8d27136e95/t/w/twmfvse-new__69352.1601420840.1280.1280.png"
+					"value": "Mandolin"
 				},
 				{
 					"instrumentId": 1,
-					"value": "Guitar",
-					"pictureURL": "https://www.cordobaguitars.com/wp-content/uploads/2017/07/cordoba_interstitial_gkpro-1440x630.png"
+					"value": "Guitar"
 				},
 				{
 					"instrumentId": 2,
-					"value": "Tabla",
-					"pictureURL": "https://3.imimg.com/data3/IN/NH/MY-1077921/metal-tabla-set.png"
+					"value": "Tabla"
 				},
 				{
 					"instrumentId": 3,
-					"value": "Harmonium",
-					"pictureURL": "https://magictune.org/wp-content/uploads/2016/02/harmonium3.png"
+					"value": "Harmonium"
 				}
 			]
 		}

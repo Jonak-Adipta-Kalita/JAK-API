@@ -2,6 +2,13 @@
 	"details": [
 		{
 			"id": 0,
+			"value": "My Self",
+			"occupation": "Student",
+			"place": "Mangaldoi, Assam",
+			"occupation-place-name": "Kendirya Vidyalaya, Mangaldoi",
+		},
+		{
+			"id": 1,
 			"value": "My Mom",
 			"occupation": "Banker",
 			"place": "Mangaldoi, Assam",
@@ -10,19 +17,12 @@
 			"occupation-place-name": "State Bank of India"
 		},
 		{
-			"id": 1,
+			"id": 2,
 			"value": "My Dad",
 			"occupation": "Teacher",
 			"place": "Mangaldoi, Assam",
 			"subject": "Mathematics",
 			"occupation-place-name": "Kanaklata High School"
-		},
-		{
-			"id": 2,
-			"value": "My School",
-			"place": "Mangaldoi, Assam",
-			"school-name": "Kendirya Vidyalaya, Mangaldoi",
-			"school-site": "https://mangaldoi.kvs.ac.in/"
 		}
 	],
 

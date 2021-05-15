@@ -1,6 +1,7 @@
 <div align=center>
 
 # JAK-API
+![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fjak-api-dot-com.herokuapp.com)
 
 </div>
 
@@ -30,5 +31,5 @@ to run the server. After you did that, go to [http://localhost:3000/](http://loc
 
 ## Contributors
 <a href = "https://github.com/Jonak-Adipta-Kalita/JAK-Website/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=Jonak-Adipta-Kalita/JAK-Website"/>
+	<img src = "https://contrib.rocks/image?repo=Jonak-Adipta-Kalita/JAK-Website"/>
 </a>

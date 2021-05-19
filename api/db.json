@@ -60,37 +60,37 @@
 				{
 					"programmingLangId": 0,
 					"website": "https://www.python.org/",
-					"imageURL": "http://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Python.png",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Python.png",
 					"value": "Python"
 				},
 				{
 					"programmingLangId": 1,
 					"website": "https://html.com/",
-					"imageURL": "http://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/HTML.png",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/HTML.png",
 					"value": "HTML"
 				},
 				{
 					"programmingLangId": 2,
 					"website": "https://www.javascript.com/",
-					"imageURL": "http://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/JavaScript.png",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/JavaScript.png",
 					"value": "JavaScript"
 				},
 				{
 					"programmingLangId": 3,
 					"website": "https://css.com/",
-					"imageURL": "http://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/CSS.png",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/CSS.png",
 					"value": "CSS"
 				},
 				{
 					"programmingLangId": 4,
 					"website": "https://www.typescriptlang.org/",
-					"imageURL": "http://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/TypeScript.png",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/TypeScript.png",
 					"value": "TypeScript"
 				},
 				{
 					"programmingLangId": 5,
 					"website": "https://golang.org/",
-					"imageURL": "http://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Go.png",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Go.png",
 					"value": "Go"
 				}
 			]
@@ -101,18 +101,22 @@
 			"instruments": [
 				{
 					"instrumentId": 0,
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Mandolin.png",
 					"value": "Mandolin"
 				},
 				{
 					"instrumentId": 1,
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Guitar.png",
 					"value": "Guitar"
 				},
 				{
 					"instrumentId": 2,
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Tabla.png",
 					"value": "Tabla"
 				},
 				{
 					"instrumentId": 3,
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Harmonium.png",
 					"value": "Harmonium"
 				}
 			]

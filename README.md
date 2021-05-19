@@ -27,7 +27,8 @@ To run the server, open a terminal in the directory. Now type
 ```bash
 npm start
 ``` 
-to run the server. After you did that, go to [http://localhost:3000/](http://localhost:3000/)
+to run the server. After you did that, go to [http://localhost:3000/](http://localhost:3000/) or 
+[http://127.0.0.1:3000/](http://127.0.0.1:3000/)
 
 ## Technology(s) Used
 - Language: [JavaScript](https://www.javascript.com/)

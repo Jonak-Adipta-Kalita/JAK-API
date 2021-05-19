@@ -29,6 +29,11 @@ npm start
 ``` 
 to run the server. After you did that, go to [http://localhost:3000/](http://localhost:3000/)
 
+## Technology(s) Used
+- Language: [JavaScript](https://www.javascript.com/)
+- CSS Framework: [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+- Hosted: [Heroku](https://heroku.com/)
+
 ## Contributors
 <a href = "https://github.com/Jonak-Adipta-Kalita/JAK-Website/graphs/contributors">
 	<img src = "https://contrib.rocks/image?repo=Jonak-Adipta-Kalita/JAK-Website"/>

@@ -19,6 +19,8 @@ git clone https://github.com/Jonak-Adipta-Kalita/JAK-API.git
 To install the required modules, just open a terminal in the directory where this project is cloned. Now type: 
 ```bash
 npm i
+# or
+yarn
 ``` 
 and hit enter.
 
@@ -26,6 +28,8 @@ and hit enter.
 To run the server, open a terminal in the directory. Now type 
 ```bash
 npm start
+# or
+yarn start
 ``` 
 to run the server. After you did that, go to [http://localhost:3000/](http://localhost:3000/) or 
 [http://127.0.0.1:3000/](http://127.0.0.1:3000/)

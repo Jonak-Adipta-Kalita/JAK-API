@@ -40,6 +40,6 @@ to run the server. After you did that, go to [http://localhost:3000/](http://loc
 - Hosted: [Heroku](https://heroku.com/)
 
 ## Contributors
-<a href = "https://github.com/Jonak-Adipta-Kalita/JAK-Website/graphs/contributors">
-	<img src = "https://contrib.rocks/image?repo=Jonak-Adipta-Kalita/JAK-Website"/>
+<a href = "https://github.com/Jonak-Adipta-Kalita/JAK-API/graphs/contributors">
+	<img src="https://contrib.rocks/image?repo=Jonak-Adipta-Kalita/JAK-API" />
 </a>

@@ -4,7 +4,6 @@
 	"description": "A API for JAK",
 	"main": "server.js",
 	"author": "Jonak Adipta Kalita",
-	"license": "ISC",
 	"scripts": {
 		"start": "nodemon server.js"
 	},

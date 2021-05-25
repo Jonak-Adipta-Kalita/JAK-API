@@ -1,22 +1,29 @@
 {
-  "name": "jak-api",
-  "version": "1.0.0",
-  "description": "A API for JAK",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Jonak-Adipta-Kalita/JAK-API"
-  },
-  "keywords": [
-    "api",
-    "jak"
-  ],
-  "author": "Jonak Adipta Kalita",
-  "license": "ISC",
-  "dependencies": {
-    "json-server": "^0.16.3"
-  }
+	"name": "jak-api",
+	"version": "0.0.1",
+	"description": "A API for JAK",
+	"main": "server.js",
+	"author": "Jonak Adipta Kalita",
+	"license": "ISC",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Jonak-Adipta-Kalita/JAK-API.git"
+	},
+	"keywords": [
+		"api",
+		"details",
+		"hobby",
+		"favourite-food"
+	],
+	"dependencies": {
+		"json-server": "^0.16.3"
+	},
+	"devDependencies": {
+		"eslint": "^7.27.0",
+		"husky": "^6.0.0",
+		"lint-staged": "^11.0.0"
+	}
 }

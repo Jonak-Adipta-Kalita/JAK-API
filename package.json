@@ -6,7 +6,7 @@
 	"main": "server.js",
 	"scripts": {
 		"start": "nodemon server.js",
-		"test": "echo It Worked",
+		"test": "echo No Tests provided till now.",
 		"lint": "eslint .",
 		"lint:fix": "eslint --fix .",
 		"prettier": "prettier-eslint **/*.js --write",

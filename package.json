@@ -1,13 +1,16 @@
 {
 	"name": "jak-api",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "A API for JAK",
 	"author": "Jonak Adipta Kalita",
 	"main": "server.js",
 	"scripts": {
 		"start": "nodemon server.js",
-		"lint": "eslint **/*.js",
-		"lint:fix": "prettier-eslint **/*.js --write"
+		"test": "echo It Worked",
+		"lint": "eslint .",
+		"lint:fix": "eslint --fix .",
+		"prettier": "prettier-eslint **/*.js --write",
+		"prepare": "husky install"
 	},
 	"repository": {
 		"type": "git",
@@ -24,6 +27,7 @@
 	},
 	"devDependencies": {
 		"eslint": "^7.27.0",
+		"husky": "^6.0.0",
 		"nodemon": "^2.0.7",
 		"prettier-eslint": "^12.0.0",
 		"prettier-eslint-cli": "^5.0.1"

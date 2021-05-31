@@ -7,7 +7,7 @@
 
 Go to the [Website](http://jak-api-dot-com.herokuapp.com/)
 
-## You have to follow following steps to run this project
+## Steps
 
 ### Clone the Repository
 To Clone this Repository, open a terminal in a empty folder and type 

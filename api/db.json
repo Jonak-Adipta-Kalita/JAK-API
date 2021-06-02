@@ -1,157 +1,157 @@
-{	
-	"details": [
-		{
-			"id": 0,
-			"value": "My Self",
-			"occupation": "Student",
-			"place": "Mangaldoi, Assam",
-			"occupation-place-name": "Kendirya Vidyalaya, Mangaldoi"
-		},
-		{
-			"id": 1,
-			"value": "My Mom",
-			"occupation": "Banker",
-			"place": "Mangaldoi, Assam",
-			"subject": "Management & Accounts",
-			"branch": "Mangaldoi, Main Branch",
-			"occupation-place-name": "State Bank of India"
-		},
-		{
-			"id": 2,
-			"value": "My Dad",
-			"occupation": "Teacher",
-			"place": "Mangaldoi, Assam",
-			"subject": "Mathematics",
-			"occupation-place-name": "Kanaklata High School"
-		}
-	],
+{
+    "details": [
+        {
+            "id": 0,
+            "value": "My Self",
+            "occupation": "Student",
+            "place": "Mangaldoi, Assam",
+            "occupation-place-name": "Kendirya Vidyalaya, Mangaldoi"
+        },
+        {
+            "id": 1,
+            "value": "My Mom",
+            "occupation": "Banker",
+            "place": "Mangaldoi, Assam",
+            "subject": "Management & Accounts",
+            "branch": "Mangaldoi, Main Branch",
+            "occupation-place-name": "State Bank of India"
+        },
+        {
+            "id": 2,
+            "value": "My Dad",
+            "occupation": "Teacher",
+            "place": "Mangaldoi, Assam",
+            "subject": "Mathematics",
+            "occupation-place-name": "Kanaklata High School"
+        }
+    ],
 
     "hobby": [
-		{
-			"id": 0,
-			"value": "Gaming",
-			"games": [
-				{
-					"GameId": 0,
-					"value": "Pokemon Go",
-					"platform": "Mobile"
-				},
-				{
-					"GameId": 1,
-					"value": "Brawl Stars",
-					"platform": "Mobile"
-				},
-				{
-					"GameId": 2,
-					"value": "Need For Speed: Most Wanted",
-					"platform": "PC"
-				},
-				{
-					"GameId": 3,
-					"value": "Krunker.io",
-					"platform": "PC"
-				}
-			]
-		}, 
-		{
-			"id": 1,
-			"value": "Programming",
-			"languages": [
-				{
-					"programmingLangId": 0,
-					"website": "https://www.python.org/",
-					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Python.png",
-					"value": "Python"
-				},
-				{
-					"programmingLangId": 1,
-					"website": "https://html.com/",
-					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/HTML.png",
-					"value": "HTML"
-				},
-				{
-					"programmingLangId": 2,
-					"website": "https://www.javascript.com/",
-					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/JavaScript.png",
-					"value": "JavaScript"
-				},
-				{
-					"programmingLangId": 3,
-					"website": "https://css.com/",
-					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/CSS.png",
-					"value": "CSS"
-				},
-				{
-					"programmingLangId": 4,
-					"website": "https://www.typescriptlang.org/",
-					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/TypeScript.png",
-					"value": "TypeScript"
-				},
-				{
-					"programmingLangId": 5,
-					"website": "https://golang.org/",
-					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Go.png",
-					"value": "Go"
-				}
-			]
-		}, 
-		{
-			"id": 2,
-			"value": "Playing Instruments",
-			"instruments": [
-				{
-					"instrumentId": 0,
-					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Mandolin.png",
-					"value": "Mandolin"
-				},
-				{
-					"instrumentId": 1,
-					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Guitar.png",
-					"value": "Guitar"
-				},
-				{
-					"instrumentId": 2,
-					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Tabla.png",
-					"value": "Tabla"
-				},
-				{
-					"instrumentId": 3,
-					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Harmonium.png",
-					"value": "Harmonium"
-				}
-			]
-		}
-	],
+        {
+            "id": 0,
+            "value": "Gaming",
+            "games": [
+                {
+                    "GameId": 0,
+                    "value": "Pokemon Go",
+                    "platform": "Mobile"
+                },
+                {
+                    "GameId": 1,
+                    "value": "Brawl Stars",
+                    "platform": "Mobile"
+                },
+                {
+                    "GameId": 2,
+                    "value": "Need For Speed: Most Wanted",
+                    "platform": "PC"
+                },
+                {
+                    "GameId": 3,
+                    "value": "Krunker.io",
+                    "platform": "PC"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "value": "Programming",
+            "languages": [
+                {
+                    "programmingLangId": 0,
+                    "website": "https://www.python.org/",
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Python.png",
+                    "value": "Python"
+                },
+                {
+                    "programmingLangId": 1,
+                    "website": "https://html.com/",
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/HTML.png",
+                    "value": "HTML"
+                },
+                {
+                    "programmingLangId": 2,
+                    "website": "https://www.javascript.com/",
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/JavaScript.png",
+                    "value": "JavaScript"
+                },
+                {
+                    "programmingLangId": 3,
+                    "website": "https://css.com/",
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/CSS.png",
+                    "value": "CSS"
+                },
+                {
+                    "programmingLangId": 4,
+                    "website": "https://www.typescriptlang.org/",
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/TypeScript.png",
+                    "value": "TypeScript"
+                },
+                {
+                    "programmingLangId": 5,
+                    "website": "https://golang.org/",
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Go.png",
+                    "value": "Go"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "value": "Playing Instruments",
+            "instruments": [
+                {
+                    "instrumentId": 0,
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Mandolin.png",
+                    "value": "Mandolin"
+                },
+                {
+                    "instrumentId": 1,
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Guitar.png",
+                    "value": "Guitar"
+                },
+                {
+                    "instrumentId": 2,
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Tabla.png",
+                    "value": "Tabla"
+                },
+                {
+                    "instrumentId": 3,
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Harmonium.png",
+                    "value": "Harmonium"
+                }
+            ]
+        }
+    ],
 
-	"fav-food": [
-		{
-			"id": 0,
-			"value": "Chilli Chicken with Rice",
-			"ingredients": [
-				"Rice",
-				"Chicken",
-				"Bell Pepper (Capsicum)",
-				"Soy Sauce",
-				"Chilli Pepper",
-				"Garlic",
-				"Salt",
-				"Onion",
-				"Ginger",
-				"Spring Onion",
-				"Corn Flour"
-			]
-		},
-		{
-			"id": 2,
-			"value": "Egg Roll",
-			"ingredients": [
-				"Egg",
-				"Soy Sauce",
-				"Cabbage",
-				"Carrot",
-				"Onion",
-				"Spring Onion"
-			]
-		}
-	]
+    "fav-food": [
+        {
+            "id": 0,
+            "value": "Chilli Chicken with Rice",
+            "ingredients": [
+                "Rice",
+                "Chicken",
+                "Bell Pepper (Capsicum)",
+                "Soy Sauce",
+                "Chilli Pepper",
+                "Garlic",
+                "Salt",
+                "Onion",
+                "Ginger",
+                "Spring Onion",
+                "Corn Flour"
+            ]
+        },
+        {
+            "id": 2,
+            "value": "Egg Roll",
+            "ingredients": [
+                "Egg",
+                "Soy Sauce",
+                "Cabbage",
+                "Carrot",
+                "Onion",
+                "Spring Onion"
+            ]
+        }
+    ]
 }

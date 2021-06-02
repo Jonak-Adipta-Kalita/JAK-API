@@ -8,5 +8,5 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port, () => {
-  console.log(`Listening PORT: ${port}`);
+    console.log(`Listening PORT: ${port}`);
 });

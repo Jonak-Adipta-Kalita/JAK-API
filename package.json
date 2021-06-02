@@ -1,35 +1,34 @@
 {
-	"name": "jak-api",
-	"version": "0.0.6",
-	"description": "A API for JAK",
-	"author": "Jonak Adipta Kalita",
-	"main": "server.js",
-	"scripts": {
-		"start": "nodemon server.js",
-		"test": "echo No Tests provided till now.",
-		"lint": "eslint .",
-		"lint:fix": "eslint --fix .",
-		"prettier": "prettier-eslint **/*.js --write",
-		"prepare": "husky install"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Jonak-Adipta-Kalita/JAK-API.git"
-	},
-	"keywords": [
-		"api",
-		"details",
-		"hobby",
-		"favourite-food"
-	],
-	"dependencies": {
-		"json-server": "^0.16.3"
-	},
-	"devDependencies": {
-		"eslint": "^7.27.0",
-		"husky": "^6.0.0",
-		"nodemon": "^2.0.7",
-		"prettier-eslint": "^12.0.0",
-		"prettier-eslint-cli": "^5.0.1"
-	}
+    "name": "jak-api",
+    "version": "0.0.7",
+    "description": "A API for JAK",
+    "author": "Jonak Adipta Kalita",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon server.js",
+        "test": "echo No Tests provided till now.",
+        "lint": "eslint .",
+        "lint:fix": "eslint --fix .",
+        "prettier": "prettier --write **/*.{js,ts,md,json,css,scss,sass,html}",
+        "prepare": "husky install"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Jonak-Adipta-Kalita/JAK-API.git"
+    },
+    "keywords": [
+        "api",
+        "details",
+        "hobby",
+        "favourite-food"
+    ],
+    "dependencies": {
+        "json-server": "^0.16.3"
+    },
+    "devDependencies": {
+        "eslint": "^7.27.0",
+        "husky": "^6.0.0",
+        "nodemon": "^2.0.7",
+        "prettier": "^2.3.0"
+    }
 }

@@ -10,7 +10,8 @@
         "test": "echo No Tests provided till now.",
         "lint": "eslint .",
         "lint:fix": "eslint --fix .",
-        "prettier": "prettier --write **/*.{js,css,json,md}",
+        "prettier": "prettier **/*.{js,css,json,md}",
+		"prettier:fix": "prettier --write **/*.{js,css,json,md}",
         "prepare": "husky install"
     },
     "repository": {

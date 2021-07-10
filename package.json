@@ -5,13 +5,13 @@
     "author": "Jonak Adipta Kalita",
     "main": "server.js",
     "scripts": {
-		"start:prod": "node server.js",
+        "start:prod": "node server.js",
         "start:dev": "nodemon server.js localhost 3000",
         "test": "echo No Tests provided till now.",
         "lint": "eslint .",
         "lint:fix": "eslint --fix .",
         "prettier": "prettier **/*.{js,css,json,md}",
-		"prettier:fix": "prettier --write **/*.{js,css,json,md}",
+        "prettier:fix": "prettier --write **/*.{js,css,json,md}",
         "prepare": "husky install"
     },
     "repository": {

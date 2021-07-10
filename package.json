@@ -1,11 +1,12 @@
 {
     "name": "jak-api",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "description": "A API for JAK",
     "author": "Jonak Adipta Kalita",
     "main": "server.js",
     "scripts": {
-        "start": "nodemon server.js",
+		"start:prod": "node server.js",
+        "start:dev": "nodemon server.js localhost 3000",
         "test": "echo No Tests provided till now.",
         "lint": "eslint .",
         "lint:fix": "eslint --fix .",

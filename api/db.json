@@ -33,23 +33,53 @@
             "games": [
                 {
                     "id": 0,
-                    "value": "Pokemon Go",
-                    "platform": "Mobile"
+                    "platform": "Mobile",
+                    "value": "Pokemon Go"
                 },
                 {
                     "id": 1,
-                    "value": "Brawl Stars",
-                    "platform": "Mobile"
+                    "platform": "Mobile",
+                    "value": "Brawl Stars"
                 },
                 {
                     "id": 2,
-                    "value": "Need For Speed: Most Wanted",
-                    "platform": "PC"
+                    "platform": "Mobile",
+                    "value": "AmongUs"
                 },
                 {
                     "id": 3,
-                    "value": "Krunker.io",
-                    "platform": "PC"
+                    "platform": "Personal Computer",
+                    "value": "Need For Speed: Most Wanted"
+                },
+                {
+                    "id": 4,
+					"platform": "Personal Computer",
+                    "value": "Krunker.io"
+                },
+                {
+                    "id": 5,
+					"platform": "Personal Computer",
+                    "value": "Call of Duty: Modern Warfare 3"
+                },
+                {
+                    "id": 6,
+					"platform": "Personal Computer",
+                    "value": "Re Run"
+                },
+                {
+                    "id": 7,
+					"platform": "Personal Computer",
+                    "value": "Human Fall Flat"
+                },
+                {
+                    "id": 8,
+					"platform": "Personal Computer",
+                    "value": "One Hand Clapping"
+                },
+                {
+                    "id": 9,
+					"platform": "Personal Computer",
+                    "value": "Jelly Drift"
                 }
             ]
         },

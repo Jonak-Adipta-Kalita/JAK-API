@@ -5,7 +5,7 @@
             "value": "My Self",
             "occupation": "Student",
             "place": "Mangaldoi, Assam",
-            "occupation-place-name": "Kendirya Vidyalaya, Mangaldoi"
+            "occupation_place_name": "Kendirya Vidyalaya, Mangaldoi"
         },
         {
             "id": 1,
@@ -14,7 +14,7 @@
             "place": "Mangaldoi, Assam",
             "subject": "Management & Accounts",
             "branch": "Mangaldoi, Main Branch",
-            "occupation-place-name": "State Bank of India"
+            "occupation_place_name": "State Bank of India"
         },
         {
             "id": 2,
@@ -22,7 +22,7 @@
             "occupation": "Teacher",
             "place": "Mangaldoi, Assam",
             "subject": "Mathematics",
-            "occupation-place-name": "Kanaklata High School"
+            "occupation_place_name": "Kanaklata High School"
         }
     ],
 
@@ -53,32 +53,32 @@
                 },
                 {
                     "id": 4,
-					"platform": "Personal Computer",
+                    "platform": "Personal Computer",
                     "value": "Krunker.io"
                 },
                 {
                     "id": 5,
-					"platform": "Personal Computer",
+                    "platform": "Personal Computer",
                     "value": "Call of Duty: Modern Warfare 3"
                 },
                 {
                     "id": 6,
-					"platform": "Personal Computer",
+                    "platform": "Personal Computer",
                     "value": "Re Run"
                 },
                 {
                     "id": 7,
-					"platform": "Personal Computer",
+                    "platform": "Personal Computer",
                     "value": "Human Fall Flat"
                 },
                 {
                     "id": 8,
-					"platform": "Personal Computer",
+                    "platform": "Personal Computer",
                     "value": "One Hand Clapping"
                 },
                 {
                     "id": 9,
-					"platform": "Personal Computer",
+                    "platform": "Personal Computer",
                     "value": "Jelly Drift"
                 }
             ]
@@ -153,7 +153,7 @@
         }
     ],
 
-    "fav-food": [
+    "fav_food": [
         {
             "id": 0,
             "value": "Chilli Chicken with Rice",

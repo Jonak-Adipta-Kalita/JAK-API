@@ -32,22 +32,22 @@
             "value": "Gaming",
             "games": [
                 {
-                    "GameId": 0,
+                    "id": 0,
                     "value": "Pokemon Go",
                     "platform": "Mobile"
                 },
                 {
-                    "GameId": 1,
+                    "id": 1,
                     "value": "Brawl Stars",
                     "platform": "Mobile"
                 },
                 {
-                    "GameId": 2,
+                    "id": 2,
                     "value": "Need For Speed: Most Wanted",
                     "platform": "PC"
                 },
                 {
-                    "GameId": 3,
+                    "id": 3,
                     "value": "Krunker.io",
                     "platform": "PC"
                 }
@@ -58,40 +58,40 @@
             "value": "Programming",
             "languages": [
                 {
-                    "programmingLangId": 0,
+                    "id": 0,
+					"value": "Python",
                     "website": "https://www.python.org/",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Python.png",
-                    "value": "Python"
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Python.png"
                 },
                 {
-                    "programmingLangId": 1,
+                    "id": 1,
+					"value": "HTML",
                     "website": "https://html.com/",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/HTML.png",
-                    "value": "HTML"
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/HTML.png"
                 },
                 {
-                    "programmingLangId": 2,
+                    "id": 2,
                     "website": "https://www.javascript.com/",
                     "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/JavaScript.png",
                     "value": "JavaScript"
                 },
                 {
-                    "programmingLangId": 3,
+                    "id": 3,
+					"value": "CSS",
                     "website": "https://css.com/",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/CSS.png",
-                    "value": "CSS"
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/CSS.png"
                 },
                 {
-                    "programmingLangId": 4,
+                    "id": 4,
+					"value": "TypeScript",
                     "website": "https://www.typescriptlang.org/",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/TypeScript.png",
-                    "value": "TypeScript"
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/TypeScript.png"
                 },
                 {
-                    "programmingLangId": 5,
+                    "id": 5,
+					"value": "Go",
                     "website": "https://golang.org/",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Go.png",
-                    "value": "Go"
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Go.png"
                 }
             ]
         },
@@ -100,24 +100,24 @@
             "value": "Playing Instruments",
             "instruments": [
                 {
-                    "instrumentId": 0,
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Mandolin.png",
-                    "value": "Mandolin"
+                    "id": 0,
+					"value": "Mandolin",
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Mandolin.png"
                 },
                 {
-                    "instrumentId": 1,
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Guitar.png",
-                    "value": "Guitar"
+                    "id": 1,
+					"value": "Guitar",
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Guitar.png"
                 },
                 {
-                    "instrumentId": 2,
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Tabla.png",
-                    "value": "Tabla"
+                    "id": 2,
+					"value": "Tabla",
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Tabla.png"
                 },
                 {
-                    "instrumentId": 3,
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Harmonium.png",
-                    "value": "Harmonium"
+                    "id": 3,
+					"value": "Harmonium",
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Harmonium.png"
                 }
             ]
         }

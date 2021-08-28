@@ -24,6 +24,10 @@
         "hobby",
         "favourite-food"
     ],
+	"bugs": {
+        "url": "https://github.com/Jonak-Adipta-Kalita/JAK-API/issues"
+    },
+    "homepage": "https://github.com/Jonak-Adipta-Kalita/JAK-API#readme",
     "dependencies": {
         "json-server": "^0.16.3"
     },

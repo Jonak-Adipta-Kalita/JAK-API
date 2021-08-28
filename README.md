@@ -23,7 +23,7 @@ git clone https://github.com/Jonak-Adipta-Kalita/JAK-API.git
 
 ### Installing The Required Modules
 
-To install the required modules, just open a terminal in the directory where this project 
+To install the required modules, just open a terminal in the directory where this project
 is cloned. Now type:
 
 ```bash

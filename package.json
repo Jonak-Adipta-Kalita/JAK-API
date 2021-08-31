@@ -3,6 +3,7 @@
     "version": "0.0.8",
     "description": "A API for JAK",
     "author": "Jonak Adipta Kalita",
+	"license": "MIT",
     "main": "server.js",
     "scripts": {
         "start:prod": "node server.js",

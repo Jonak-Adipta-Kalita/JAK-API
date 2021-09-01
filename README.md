@@ -9,7 +9,7 @@
 
 </div>
 
-Go to the [Website](http://jak-api-dot-com.herokuapp.com/)
+Go to the [Website](http://jak-api-dot-com.herokuapp.com/), [Rapid API](https://rapidapi.com/Jonak-Adipta-Kalita/api/jak_api)
 
 ## Steps
 

@@ -3,6 +3,7 @@
 # JAK-API
 
 ![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fjak-api-dot-com.herokuapp.com)
+![License](https://img.shields.io/github/license/Jonak-Adipta-Kalita/JAK-API?style=for-the-badge)
 ![GitHub Repo Stars](https://img.shields.io/github/stars/Jonak-Adipta-Kalita/JAK-API?style=for-the-badge)
 ![GitHub Forks](https://img.shields.io/github/forks/Jonak-Adipta-Kalita/JAK-API?style=for-the-badge)
 ![GitHub Watchers](https://img.shields.io/github/watchers/Jonak-Adipta-Kalita/JAK-API?style=for-the-badge)

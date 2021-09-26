@@ -34,52 +34,74 @@
                 {
                     "id": 0,
                     "platform": "Mobile",
-                    "value": "Pokemon Go"
+                    "value": "Pokemon Go",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/PokemonGo.png"
                 },
                 {
                     "id": 1,
                     "platform": "Mobile",
-                    "value": "Brawl Stars"
+                    "value": "Brawl Stars",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/BrawlStars.png"
                 },
                 {
                     "id": 2,
                     "platform": "Mobile",
-                    "value": "AmongUs"
+                    "value": "Among Us",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/AmongUs.png"
                 },
                 {
                     "id": 3,
                     "platform": "Personal Computer",
-                    "value": "Need For Speed: Most Wanted"
+                    "value": "Need For Speed: Most Wanted 2005",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/MostWanted2005.png"
                 },
                 {
                     "id": 4,
                     "platform": "Personal Computer",
-                    "value": "Krunker.io"
+                    "value": "Need For Speed: Most Wanted 2012",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/MostWanted2012.png"
                 },
                 {
                     "id": 5,
                     "platform": "Personal Computer",
-                    "value": "Call of Duty: Modern Warfare 3"
+                    "value": "Krunker.io",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/KrunkerIo.png"
                 },
                 {
                     "id": 6,
                     "platform": "Personal Computer",
-                    "value": "Re Run"
+                    "value": "Call of Duty: Modern Warfare 3",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/ModernWarfare3.png"
                 },
                 {
                     "id": 7,
                     "platform": "Personal Computer",
-                    "value": "Human Fall Flat"
+                    "value": "Re Run",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/ReRun.png"
                 },
                 {
                     "id": 8,
                     "platform": "Personal Computer",
-                    "value": "One Hand Clapping"
+                    "value": "Human Fall Flat",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/HumanFallFlat.png"
                 },
                 {
                     "id": 9,
                     "platform": "Personal Computer",
-                    "value": "Jelly Drift"
+                    "value": "One Hand Clapping",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/OneHandClapping.png"
+                },
+                {
+                    "id": 10,
+                    "platform": "Personal Computer",
+                    "value": "Jelly Drift",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/JellyDrift.png"
+                },
+                {
+                    "id": 11,
+                    "platform": "Personal Computer",
+                    "value": "Minecraft",
+					"imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/Minecraft.png"
                 }
             ]
         },

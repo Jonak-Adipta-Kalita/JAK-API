@@ -101,9 +101,9 @@
                 },
                 {
                     "id": 2,
+					"value": "JavaScript",
                     "website": "https://www.javascript.com/",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/JavaScript.png",
-                    "value": "JavaScript"
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/JavaScript.png"
                 },
                 {
                     "id": 3,
@@ -122,6 +122,18 @@
                     "value": "Go",
                     "website": "https://golang.org/",
                     "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Go.png"
+                },
+                {
+                    "id": 6,
+                    "value": "C",
+                    "website": "https://www.cprogramming.com/",
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/C.png"
+                },
+                {
+                    "id": 7,
+                    "value": "C++",
+                    "website": "https://isocpp.org/",
+                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/C++.png"
                 }
             ]
         },

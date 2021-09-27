@@ -1,7 +1,7 @@
 {
     "name": "jak-api",
     "version": "0.0.8",
-    "description": "A API for JAK",
+    "description": "A API made by JAK",
     "author": "Jonak Adipta Kalita",
     "license": "MIT",
     "main": "server.js",

@@ -12,8 +12,6 @@
             "value": "My Mom",
             "occupation": "Banker",
             "place": "Mangaldoi, Assam",
-            "subject": "Management & Accounts",
-            "branch": "Mangaldoi, Main Branch",
             "occupation_place_name": "State Bank of India"
         },
         {
@@ -21,7 +19,6 @@
             "value": "My Dad",
             "occupation": "Teacher",
             "place": "Mangaldoi, Assam",
-            "subject": "Mathematics",
             "occupation_place_name": "Kanaklata High School"
         }
     ],

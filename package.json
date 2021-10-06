@@ -30,7 +30,7 @@
     },
     "homepage": "https://github.com/Jonak-Adipta-Kalita/JAK-API#readme",
     "dependencies": {
-        "json-server": "^0.16.3"
+        "json-server": "^0.17.0"
     },
     "devDependencies": {
         "eslint": "^7.32.0",

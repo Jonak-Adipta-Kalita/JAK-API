@@ -1,7 +1,7 @@
 {
     "short_name": "JAK API",
     "name": "Jonak Adipta Kalita's API",
-	"description": "A API made by JAK",
+    "description": "A API made by JAK",
     "icons": [
         {
             "src": "/images/logo.png",

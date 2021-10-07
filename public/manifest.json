@@ -1,0 +1,162 @@
+{
+    "short_name": "JAK API",
+    "name": "Jonak Adipta Kalita's API",
+    "icons": [
+        {
+            "src": "/images/logo.png",
+            "type": "image/png",
+            "sizes": "460x460",
+            "purpose": "any maskable"
+        },
+		{
+			"src": "/images/MusicalInstruments/Guitar.png",
+            "type": "image/png",
+            "sizes": "800x800",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/MusicalInstruments/Harmonium.png",
+            "type": "image/png",
+            "sizes": "600x600",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/MusicalInstruments/Mandolin.png",
+            "type": "image/png",
+            "sizes": "1224x1224",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/MusicalInstruments/Tabla.png",
+            "type": "image/png",
+            "sizes": "660x450",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/ProgrammingLanguage/C.png",
+            "type": "image/png",
+            "sizes": "1200x1326",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/ProgrammingLanguage/C++.png",
+            "type": "image/png",
+            "sizes": "225x225",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/ProgrammingLanguage/CSS.png",
+            "type": "image/png",
+            "sizes": "288x288",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/ProgrammingLanguage/Go.png",
+            "type": "image/png",
+            "sizes": "647x244",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/ProgrammingLanguage/HTML.png",
+            "type": "image/png",
+            "sizes": "288x288",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/ProgrammingLanguage/Python.png",
+            "type": "image/png",
+            "sizes": "288x288",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/ProgrammingLanguage/JavaScript.png",
+            "type": "image/png",
+            "sizes": "288x288",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/ProgrammingLanguage/TypeScript.png",
+            "type": "image/png",
+            "sizes": "288x288",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/FavouriteGames/AmongUs.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/FavouriteGames/BrawlStars.png",
+            "type": "image/png",
+            "sizes": "2140x1989",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/FavouriteGames/HumanFallFlat.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/FavouriteGames/JellyDrift.png",
+            "type": "image/png",
+            "sizes": "500x500",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/FavouriteGames/KrunkerIo.png",
+            "type": "image/png",
+            "sizes": "180x180",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/FavouriteGames/Minecraft.png",
+            "type": "image/png",
+            "sizes": "270x250",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/FavouriteGames/ModernWarfare3.png",
+            "type": "image/png",
+            "sizes": "345x341",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/FavouriteGames/MostWanted2005.png",
+            "type": "image/png",
+            "sizes": "800x181",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/FavouriteGames/MostWanted2012.png",
+            "type": "image/png",
+            "sizes": "544x160",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/FavouriteGames/OneHandClapping.png",
+            "type": "image/png",
+            "sizes": "200x200",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/FavouriteGames/PokemonGo.png",
+            "type": "image/png",
+            "sizes": "1200x1200",
+            "purpose": "any maskable"
+		},
+		{
+			"src": "/images/FavouriteGames/ReRun.png",
+            "type": "image/png",
+            "sizes": "136x175",
+            "purpose": "any maskable"
+		}
+    ],
+    "start_url": "/",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#d4edda",
+    "description": "A API made by JAK"
+}

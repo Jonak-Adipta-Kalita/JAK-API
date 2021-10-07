@@ -1,6 +1,7 @@
 {
     "short_name": "JAK API",
     "name": "Jonak Adipta Kalita's API",
+	"description": "A API made by JAK",
     "icons": [
         {
             "src": "/images/logo.png",
@@ -157,6 +158,5 @@
     "background_color": "#3367D6",
     "display": "standalone",
     "scope": "/",
-    "theme_color": "#d4edda",
-    "description": "A API made by JAK"
+    "theme_color": "#d4edda"
 }

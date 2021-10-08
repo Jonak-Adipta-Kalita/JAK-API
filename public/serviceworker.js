@@ -7,6 +7,7 @@ const filesToCache = [
     "/api/details",
     "/api/hobby",
     "/api/fav_food",
+	"/fonts/OtomanopeeOne-Regular.ttf",
     "/images/MusicalInstruments/Guitar.png",
     "/images/MusicalInstruments/Harmonium.png",
     "/images/MusicalInstruments/Mandolin.png",

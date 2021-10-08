@@ -4,9 +4,9 @@
 }
 
 body {
-	padding: 0;
+    padding: 0;
     margin: 0;
-	font-family: "Otomanopee One";
+    font-family: "Otomanopee One";
 }
 
 .header-title {
@@ -20,10 +20,10 @@ body {
 }
 
 .main-body .card-body p {
-	font-size: small !important;
+    font-size: small !important;
 }
 
 .main-body .base-url {
-	font-weight: bold;
-	font-size: large !important;
+    font-weight: bold;
+    font-size: large !important;
 }

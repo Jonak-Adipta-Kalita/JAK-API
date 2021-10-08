@@ -159,5 +159,5 @@
     "display": "standalone",
     "scope": "/",
     "theme_color": "#d4edda",
-	"orientation": "landscape"
+    "orientation": "landscape"
 }

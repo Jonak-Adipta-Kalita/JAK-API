@@ -1,6 +1,8 @@
 const staticCacheName = `jak-api-v${new Date().getTime()}`;
 const filesToCache = [
     "/",
+    "/manifest.json",
+    "/robots.txt",
     "/styles/style.css",
     "/scripts/script.js",
     "/images/logo.png",
@@ -58,13 +60,9 @@ self.addEventListener("activate", (event) => {
 
 self.addEventListener("fetch", (event) => {
     event.respondWith(
-        caches
-            .match(event.request)
-            .then((response) => {
-                return response || fetch(event.request);
-            })
-            .catch(() => {
-                return caches.match("offline");
-            })
+        fetch(event.request).catch((err) => {
+            console.log(err);
+            return caches.match(event.request);
+        })
     );
 });

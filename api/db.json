@@ -1,26 +1,32 @@
 {
     "details": [
-        {
-            "id": 0,
-            "value": "My Self",
-            "occupation": "Student",
-            "place": "Mangaldoi, Assam",
-            "occupation_place_name": "Kendirya Vidyalaya, Mangaldoi"
-        },
-        {
-            "id": 1,
-            "value": "My Mom",
-            "occupation": "Banker",
-            "place": "Mangaldoi, Assam",
-            "occupation_place_name": "State Bank of India"
-        },
-        {
-            "id": 2,
-            "value": "My Dad",
-            "occupation": "Teacher",
-            "place": "Mangaldoi, Assam",
-            "occupation_place_name": "Kanaklata High School"
-        }
+		{
+			"id": 0,
+			"value": "Family",
+			"members": [
+				{
+					"id": 0,
+					"value": "My Self",
+					"occupation": "Student",
+					"place": "Mangaldoi, Assam",
+					"occupation_place_name": "Kendirya Vidyalaya, Mangaldoi"
+				},
+				{
+					"id": 1,
+					"value": "My Mom",
+					"occupation": "Banker",
+					"place": "Mangaldoi, Assam",
+					"occupation_place_name": "State Bank of India"
+				},
+				{
+					"id": 2,
+					"value": "My Dad",
+					"occupation": "Teacher",
+					"place": "Mangaldoi, Assam",
+					"occupation_place_name": "Kanaklata High School"
+				}
+			]
+		}
     ],
 
     "hobby": [

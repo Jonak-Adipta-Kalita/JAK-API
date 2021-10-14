@@ -33,7 +33,7 @@
         "json-server": "^0.17.0"
     },
     "devDependencies": {
-        "eslint": "^7.32.0",
+        "eslint": "^8.0.1",
         "husky": "^7.0.2",
         "jest": "^27.2.5",
         "nodemon": "^2.0.13",

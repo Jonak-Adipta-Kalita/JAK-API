@@ -126,13 +126,13 @@
         {
             "src": "/images/FavouriteGames/MostWanted2005.png",
             "type": "image/png",
-            "sizes": "800x181",
+            "sizes": "500x500",
             "purpose": "any maskable"
         },
         {
             "src": "/images/FavouriteGames/MostWanted2012.png",
             "type": "image/png",
-            "sizes": "544x160",
+            "sizes": "1134x1134",
             "purpose": "any maskable"
         },
         {

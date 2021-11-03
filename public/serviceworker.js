@@ -5,7 +5,7 @@ const filesToCache = [
     "/robots.txt",
     "/styles/style.css",
     "/scripts/script.js",
-    "/images/logo.png",
+    "/favicon.ico",
     "/api/details",
     "/api/hobby",
     "/api/fav_food",

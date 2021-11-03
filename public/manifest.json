@@ -4,9 +4,9 @@
     "description": "A API made by JAK",
     "icons": [
         {
-            "src": "/images/logo.png",
-            "type": "image/png",
-            "sizes": "460x460",
+            "src": "/favicon.ico",
+            "type": "image/ico",
+            "sizes": "256x256",
             "purpose": "any maskable"
         },
         {

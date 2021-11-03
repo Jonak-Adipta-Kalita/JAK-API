@@ -152,6 +152,18 @@
             "type": "image/png",
             "sizes": "136x175",
             "purpose": "any maskable"
+        },
+        {
+            "src": "/images/FavouriteFoods/ChilliChickenWithRice.png",
+            "type": "image/png",
+            "sizes": "609x409",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/FavouriteFoods/EggRoll.png",
+            "type": "image/png",
+            "sizes": "500x500",
+            "purpose": "any maskable"
         }
     ],
     "start_url": "/",

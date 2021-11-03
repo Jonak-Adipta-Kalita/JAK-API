@@ -38,73 +38,73 @@
                     "id": 0,
                     "platform": "Mobile",
                     "value": "Pokemon Go",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/PokemonGo.png"
+                    "imageURL": "/images/FavouriteGames/PokemonGo.png"
                 },
                 {
                     "id": 1,
                     "platform": "Mobile",
                     "value": "Brawl Stars",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/BrawlStars.png"
+                    "imageURL": "/images/FavouriteGames/BrawlStars.png"
                 },
                 {
                     "id": 2,
                     "platform": "Mobile",
                     "value": "Among Us",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/AmongUs.png"
+                    "imageURL": "/images/FavouriteGames/AmongUs.png"
                 },
                 {
                     "id": 3,
                     "platform": "Personal Computer",
                     "value": "Need For Speed: Most Wanted 2005",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/MostWanted2005.png"
+                    "imageURL": "/images/FavouriteGames/MostWanted2005.png"
                 },
                 {
                     "id": 4,
                     "platform": "Personal Computer",
                     "value": "Need For Speed: Most Wanted 2012",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/MostWanted2012.png"
+                    "imageURL": "/images/FavouriteGames/MostWanted2012.png"
                 },
                 {
                     "id": 5,
                     "platform": "Personal Computer",
                     "value": "Krunker.io",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/KrunkerIo.png"
+                    "imageURL": "/images/FavouriteGames/KrunkerIo.png"
                 },
                 {
                     "id": 6,
                     "platform": "Personal Computer",
                     "value": "Call of Duty: Modern Warfare 3",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/ModernWarfare3.png"
+                    "imageURL": "/images/FavouriteGames/ModernWarfare3.png"
                 },
                 {
                     "id": 7,
                     "platform": "Personal Computer",
                     "value": "Re Run",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/ReRun.png"
+                    "imageURL": "/images/FavouriteGames/ReRun.png"
                 },
                 {
                     "id": 8,
                     "platform": "Personal Computer",
                     "value": "Human Fall Flat",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/HumanFallFlat.png"
+                    "imageURL": "/images/FavouriteGames/HumanFallFlat.png"
                 },
                 {
                     "id": 9,
                     "platform": "Personal Computer",
                     "value": "One Hand Clapping",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/OneHandClapping.png"
+                    "imageURL": "/images/FavouriteGames/OneHandClapping.png"
                 },
                 {
                     "id": 10,
                     "platform": "Personal Computer",
                     "value": "Jelly Drift",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/JellyDrift.png"
+                    "imageURL": "/images/FavouriteGames/JellyDrift.png"
                 },
                 {
                     "id": 11,
                     "platform": "Personal Computer",
                     "value": "Minecraft",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/FavouriteGames/Minecraft.png"
+                    "imageURL": "/images/FavouriteGames/Minecraft.png"
                 }
             ]
         },
@@ -116,49 +116,49 @@
                     "id": 0,
                     "value": "Python",
                     "website": "https://www.python.org/",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Python.png"
+                    "imageURL": "/images/ProgrammingLanguage/Python.png"
                 },
                 {
                     "id": 1,
                     "value": "HTML",
                     "website": "https://html.com/",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/HTML.png"
+                    "imageURL": "/images/ProgrammingLanguage/HTML.png"
                 },
                 {
                     "id": 2,
                     "value": "JavaScript",
                     "website": "https://www.javascript.com/",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/JavaScript.png"
+                    "imageURL": "/images/ProgrammingLanguage/JavaScript.png"
                 },
                 {
                     "id": 3,
                     "value": "CSS",
                     "website": "https://css.com/",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/CSS.png"
+                    "imageURL": "/images/ProgrammingLanguage/CSS.png"
                 },
                 {
                     "id": 4,
                     "value": "TypeScript",
                     "website": "https://www.typescriptlang.org/",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/TypeScript.png"
+                    "imageURL": "/images/ProgrammingLanguage/TypeScript.png"
                 },
                 {
                     "id": 5,
                     "value": "Go",
                     "website": "https://golang.org/",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/Go.png"
+                    "imageURL": "/images/ProgrammingLanguage/Go.png"
                 },
                 {
                     "id": 6,
                     "value": "C",
                     "website": "https://www.cprogramming.com/",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/C.png"
+                    "imageURL": "/images/ProgrammingLanguage/C.png"
                 },
                 {
                     "id": 7,
                     "value": "C++",
                     "website": "https://isocpp.org/",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/ProgrammingLanguage/C++.png"
+                    "imageURL": "/images/ProgrammingLanguage/C++.png"
                 }
             ]
         },
@@ -169,22 +169,22 @@
                 {
                     "id": 0,
                     "value": "Mandolin",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Mandolin.png"
+                    "imageURL": "/images/MusicalInstruments/Mandolin.png"
                 },
                 {
                     "id": 1,
                     "value": "Guitar",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Guitar.png"
+                    "imageURL": "/images/MusicalInstruments/Guitar.png"
                 },
                 {
                     "id": 2,
                     "value": "Tabla",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Tabla.png"
+                    "imageURL": "/images/MusicalInstruments/Tabla.png"
                 },
                 {
                     "id": 3,
                     "value": "Harmonium",
-                    "imageURL": "https://jak-api-dot-com.herokuapp.com/images/MusicalInstruments/Harmonium.png"
+                    "imageURL": "/images/MusicalInstruments/Harmonium.png"
                 }
             ]
         }
@@ -194,6 +194,7 @@
         {
             "id": 0,
             "value": "Chilli Chicken with Rice",
+            "imageURL": "/images/FavouriteFoods/ChilliChickenWithRice.png",
             "ingredients": [
                 "Rice",
                 "Chicken",
@@ -211,6 +212,7 @@
         {
             "id": 2,
             "value": "Egg Roll",
+            "imageURL": "/images/FavouriteFoods/EggRoll.png",
             "ingredients": [
                 "Egg",
                 "Soy Sauce",

@@ -1,5 +1,5 @@
 const staticCacheName = `jak-api-v${new Date().getTime()}`;
-const filesToCache = [
+const urlsToCache = [
     "/",
     "/manifest.json",
     "/robots.txt",
@@ -34,13 +34,22 @@ const filesToCache = [
     "/images/FavouriteGames/OneHandClapping.png",
     "/images/FavouriteGames/PokemonGo.png",
     "/images/FavouriteGames/ReRun.png",
+    "/images/FavouriteFoods/ChilliChickenWithRice.png",
+    "/images/FavouriteFoods/EggRoll.png",
+    "https://code.jquery.com/jquery-3.5.1.slim.min.js",
+    "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css",
+    "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js",
 ];
 
 self.addEventListener("install", (event) => {
     this.skipWaiting();
     event.waitUntil(
         caches.open(staticCacheName).then((cache) => {
-            return cache.addAll(filesToCache);
+            cache.addAll(
+                urlsToCache.map((urlToCache) => {
+                    return new Request(urlToCache, { mode: "cors" });
+                })
+            );
         })
     );
 });

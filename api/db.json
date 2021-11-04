@@ -38,73 +38,73 @@
                     "id": 0,
                     "platform": "Mobile",
                     "value": "Pokemon Go",
-                    "imageURL": "/images/FavouriteGames/PokemonGo.png"
+                    "imageURL": "/images/hobby/favouriteGames/PokemonGo.png"
                 },
                 {
                     "id": 1,
                     "platform": "Mobile",
                     "value": "Brawl Stars",
-                    "imageURL": "/images/FavouriteGames/BrawlStars.png"
+                    "imageURL": "/images/hobby/favouriteGames/BrawlStars.png"
                 },
                 {
                     "id": 2,
                     "platform": "Mobile",
                     "value": "Among Us",
-                    "imageURL": "/images/FavouriteGames/AmongUs.png"
+                    "imageURL": "/images/hobby/favouriteGames/AmongUs.png"
                 },
                 {
                     "id": 3,
                     "platform": "Personal Computer",
                     "value": "Need For Speed: Most Wanted 2005",
-                    "imageURL": "/images/FavouriteGames/MostWanted2005.png"
+                    "imageURL": "/images/hobby/favouriteGames/MostWanted2005.png"
                 },
                 {
                     "id": 4,
                     "platform": "Personal Computer",
                     "value": "Need For Speed: Most Wanted 2012",
-                    "imageURL": "/images/FavouriteGames/MostWanted2012.png"
+                    "imageURL": "/images/hobby/favouriteGames/MostWanted2012.png"
                 },
                 {
                     "id": 5,
                     "platform": "Personal Computer",
                     "value": "Krunker.io",
-                    "imageURL": "/images/FavouriteGames/KrunkerIo.png"
+                    "imageURL": "/images/hobby/favouriteGames/KrunkerIo.png"
                 },
                 {
                     "id": 6,
                     "platform": "Personal Computer",
                     "value": "Call of Duty: Modern Warfare 3",
-                    "imageURL": "/images/FavouriteGames/ModernWarfare3.png"
+                    "imageURL": "/images/hobby/favouriteGames/ModernWarfare3.png"
                 },
                 {
                     "id": 7,
                     "platform": "Personal Computer",
                     "value": "Re Run",
-                    "imageURL": "/images/FavouriteGames/ReRun.png"
+                    "imageURL": "/images/hobby/favouriteGames/ReRun.png"
                 },
                 {
                     "id": 8,
                     "platform": "Personal Computer",
                     "value": "Human Fall Flat",
-                    "imageURL": "/images/FavouriteGames/HumanFallFlat.png"
+                    "imageURL": "/images/hobby/favouriteGames/HumanFallFlat.png"
                 },
                 {
                     "id": 9,
                     "platform": "Personal Computer",
                     "value": "One Hand Clapping",
-                    "imageURL": "/images/FavouriteGames/OneHandClapping.png"
+                    "imageURL": "/images/hobby/favouriteGames/OneHandClapping.png"
                 },
                 {
                     "id": 10,
                     "platform": "Personal Computer",
                     "value": "Jelly Drift",
-                    "imageURL": "/images/FavouriteGames/JellyDrift.png"
+                    "imageURL": "/images/hobby/favouriteGames/JellyDrift.png"
                 },
                 {
                     "id": 11,
                     "platform": "Personal Computer",
                     "value": "Minecraft",
-                    "imageURL": "/images/FavouriteGames/Minecraft.png"
+                    "imageURL": "/images/hobby/favouriteGames/Minecraft.png"
                 }
             ]
         },
@@ -116,49 +116,49 @@
                     "id": 0,
                     "value": "Python",
                     "website": "https://www.python.org/",
-                    "imageURL": "/images/ProgrammingLanguage/Python.png"
+                    "imageURL": "/images/hobby/programming/languages/Python.png"
                 },
                 {
                     "id": 1,
                     "value": "HTML",
                     "website": "https://html.com/",
-                    "imageURL": "/images/ProgrammingLanguage/HTML.png"
+                    "imageURL": "/images/hobby/programming/languages/HTML.png"
                 },
                 {
                     "id": 2,
                     "value": "JavaScript",
                     "website": "https://www.javascript.com/",
-                    "imageURL": "/images/ProgrammingLanguage/JavaScript.png"
+                    "imageURL": "/images/hobby/programming/languages/JavaScript.png"
                 },
                 {
                     "id": 3,
                     "value": "CSS",
                     "website": "https://css.com/",
-                    "imageURL": "/images/ProgrammingLanguage/CSS.png"
+                    "imageURL": "/images/hobby/programming/languages/CSS.png"
                 },
                 {
                     "id": 4,
                     "value": "TypeScript",
                     "website": "https://www.typescriptlang.org/",
-                    "imageURL": "/images/ProgrammingLanguage/TypeScript.png"
+                    "imageURL": "/images/hobby/programming/languages/TypeScript.png"
                 },
                 {
                     "id": 5,
                     "value": "Go",
                     "website": "https://golang.org/",
-                    "imageURL": "/images/ProgrammingLanguage/Go.png"
+                    "imageURL": "/images/hobby/programming/languages/Go.png"
                 },
                 {
                     "id": 6,
                     "value": "C",
-                    "website": "https://www.cprogramming.com/",
-                    "imageURL": "/images/ProgrammingLanguage/C.png"
+                    "website": "https://www.chobby/programming.com/",
+                    "imageURL": "/images/hobby/programming/languages/C.png"
                 },
                 {
                     "id": 7,
                     "value": "C++",
                     "website": "https://isocpp.org/",
-                    "imageURL": "/images/ProgrammingLanguage/C++.png"
+                    "imageURL": "/images/hobby/programming/languages/C++.png"
                 }
             ]
         },
@@ -169,22 +169,22 @@
                 {
                     "id": 0,
                     "value": "Mandolin",
-                    "imageURL": "/images/MusicalInstruments/Mandolin.png"
+                    "imageURL": "/images/hobby/musicalInstruments/Mandolin.png"
                 },
                 {
                     "id": 1,
                     "value": "Guitar",
-                    "imageURL": "/images/MusicalInstruments/Guitar.png"
+                    "imageURL": "/images/hobby/musicalInstruments/Guitar.png"
                 },
                 {
                     "id": 2,
                     "value": "Tabla",
-                    "imageURL": "/images/MusicalInstruments/Tabla.png"
+                    "imageURL": "/images/hobby/musicalInstruments/Tabla.png"
                 },
                 {
                     "id": 3,
                     "value": "Harmonium",
-                    "imageURL": "/images/MusicalInstruments/Harmonium.png"
+                    "imageURL": "/images/hobby/musicalInstruments/Harmonium.png"
                 }
             ]
         }
@@ -194,7 +194,7 @@
         {
             "id": 0,
             "value": "Chilli Chicken with Rice",
-            "imageURL": "/images/FavouriteFoods/ChilliChickenWithRice.png",
+            "imageURL": "/images/favouriteFoods/ChilliChickenWithRice.png",
             "ingredients": [
                 "Rice",
                 "Chicken",
@@ -212,7 +212,7 @@
         {
             "id": 2,
             "value": "Egg Roll",
-            "imageURL": "/images/FavouriteFoods/EggRoll.png",
+            "imageURL": "/images/favouriteFoods/EggRoll.png",
             "ingredients": [
                 "Egg",
                 "Soy Sauce",

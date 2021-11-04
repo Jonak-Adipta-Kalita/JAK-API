@@ -10,157 +10,157 @@
             "purpose": "any maskable"
         },
         {
-            "src": "/images/MusicalInstruments/Guitar.png",
+            "src": "/images/hobby/musicalInstruments/Guitar.png",
             "type": "image/png",
             "sizes": "800x800",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/MusicalInstruments/Harmonium.png",
+            "src": "/images/hobby/musicalInstruments/Harmonium.png",
             "type": "image/png",
             "sizes": "600x600",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/MusicalInstruments/Mandolin.png",
+            "src": "/images/hobby/musicalInstruments/Mandolin.png",
             "type": "image/png",
             "sizes": "1224x1224",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/MusicalInstruments/Tabla.png",
+            "src": "/images/hobby/musicalInstruments/Tabla.png",
             "type": "image/png",
             "sizes": "660x450",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/ProgrammingLanguage/C.png",
+            "src": "/images/programming/languages/C.png",
             "type": "image/png",
             "sizes": "1200x1326",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/ProgrammingLanguage/C++.png",
+            "src": "/images/programming/languages/C++.png",
             "type": "image/png",
             "sizes": "225x225",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/ProgrammingLanguage/CSS.png",
+            "src": "/images/programming/languages/CSS.png",
             "type": "image/png",
             "sizes": "288x288",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/ProgrammingLanguage/Go.png",
+            "src": "/images/programming/languages/Go.png",
             "type": "image/png",
             "sizes": "647x647",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/ProgrammingLanguage/HTML.png",
+            "src": "/images/programming/languages/HTML.png",
             "type": "image/png",
             "sizes": "288x288",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/ProgrammingLanguage/Python.png",
+            "src": "/images/programming/languages/Python.png",
             "type": "image/png",
             "sizes": "288x288",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/ProgrammingLanguage/JavaScript.png",
+            "src": "/images/programming/languages/JavaScript.png",
             "type": "image/png",
             "sizes": "288x288",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/ProgrammingLanguage/TypeScript.png",
+            "src": "/images/programming/languages/TypeScript.png",
             "type": "image/png",
             "sizes": "288x288",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/FavouriteGames/AmongUs.png",
+            "src": "/images/hobby/favouriteGames/AmongUs.png",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/FavouriteGames/BrawlStars.png",
+            "src": "/images/hobby/favouriteGames/BrawlStars.png",
             "type": "image/png",
             "sizes": "2140x1989",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/FavouriteGames/HumanFallFlat.png",
+            "src": "/images/hobby/favouriteGames/HumanFallFlat.png",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/FavouriteGames/JellyDrift.png",
+            "src": "/images/hobby/favouriteGames/JellyDrift.png",
             "type": "image/png",
             "sizes": "500x500",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/FavouriteGames/KrunkerIo.png",
+            "src": "/images/hobby/favouriteGames/KrunkerIo.png",
             "type": "image/png",
             "sizes": "180x180",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/FavouriteGames/Minecraft.png",
+            "src": "/images/hobby/favouriteGames/Minecraft.png",
             "type": "image/png",
             "sizes": "270x250",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/FavouriteGames/ModernWarfare3.png",
+            "src": "/images/hobby/favouriteGames/ModernWarfare3.png",
             "type": "image/png",
             "sizes": "345x341",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/FavouriteGames/MostWanted2005.png",
+            "src": "/images/hobby/favouriteGames/MostWanted2005.png",
             "type": "image/png",
             "sizes": "500x500",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/FavouriteGames/MostWanted2012.png",
+            "src": "/images/hobby/favouriteGames/MostWanted2012.png",
             "type": "image/png",
             "sizes": "1134x1134",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/FavouriteGames/OneHandClapping.png",
+            "src": "/images/hobby/favouriteGames/OneHandClapping.png",
             "type": "image/png",
             "sizes": "200x200",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/FavouriteGames/PokemonGo.png",
+            "src": "/images/hobby/favouriteGames/PokemonGo.png",
             "type": "image/png",
             "sizes": "1200x1200",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/FavouriteGames/ReRun.png",
+            "src": "/images/hobby/favouriteGames/ReRun.png",
             "type": "image/png",
             "sizes": "136x175",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/FavouriteFoods/ChilliChickenWithRice.png",
+            "src": "/images/favouriteFoods/ChilliChickenWithRice.png",
             "type": "image/png",
             "sizes": "609x409",
             "purpose": "any maskable"
         },
         {
-            "src": "/images/FavouriteFoods/EggRoll.png",
+            "src": "/images/favouriteFoods/EggRoll.png",
             "type": "image/png",
             "sizes": "500x500",
             "purpose": "any maskable"

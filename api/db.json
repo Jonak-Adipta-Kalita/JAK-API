@@ -161,113 +161,113 @@
                     "imageURL": "/images/hobby/programming/languages/C++.png"
                 }
             ],
-			"frameworks": [
-				{
-					"id": 0,
+            "frameworks": [
+                {
+                    "id": 0,
                     "value": "Django",
                     "website": "https://www.djangoproject.com/",
-					"languages": ["Python"],
+                    "languages": ["Python"],
                     "imageURL": "/images/hobby/programming/frameworks/Django.png"
-				},
-				{
-					"id": 1,
+                },
+                {
+                    "id": 1,
                     "value": "React",
                     "website": "https://reactjs.org/",
-					"languages": ["JavaScript"],
+                    "languages": ["JavaScript"],
                     "imageURL": "/images/hobby/programming/frameworks/React.png"
-				},
-				{
-					"id": 2,
+                },
+                {
+                    "id": 2,
                     "value": "React Native",
                     "website": "https://reactnative.dev/",
-					"languages": ["JavaScript"],
+                    "languages": ["JavaScript"],
                     "imageURL": "/images/hobby/programming/frameworks/ReactNative.png"
-				},
-				{
-					"id": 3,
+                },
+                {
+                    "id": 3,
                     "value": "Next",
                     "website": "https://nextjs.org/",
-					"languages": ["JavaScript"],
+                    "languages": ["JavaScript"],
                     "imageURL": "/images/hobby/programming/frameworks/Next.png"
-				},
-				{
-					"id": 4,
+                },
+                {
+                    "id": 4,
                     "value": "Bootstrap",
                     "website": "https://getbootstrap.com/",
-					"languages": ["CSS"],
+                    "languages": ["CSS"],
                     "imageURL": "/images/hobby/programming/frameworks/Bootstrap.png"
-				},
-				{
-					"id": 5,
+                },
+                {
+                    "id": 5,
                     "value": "Tailwind",
                     "website": "https://tailwindcss.com/",
-					"languages": ["CSS"],
+                    "languages": ["CSS"],
                     "imageURL": "/images/hobby/programming/frameworks/Tailwind.png"
-				},
-				{
-					"id": 6,
+                },
+                {
+                    "id": 6,
                     "value": "Svelte",
                     "website": "https://svelte.dev/",
-					"languages": ["JavaScript"],
+                    "languages": ["JavaScript"],
                     "imageURL": "/images/hobby/programming/frameworks/Svelte.png"
-				},
-				{
-					"id": 7,
+                },
+                {
+                    "id": 7,
                     "value": "OpenCV",
                     "website": "https://opencv.org/",
-					"languages": ["Python", "C++"],
+                    "languages": ["Python", "C++"],
                     "imageURL": "/images/hobby/programming/frameworks/OpenCV.png"
-				},
-				{
-					"id": 8,
+                },
+                {
+                    "id": 8,
                     "value": "Raylib",
                     "website": "https://www.raylib.com/",
-					"languages": ["C", "C++"],
+                    "languages": ["C", "C++"],
                     "imageURL": "/images/hobby/programming/frameworks/Raylib.png"
-				},
-				{
-					"id": 9,
+                },
+                {
+                    "id": 9,
                     "value": "Pygame",
                     "website": "https://www.pygame.org/",
-					"languages": ["Python"],
+                    "languages": ["Python"],
                     "imageURL": "/images/hobby/programming/frameworks/Pygame.png"
-				},
-				{
-					"id": 10,
+                },
+                {
+                    "id": 10,
                     "value": "SDL",
                     "website": "https://www.libsdl.org/",
-					"languages": ["C", "C++", "C#", "Python"],
+                    "languages": ["C", "C++", "C#", "Python"],
                     "imageURL": "/images/hobby/programming/frameworks/SDL.png"
-				},
-				{
-					"id": 11,
+                },
+                {
+                    "id": 11,
                     "value": "Arcade",
                     "website": "https://api.arcade.academy/",
-					"languages": ["Python"],
+                    "languages": ["Python"],
                     "imageURL": "/images/hobby/programming/frameworks/Arcade.png"
-				},
-				{
-					"id": 12,
+                },
+                {
+                    "id": 12,
                     "value": "Ursina",
                     "website": "https://www.ursinaengine.org/",
-					"languages": ["Python"],
+                    "languages": ["Python"],
                     "imageURL": "/images/hobby/programming/frameworks/Ursina.png"
-				},
-				{
-					"id": 13,
+                },
+                {
+                    "id": 13,
                     "value": "Panda3D",
                     "website": "https://www.panda3d.org/",
-					"languages": ["Python", "C++"],
+                    "languages": ["Python", "C++"],
                     "imageURL": "/images/hobby/programming/frameworks/Panda3D.png"
-				},
-				{
-					"id": 14,
+                },
+                {
+                    "id": 14,
                     "value": "Electron",
                     "website": "https://www.electronjs.org/",
-					"languages": ["JavaScript"],
+                    "languages": ["JavaScript"],
                     "imageURL": "/images/hobby/programming/frameworks/Electron.png"
-				}
-			]
+                }
+            ]
         },
         {
             "id": 2,

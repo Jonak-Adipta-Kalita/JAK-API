@@ -164,6 +164,96 @@
             "type": "image/png",
             "sizes": "500x500",
             "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/Django.png",
+            "type": "image/png",
+            "sizes": "32x32",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/React.png",
+            "type": "image/png",
+            "sizes": "288x288",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/ReactNative.png",
+            "type": "image/png",
+            "sizes": "288x288",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/Next.png",
+            "type": "image/png",
+            "sizes": "32x32",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/Bootstrap.png",
+            "type": "image/png",
+            "sizes": "288x288",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/Tailwind.png",
+            "type": "image/png",
+            "sizes": "32x32",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/Svelte.png",
+            "type": "image/png",
+            "sizes": "1702x2049",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/OpenCV.png",
+            "type": "image/png",
+            "sizes": "2623x3472",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/Raylib.png",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/Pygame.png",
+            "type": "image/png",
+            "sizes": "594x420",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/SDL.png",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/Arcade.png",
+            "type": "image/png",
+            "sizes": "223x226",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/Ursina.png",
+            "type": "image/png",
+            "sizes": "88x88",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/Panda3D.png",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/programming/frameworks/Electron.png",
+            "type": "image/png",
+            "sizes": "1200x1200",
+            "purpose": "any maskable"
         }
     ],
     "start_url": "/",

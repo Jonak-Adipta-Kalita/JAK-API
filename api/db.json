@@ -292,6 +292,16 @@
                     "id": 3,
                     "value": "Harmonium",
                     "imageURL": "/images/hobby/musicalInstruments/Harmonium.png"
+                },
+                {
+                    "id": 4,
+                    "value": "Keyboard",
+                    "imageURL": "/images/hobby/musicalInstruments/Keyboard.png"
+                },
+                {
+                    "id": 4,
+                    "value": "Congo",
+                    "imageURL": "/images/hobby/musicalInstruments/Congo.png"
                 }
             ]
         }

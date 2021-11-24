@@ -34,6 +34,18 @@
             "purpose": "any maskable"
         },
         {
+            "src": "/images/hobby/musicalInstruments/Keyboard.png",
+            "type": "image/png",
+            "sizes": "500x500",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/hobby/musicalInstruments/Congo.png",
+            "type": "image/png",
+            "sizes": "418x296",
+            "purpose": "any maskable"
+        },
+        {
             "src": "/images/hobby/programming/languages/C.png",
             "type": "image/png",
             "sizes": "1200x1326",

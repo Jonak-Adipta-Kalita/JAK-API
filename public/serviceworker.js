@@ -14,6 +14,8 @@ const urlsToCache = [
     "/images/hobby/musicalInstruments/Harmonium.png",
     "/images/hobby/musicalInstruments/Mandolin.png",
     "/images/hobby/musicalInstruments/Tabla.png",
+    "/images/hobby/musicalInstruments/Congo.png",
+    "/images/hobby/musicalInstruments/Keyboard.png",
     "/images/hobby/programming/languages/C.png",
     "/images/hobby/programming/languages/C++.png",
     "/images/hobby/programming/languages/CSS.png",

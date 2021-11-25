@@ -272,6 +272,54 @@
             "type": "image/png",
             "sizes": "32x32",
             "purpose": "any maskable"
+        },
+        {
+            "src": "/images/socialMedias/Spotify.png",
+            "type": "image/png",
+            "sizes": "32x32",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/socialMedias/YouTube.png",
+            "type": "image/png",
+            "sizes": "128x128",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/socialMedias/Discord.png",
+            "type": "image/png",
+            "sizes": "128x128",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/socialMedias/Instagram.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/socialMedias/Twitter.png",
+            "type": "image/png",
+            "sizes": "128x128",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/socialMedias/Twitch.png",
+            "type": "image/png",
+            "sizes": "32x32",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/socialMedias/Reddit.png",
+            "type": "image/png",
+            "sizes": "57x57",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/socialMedias/Steam.png",
+            "type": "image/png",
+            "sizes": "1200x1200",
+            "purpose": "any maskable"
         }
     ],
     "start_url": "/",

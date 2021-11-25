@@ -346,7 +346,57 @@
             "id": 0,
             "value": "Github",
             "imageURL": "/images/socialMedias/Github.png",
-            "link": "https://github.com/Jonak-Adipta-Kalita"
+            "link": "https://github.com/Jonak-Adipta-Kalita",
+            "username": "Jonak-Adipta-Kalita"
+        },
+        {
+            "id": 1,
+            "value": "Spotify",
+            "imageURL": "/images/socialMedias/Spotify.png",
+            "link": "https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji",
+            "username": "Jonak"
+        },
+        {
+            "id": 2,
+            "value": "YouTube",
+            "imageURL": "/images/socialMedias/YouTube.png",
+            "link": "https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ",
+            "username": "BeastNight TV"
+        },
+        {
+            "id": 3,
+            "value": "Discord",
+            "imageURL": "/images/socialMedias/Discord.png",
+            "link": "https://discord.gg/S3UfGkW",
+            "username": "xxJonakAdiptaxx#2464"
+        },
+        {
+            "id": 4,
+            "value": "Instagram",
+            "imageURL": "/images/socialMedias/Instagram.png",
+            "link": "https://www.instagram.com/xxjonakadiptaxx/?hl=en",
+            "username": "xxjonakadiptaxx"
+        },
+        {
+            "id": 5,
+            "value": "Twitter",
+            "imageURL": "/images/socialMedias/Twitter.png",
+            "link": "https://twitter.com/AdiptaJonak",
+            "username": "AdiptaJonak"
+        },
+        {
+            "id": 6,
+            "value": "Reddit",
+            "imageURL": "/images/socialMedias/Reddit.png",
+            "link": "https://www.reddit.com/user/BeastNight_TV",
+            "username": "u/BeastNight_TV"
+        },
+        {
+            "id": 7,
+            "value": "Steam",
+            "imageURL": "/images/socialMedias/Steam.png",
+            "link": "https://steamcommunity.com/profiles/76561199052472963/",
+            "username": "xxJonakAdiptaxx"
         }
     ]
 }

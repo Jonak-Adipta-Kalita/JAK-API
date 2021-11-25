@@ -270,7 +270,7 @@
         {
             "src": "/images/socialMedias/Github.png",
             "type": "image/png",
-            "sizes": "",
+            "sizes": "32x32",
             "purpose": "any maskable"
         }
     ],

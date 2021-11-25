@@ -266,6 +266,12 @@
             "type": "image/png",
             "sizes": "1200x1200",
             "purpose": "any maskable"
+        },
+        {
+            "src": "/images/socialMedias/Github.png",
+            "type": "image/png",
+            "sizes": "",
+            "purpose": "any maskable"
         }
     ],
     "start_url": "/",

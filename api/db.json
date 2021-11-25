@@ -339,5 +339,14 @@
                 "Spring Onion"
             ]
         }
+    ],
+
+    "social_medias": [
+        {
+            "id": 0,
+            "value": "Github",
+            "imageURL": "/images/socialMedias/Github.png",
+            "link": "https://github.com/Jonak-Adipta-Kalita"
+        }
     ]
 }

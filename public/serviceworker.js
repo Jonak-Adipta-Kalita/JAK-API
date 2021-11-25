@@ -53,6 +53,7 @@ const urlsToCache = [
     "/images/hobby/programming/frameworks/Ursina.png",
     "/images/hobby/programming/frameworks/Panda3D.png",
     "/images/hobby/programming/frameworks/Electron.png",
+    "/images/socialMedias/Github.png",
     "https://code.jquery.com/jquery-3.5.1.slim.min.js",
     "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css",
     "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js",

@@ -30,7 +30,9 @@ is cloned. Now type:
 
 ```bash
 npm i
+
 # or
+
 yarn
 ```
 

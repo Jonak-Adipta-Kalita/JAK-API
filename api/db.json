@@ -44,67 +44,91 @@
                     "id": 1,
                     "platform": "Mobile",
                     "value": "Brawl Stars",
-                    "imageURL": "/images/hobby/favouriteGames/BrawlStars.png"
+                    "imageURL": "/images/hobby/favouriteGames/brawl-stars.png"
                 },
                 {
                     "id": 2,
                     "platform": "Mobile",
                     "value": "Among Us",
-                    "imageURL": "/images/hobby/favouriteGames/AmongUs.png"
+                    "imageURL": "/images/hobby/favouriteGames/among-us.png"
                 },
                 {
                     "id": 3,
                     "platform": "Personal Computer",
                     "value": "Need For Speed: Most Wanted 2005",
-                    "imageURL": "/images/hobby/favouriteGames/MostWanted2005.png"
+                    "imageURL": "/images/hobby/favouriteGames/need-for-speed-most-wanted-2005.png"
                 },
                 {
                     "id": 4,
                     "platform": "Personal Computer",
                     "value": "Need For Speed: Most Wanted 2012",
-                    "imageURL": "/images/hobby/favouriteGames/MostWanted2012.png"
+                    "imageURL": "/images/hobby/favouriteGames/need-for-speed-most-wanted-.png"
                 },
                 {
                     "id": 5,
                     "platform": "Personal Computer",
                     "value": "Krunker.io",
-                    "imageURL": "/images/hobby/favouriteGames/KrunkerIo.png"
+                    "imageURL": "/images/hobby/favouriteGames/krunker-io.png"
                 },
                 {
                     "id": 6,
                     "platform": "Personal Computer",
                     "value": "Call of Duty: Modern Warfare 3",
-                    "imageURL": "/images/hobby/favouriteGames/ModernWarfare3.png"
+                    "imageURL": "/images/hobby/favouriteGames/call-of-duty-modern-warfare-3.png"
                 },
                 {
                     "id": 7,
                     "platform": "Personal Computer",
                     "value": "Re Run",
-                    "imageURL": "/images/hobby/favouriteGames/ReRun.png"
+                    "imageURL": "/images/hobby/favouriteGames/re-run.png"
                 },
                 {
                     "id": 8,
                     "platform": "Personal Computer",
                     "value": "Human Fall Flat",
-                    "imageURL": "/images/hobby/favouriteGames/HumanFallFlat.png"
+                    "imageURL": "/images/hobby/favouriteGames/human-fall-flat.png"
                 },
                 {
                     "id": 9,
                     "platform": "Personal Computer",
                     "value": "One Hand Clapping",
-                    "imageURL": "/images/hobby/favouriteGames/OneHandClapping.png"
+                    "imageURL": "/images/hobby/favouriteGames/one-hand-clapping.png"
                 },
                 {
                     "id": 10,
                     "platform": "Personal Computer",
                     "value": "Jelly Drift",
-                    "imageURL": "/images/hobby/favouriteGames/JellyDrift.png"
+                    "imageURL": "/images/hobby/favouriteGames/jelly-drift.png"
                 },
                 {
                     "id": 11,
                     "platform": "Personal Computer",
                     "value": "Minecraft",
-                    "imageURL": "/images/hobby/favouriteGames/Minecraft.png"
+                    "imageURL": "/images/hobby/favouriteGames/minecraft.png"
+                },
+                {
+                    "id": 12,
+                    "platform": "Personal Computer",
+                    "value": "Scribbl.io",
+                    "imageURL": "/images/hobby/favouriteGames/scribbl-io.png"
+                },
+                {
+                    "id": 13,
+                    "platform": "Personal Computer",
+                    "value": "Ducklings.io",
+                    "imageURL": "/images/hobby/favouriteGames/ducklings-io.png"
+                },
+                {
+                    "id": 14,
+                    "platform": "Personal Computer",
+                    "value": "Hole.io",
+                    "imageURL": "/images/hobby/favouriteGames/hole-io.png"
+                },
+                {
+                    "id": 15,
+                    "platform": "Personal Computer",
+                    "value": "Agar.io",
+                    "imageURL": "/images/hobby/favouriteGames/agar-io.png"
                 }
             ]
         },

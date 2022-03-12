@@ -1,4 +1,5 @@
 const jsonServer = require("json-server");
+const express = require("express");
 
 const server = jsonServer.create();
 const router = jsonServer.router("api/db.json");
@@ -6,6 +7,7 @@ const middlewares = jsonServer.defaults();
 
 const port = process.env.PORT || 3000;
 
+server.use(express.json({ extended: false }));
 server.use(middlewares);
 server.use("/api", router);
 

@@ -1,426 +1,842 @@
 {
-    "details": [
-        {
-            "id": 0,
-            "value": "Family",
-            "members": [
-                {
-                    "id": 0,
-                    "value": "My Self",
-                    "occupation": "Student",
-                    "place": "Mangaldoi, Assam",
-                    "occupation_place_name": "Kendirya Vidyalaya, Mangaldoi"
-                },
-                {
-                    "id": 1,
-                    "value": "My Mom",
-                    "occupation": "Banker",
-                    "place": "Mangaldoi, Assam",
-                    "occupation_place_name": "State Bank of India"
-                },
-                {
-                    "id": 2,
-                    "value": "My Dad",
-                    "occupation": "Teacher",
-                    "place": "Mangaldoi, Assam",
-                    "occupation_place_name": "Kanaklata High School"
-                }
-            ]
-        }
-    ],
+    "me": {
+        "hobby": [
+            {
+                "id": 0,
+                "value": "Gaming",
+                "games": [
+                    {
+                        "id": 0,
+                        "platform": "Mobile",
+                        "value": "Pokemon Go",
+                        "imageURL": "/images/me/hobby/favouriteGames/PokemonGo.png"
+                    },
+                    {
+                        "id": 1,
+                        "platform": "Mobile",
+                        "value": "Brawl Stars",
+                        "imageURL": "/images/me/hobby/favouriteGames/brawl-stars.png"
+                    },
+                    {
+                        "id": 2,
+                        "platform": "Mobile",
+                        "value": "Among Us",
+                        "imageURL": "/images/me/hobby/favouriteGames/among-us.png"
+                    },
+                    {
+                        "id": 3,
+                        "platform": "Personal Computer",
+                        "value": "Need For Speed: Most Wanted 2005",
+                        "imageURL": "/images/me/hobby/favouriteGames/need-for-speed-most-wanted-2005.png"
+                    },
+                    {
+                        "id": 4,
+                        "platform": "Personal Computer",
+                        "value": "Need For Speed: Most Wanted 2012",
+                        "imageURL": "/images/me/hobby/favouriteGames/need-for-speed-most-wanted-.png"
+                    },
+                    {
+                        "id": 5,
+                        "platform": "Personal Computer",
+                        "value": "Krunker.io",
+                        "imageURL": "/images/me/hobby/favouriteGames/krunker-io.png"
+                    },
+                    {
+                        "id": 6,
+                        "platform": "Personal Computer",
+                        "value": "Call of Duty: Modern Warfare 3",
+                        "imageURL": "/images/me/hobby/favouriteGames/call-of-duty-modern-warfare-3.png"
+                    },
+                    {
+                        "id": 7,
+                        "platform": "Personal Computer",
+                        "value": "Re Run",
+                        "imageURL": "/images/me/hobby/favouriteGames/re-run.png"
+                    },
+                    {
+                        "id": 8,
+                        "platform": "Personal Computer",
+                        "value": "Human Fall Flat",
+                        "imageURL": "/images/me/hobby/favouriteGames/human-fall-flat.png"
+                    },
+                    {
+                        "id": 9,
+                        "platform": "Personal Computer",
+                        "value": "One Hand Clapping",
+                        "imageURL": "/images/me/hobby/favouriteGames/one-hand-clapping.png"
+                    },
+                    {
+                        "id": 10,
+                        "platform": "Personal Computer",
+                        "value": "Jelly Drift",
+                        "imageURL": "/images/me/hobby/favouriteGames/jelly-drift.png"
+                    },
+                    {
+                        "id": 11,
+                        "platform": "Personal Computer",
+                        "value": "Minecraft",
+                        "imageURL": "/images/me/hobby/favouriteGames/minecraft.png"
+                    },
+                    {
+                        "id": 12,
+                        "platform": "Personal Computer",
+                        "value": "Scribbl.io",
+                        "imageURL": "/images/me/hobby/favouriteGames/scribbl-io.png"
+                    },
+                    {
+                        "id": 13,
+                        "platform": "Personal Computer",
+                        "value": "Ducklings.io",
+                        "imageURL": "/images/me/hobby/favouriteGames/ducklings-io.png"
+                    },
+                    {
+                        "id": 14,
+                        "platform": "Personal Computer",
+                        "value": "Hole.io",
+                        "imageURL": "/images/me/hobby/favouriteGames/hole-io.png"
+                    },
+                    {
+                        "id": 15,
+                        "platform": "Personal Computer",
+                        "value": "Agar.io",
+                        "imageURL": "/images/me/hobby/favouriteGames/agar-io.png"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "value": "Programming",
+                "languages": [
+                    {
+                        "id": 0,
+                        "value": "Python",
+                        "website": "https://www.python.org/",
+                        "imageURL": "/images/me/hobby/programming/languages/Python.png"
+                    },
+                    {
+                        "id": 1,
+                        "value": "HTML",
+                        "website": "https://html.com/",
+                        "imageURL": "/images/me/hobby/programming/languages/HTML.png"
+                    },
+                    {
+                        "id": 2,
+                        "value": "JavaScript",
+                        "website": "https://www.javascript.com/",
+                        "imageURL": "/images/me/hobby/programming/languages/JavaScript.png"
+                    },
+                    {
+                        "id": 3,
+                        "value": "CSS",
+                        "website": "https://css.com/",
+                        "imageURL": "/images/me/hobby/programming/languages/CSS.png"
+                    },
+                    {
+                        "id": 4,
+                        "value": "TypeScript",
+                        "website": "https://www.typescriptlang.org/",
+                        "imageURL": "/images/me/hobby/programming/languages/TypeScript.png"
+                    },
+                    {
+                        "id": 5,
+                        "value": "Go",
+                        "website": "https://golang.org/",
+                        "imageURL": "/images/me/hobby/programming/languages/Go.png"
+                    },
+                    {
+                        "id": 6,
+                        "value": "C",
+                        "website": "https://www.chobby/programming.com/",
+                        "imageURL": "/images/me/hobby/programming/languages/C.png"
+                    },
+                    {
+                        "id": 7,
+                        "value": "C++",
+                        "website": "https://isocpp.org/",
+                        "imageURL": "/images/me/hobby/programming/languages/C++.png"
+                    }
+                ],
+                "frameworks": [
+                    {
+                        "id": 0,
+                        "value": "Django",
+                        "website": "https://www.djangoproject.com/",
+                        "languages": ["Python"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/Django.png"
+                    },
+                    {
+                        "id": 1,
+                        "value": "React",
+                        "website": "https://reactjs.org/",
+                        "languages": ["JavaScript"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/React.png"
+                    },
+                    {
+                        "id": 2,
+                        "value": "React Native",
+                        "website": "https://reactnative.dev/",
+                        "languages": ["JavaScript"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/ReactNative.png"
+                    },
+                    {
+                        "id": 3,
+                        "value": "Next",
+                        "website": "https://nextjs.org/",
+                        "languages": ["JavaScript"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/Next.png"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Bootstrap",
+                        "website": "https://getbootstrap.com/",
+                        "languages": ["CSS"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/Bootstrap.png"
+                    },
+                    {
+                        "id": 5,
+                        "value": "Tailwind",
+                        "website": "https://tailwindcss.com/",
+                        "languages": ["CSS"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/Tailwind.png"
+                    },
+                    {
+                        "id": 6,
+                        "value": "Svelte",
+                        "website": "https://svelte.dev/",
+                        "languages": ["JavaScript"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/Svelte.png"
+                    },
+                    {
+                        "id": 7,
+                        "value": "OpenCV",
+                        "website": "https://opencv.org/",
+                        "languages": ["Python", "C++"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/OpenCV.png"
+                    },
+                    {
+                        "id": 8,
+                        "value": "Raylib",
+                        "website": "https://www.raylib.com/",
+                        "languages": ["C", "C++"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/Raylib.png"
+                    },
+                    {
+                        "id": 9,
+                        "value": "Pygame",
+                        "website": "https://www.pygame.org/",
+                        "languages": ["Python"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/Pygame.png"
+                    },
+                    {
+                        "id": 10,
+                        "value": "SDL",
+                        "website": "https://www.libsdl.org/",
+                        "languages": ["C", "C++", "C#", "Python"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/SDL.png"
+                    },
+                    {
+                        "id": 11,
+                        "value": "Arcade",
+                        "website": "https://api.arcade.academy/",
+                        "languages": ["Python"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/Arcade.png"
+                    },
+                    {
+                        "id": 12,
+                        "value": "Ursina",
+                        "website": "https://www.ursinaengine.org/",
+                        "languages": ["Python"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/Ursina.png"
+                    },
+                    {
+                        "id": 13,
+                        "value": "Panda3D",
+                        "website": "https://www.panda3d.org/",
+                        "languages": ["Python", "C++"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/Panda3D.png"
+                    },
+                    {
+                        "id": 14,
+                        "value": "Electron",
+                        "website": "https://www.electronjs.org/",
+                        "languages": ["JavaScript"],
+                        "imageURL": "/images/me/hobby/programming/frameworks/Electron.png"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "value": "Playing Instruments",
+                "instruments": [
+                    {
+                        "id": 0,
+                        "value": "Mandolin",
+                        "imageURL": "/images/me/hobby/musicalInstruments/Mandolin.png"
+                    },
+                    {
+                        "id": 1,
+                        "value": "Guitar",
+                        "imageURL": "/images/me/hobby/musicalInstruments/Guitar.png"
+                    },
+                    {
+                        "id": 2,
+                        "value": "Tabla",
+                        "imageURL": "/images/me/hobby/musicalInstruments/Tabla.png"
+                    },
+                    {
+                        "id": 3,
+                        "value": "Harmonium",
+                        "imageURL": "/images/me/hobby/musicalInstruments/Harmonium.png"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Keyboard",
+                        "imageURL": "/images/me/hobby/musicalInstruments/Keyboard.png"
+                    },
+                    {
+                        "id": 4,
+                        "value": "Congo",
+                        "imageURL": "/images/me/hobby/musicalInstruments/Congo.png"
+                    }
+                ]
+            }
+        ],
 
-    "hobby": [
-        {
-            "id": 0,
-            "value": "Gaming",
-            "games": [
-                {
-                    "id": 0,
-                    "platform": "Mobile",
-                    "value": "Pokemon Go",
-                    "imageURL": "/images/hobby/favouriteGames/PokemonGo.png"
-                },
-                {
-                    "id": 1,
-                    "platform": "Mobile",
-                    "value": "Brawl Stars",
-                    "imageURL": "/images/hobby/favouriteGames/brawl-stars.png"
-                },
-                {
-                    "id": 2,
-                    "platform": "Mobile",
-                    "value": "Among Us",
-                    "imageURL": "/images/hobby/favouriteGames/among-us.png"
-                },
-                {
-                    "id": 3,
-                    "platform": "Personal Computer",
-                    "value": "Need For Speed: Most Wanted 2005",
-                    "imageURL": "/images/hobby/favouriteGames/need-for-speed-most-wanted-2005.png"
-                },
-                {
-                    "id": 4,
-                    "platform": "Personal Computer",
-                    "value": "Need For Speed: Most Wanted 2012",
-                    "imageURL": "/images/hobby/favouriteGames/need-for-speed-most-wanted-.png"
-                },
-                {
-                    "id": 5,
-                    "platform": "Personal Computer",
-                    "value": "Krunker.io",
-                    "imageURL": "/images/hobby/favouriteGames/krunker-io.png"
-                },
-                {
-                    "id": 6,
-                    "platform": "Personal Computer",
-                    "value": "Call of Duty: Modern Warfare 3",
-                    "imageURL": "/images/hobby/favouriteGames/call-of-duty-modern-warfare-3.png"
-                },
-                {
-                    "id": 7,
-                    "platform": "Personal Computer",
-                    "value": "Re Run",
-                    "imageURL": "/images/hobby/favouriteGames/re-run.png"
-                },
-                {
-                    "id": 8,
-                    "platform": "Personal Computer",
-                    "value": "Human Fall Flat",
-                    "imageURL": "/images/hobby/favouriteGames/human-fall-flat.png"
-                },
-                {
-                    "id": 9,
-                    "platform": "Personal Computer",
-                    "value": "One Hand Clapping",
-                    "imageURL": "/images/hobby/favouriteGames/one-hand-clapping.png"
-                },
-                {
-                    "id": 10,
-                    "platform": "Personal Computer",
-                    "value": "Jelly Drift",
-                    "imageURL": "/images/hobby/favouriteGames/jelly-drift.png"
-                },
-                {
-                    "id": 11,
-                    "platform": "Personal Computer",
-                    "value": "Minecraft",
-                    "imageURL": "/images/hobby/favouriteGames/minecraft.png"
-                },
-                {
-                    "id": 12,
-                    "platform": "Personal Computer",
-                    "value": "Scribbl.io",
-                    "imageURL": "/images/hobby/favouriteGames/scribbl-io.png"
-                },
-                {
-                    "id": 13,
-                    "platform": "Personal Computer",
-                    "value": "Ducklings.io",
-                    "imageURL": "/images/hobby/favouriteGames/ducklings-io.png"
-                },
-                {
-                    "id": 14,
-                    "platform": "Personal Computer",
-                    "value": "Hole.io",
-                    "imageURL": "/images/hobby/favouriteGames/hole-io.png"
-                },
-                {
-                    "id": 15,
-                    "platform": "Personal Computer",
-                    "value": "Agar.io",
-                    "imageURL": "/images/hobby/favouriteGames/agar-io.png"
-                }
-            ]
-        },
-        {
-            "id": 1,
-            "value": "Programming",
-            "languages": [
-                {
-                    "id": 0,
-                    "value": "Python",
-                    "website": "https://www.python.org/",
-                    "imageURL": "/images/hobby/programming/languages/Python.png"
-                },
-                {
-                    "id": 1,
-                    "value": "HTML",
-                    "website": "https://html.com/",
-                    "imageURL": "/images/hobby/programming/languages/HTML.png"
-                },
-                {
-                    "id": 2,
-                    "value": "JavaScript",
-                    "website": "https://www.javascript.com/",
-                    "imageURL": "/images/hobby/programming/languages/JavaScript.png"
-                },
-                {
-                    "id": 3,
-                    "value": "CSS",
-                    "website": "https://css.com/",
-                    "imageURL": "/images/hobby/programming/languages/CSS.png"
-                },
-                {
-                    "id": 4,
-                    "value": "TypeScript",
-                    "website": "https://www.typescriptlang.org/",
-                    "imageURL": "/images/hobby/programming/languages/TypeScript.png"
-                },
-                {
-                    "id": 5,
-                    "value": "Go",
-                    "website": "https://golang.org/",
-                    "imageURL": "/images/hobby/programming/languages/Go.png"
-                },
-                {
-                    "id": 6,
-                    "value": "C",
-                    "website": "https://www.chobby/programming.com/",
-                    "imageURL": "/images/hobby/programming/languages/C.png"
-                },
-                {
-                    "id": 7,
-                    "value": "C++",
-                    "website": "https://isocpp.org/",
-                    "imageURL": "/images/hobby/programming/languages/C++.png"
-                }
-            ],
-            "frameworks": [
-                {
-                    "id": 0,
-                    "value": "Django",
-                    "website": "https://www.djangoproject.com/",
-                    "languages": ["Python"],
-                    "imageURL": "/images/hobby/programming/frameworks/Django.png"
-                },
-                {
-                    "id": 1,
-                    "value": "React",
-                    "website": "https://reactjs.org/",
-                    "languages": ["JavaScript"],
-                    "imageURL": "/images/hobby/programming/frameworks/React.png"
-                },
-                {
-                    "id": 2,
-                    "value": "React Native",
-                    "website": "https://reactnative.dev/",
-                    "languages": ["JavaScript"],
-                    "imageURL": "/images/hobby/programming/frameworks/ReactNative.png"
-                },
-                {
-                    "id": 3,
-                    "value": "Next",
-                    "website": "https://nextjs.org/",
-                    "languages": ["JavaScript"],
-                    "imageURL": "/images/hobby/programming/frameworks/Next.png"
-                },
-                {
-                    "id": 4,
-                    "value": "Bootstrap",
-                    "website": "https://getbootstrap.com/",
-                    "languages": ["CSS"],
-                    "imageURL": "/images/hobby/programming/frameworks/Bootstrap.png"
-                },
-                {
-                    "id": 5,
-                    "value": "Tailwind",
-                    "website": "https://tailwindcss.com/",
-                    "languages": ["CSS"],
-                    "imageURL": "/images/hobby/programming/frameworks/Tailwind.png"
-                },
-                {
-                    "id": 6,
-                    "value": "Svelte",
-                    "website": "https://svelte.dev/",
-                    "languages": ["JavaScript"],
-                    "imageURL": "/images/hobby/programming/frameworks/Svelte.png"
-                },
-                {
-                    "id": 7,
-                    "value": "OpenCV",
-                    "website": "https://opencv.org/",
-                    "languages": ["Python", "C++"],
-                    "imageURL": "/images/hobby/programming/frameworks/OpenCV.png"
-                },
-                {
-                    "id": 8,
-                    "value": "Raylib",
-                    "website": "https://www.raylib.com/",
-                    "languages": ["C", "C++"],
-                    "imageURL": "/images/hobby/programming/frameworks/Raylib.png"
-                },
-                {
-                    "id": 9,
-                    "value": "Pygame",
-                    "website": "https://www.pygame.org/",
-                    "languages": ["Python"],
-                    "imageURL": "/images/hobby/programming/frameworks/Pygame.png"
-                },
-                {
-                    "id": 10,
-                    "value": "SDL",
-                    "website": "https://www.libsdl.org/",
-                    "languages": ["C", "C++", "C#", "Python"],
-                    "imageURL": "/images/hobby/programming/frameworks/SDL.png"
-                },
-                {
-                    "id": 11,
-                    "value": "Arcade",
-                    "website": "https://api.arcade.academy/",
-                    "languages": ["Python"],
-                    "imageURL": "/images/hobby/programming/frameworks/Arcade.png"
-                },
-                {
-                    "id": 12,
-                    "value": "Ursina",
-                    "website": "https://www.ursinaengine.org/",
-                    "languages": ["Python"],
-                    "imageURL": "/images/hobby/programming/frameworks/Ursina.png"
-                },
-                {
-                    "id": 13,
-                    "value": "Panda3D",
-                    "website": "https://www.panda3d.org/",
-                    "languages": ["Python", "C++"],
-                    "imageURL": "/images/hobby/programming/frameworks/Panda3D.png"
-                },
-                {
-                    "id": 14,
-                    "value": "Electron",
-                    "website": "https://www.electronjs.org/",
-                    "languages": ["JavaScript"],
-                    "imageURL": "/images/hobby/programming/frameworks/Electron.png"
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "value": "Playing Instruments",
-            "instruments": [
-                {
-                    "id": 0,
-                    "value": "Mandolin",
-                    "imageURL": "/images/hobby/musicalInstruments/Mandolin.png"
-                },
-                {
-                    "id": 1,
-                    "value": "Guitar",
-                    "imageURL": "/images/hobby/musicalInstruments/Guitar.png"
-                },
-                {
-                    "id": 2,
-                    "value": "Tabla",
-                    "imageURL": "/images/hobby/musicalInstruments/Tabla.png"
-                },
-                {
-                    "id": 3,
-                    "value": "Harmonium",
-                    "imageURL": "/images/hobby/musicalInstruments/Harmonium.png"
-                },
-                {
-                    "id": 4,
-                    "value": "Keyboard",
-                    "imageURL": "/images/hobby/musicalInstruments/Keyboard.png"
-                },
-                {
-                    "id": 4,
-                    "value": "Congo",
-                    "imageURL": "/images/hobby/musicalInstruments/Congo.png"
-                }
-            ]
-        }
-    ],
+        "fav_food": [
+            {
+                "id": 0,
+                "value": "Chilli Chicken with Rice",
+                "imageURL": "/images/me/favouriteFoods/ChilliChickenWithRice.png",
+                "ingredients": [
+                    "Rice",
+                    "Chicken",
+                    "Bell Pepper (Capsicum)",
+                    "Soy Sauce",
+                    "Chilli Pepper",
+                    "Garlic",
+                    "Salt",
+                    "Onion",
+                    "Ginger",
+                    "Spring Onion",
+                    "Corn Flour"
+                ]
+            },
+            {
+                "id": 2,
+                "value": "Egg Roll",
+                "imageURL": "/images/me/favouriteFoods/EggRoll.png",
+                "ingredients": [
+                    "Egg",
+                    "Soy Sauce",
+                    "Cabbage",
+                    "Carrot",
+                    "Onion",
+                    "Spring Onion"
+                ]
+            }
+        ],
 
-    "fav_food": [
-        {
-            "id": 0,
-            "value": "Chilli Chicken with Rice",
-            "imageURL": "/images/favouriteFoods/ChilliChickenWithRice.png",
-            "ingredients": [
-                "Rice",
-                "Chicken",
-                "Bell Pepper (Capsicum)",
-                "Soy Sauce",
-                "Chilli Pepper",
-                "Garlic",
-                "Salt",
-                "Onion",
-                "Ginger",
-                "Spring Onion",
-                "Corn Flour"
-            ]
-        },
-        {
-            "id": 2,
-            "value": "Egg Roll",
-            "imageURL": "/images/favouriteFoods/EggRoll.png",
-            "ingredients": [
-                "Egg",
-                "Soy Sauce",
-                "Cabbage",
-                "Carrot",
-                "Onion",
-                "Spring Onion"
-            ]
-        }
-    ],
-
-    "social_medias": [
-        {
-            "id": 0,
-            "value": "Github",
-            "imageURL": "/images/socialMedias/Github.png",
-            "link": "https://github.com/Jonak-Adipta-Kalita",
-            "username": "Jonak-Adipta-Kalita"
-        },
-        {
-            "id": 1,
-            "value": "Spotify",
-            "imageURL": "/images/socialMedias/Spotify.png",
-            "link": "https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji",
-            "username": "Jonak"
-        },
-        {
-            "id": 2,
-            "value": "YouTube",
-            "imageURL": "/images/socialMedias/YouTube.png",
-            "link": "https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ",
-            "username": "BeastNight TV"
-        },
-        {
-            "id": 3,
-            "value": "Discord",
-            "imageURL": "/images/socialMedias/Discord.png",
-            "link": "https://discord.gg/S3UfGkW",
-            "username": "xxJonakAdiptaxx#2464"
-        },
-        {
-            "id": 4,
-            "value": "Instagram",
-            "imageURL": "/images/socialMedias/Instagram.png",
-            "link": "https://www.instagram.com/xxjonakadiptaxx/?hl=en",
-            "username": "xxjonakadiptaxx"
-        },
-        {
-            "id": 5,
-            "value": "Twitter",
-            "imageURL": "/images/socialMedias/Twitter.png",
-            "link": "https://twitter.com/AdiptaJonak",
-            "username": "AdiptaJonak"
-        },
-        {
-            "id": 6,
-            "value": "Reddit",
-            "imageURL": "/images/socialMedias/Reddit.png",
-            "link": "https://www.reddit.com/user/BeastNight_TV",
-            "username": "u/BeastNight_TV"
-        },
-        {
-            "id": 7,
-            "value": "Steam",
-            "imageURL": "/images/socialMedias/Steam.png",
-            "link": "https://steamcommunity.com/profiles/76561199052472963/",
-            "username": "xxJonakAdiptaxx"
-        }
-    ]
+        "social_medias": [
+            {
+                "id": 0,
+                "value": "Github",
+                "imageURL": "/images/me/socialMedias/Github.png",
+                "link": "https://github.com/Jonak-Adipta-Kalita",
+                "username": "Jonak-Adipta-Kalita"
+            },
+            {
+                "id": 1,
+                "value": "Spotify",
+                "imageURL": "/images/me/socialMedias/Spotify.png",
+                "link": "https://open.spotify.com/user/31cypdycu52u6rj3bsfcldmqrlji",
+                "username": "Jonak"
+            },
+            {
+                "id": 2,
+                "value": "YouTube",
+                "imageURL": "/images/me/socialMedias/YouTube.png",
+                "link": "https://www.youtube.com/channel/UC6IPfVhkqfcfBZCko6Q9mnQ",
+                "username": "BeastNight TV"
+            },
+            {
+                "id": 3,
+                "value": "Discord",
+                "imageURL": "/images/me/socialMedias/Discord.png",
+                "link": "https://discord.gg/S3UfGkW",
+                "username": "xxJonakAdiptaxx#2464"
+            },
+            {
+                "id": 4,
+                "value": "Instagram",
+                "imageURL": "/images/me/socialMedias/Instagram.png",
+                "link": "https://www.instagram.com/xxjonakadiptaxx/?hl=en",
+                "username": "xxjonakadiptaxx"
+            },
+            {
+                "id": 5,
+                "value": "Twitter",
+                "imageURL": "/images/me/socialMedias/Twitter.png",
+                "link": "https://twitter.com/AdiptaJonak",
+                "username": "AdiptaJonak"
+            },
+            {
+                "id": 6,
+                "value": "Reddit",
+                "imageURL": "/images/me/socialMedias/Reddit.png",
+                "link": "https://www.reddit.com/user/BeastNight_TV",
+                "username": "u/BeastNight_TV"
+            },
+            {
+                "id": 7,
+                "value": "Steam",
+                "imageURL": "/images/me/socialMedias/Steam.png",
+                "link": "https://steamcommunity.com/profiles/76561199052472963/",
+                "username": "xxJonakAdiptaxx"
+            }
+        ]
+    },
+    "brawlStars": {
+        "brawlers": [
+            {
+                "id": 0,
+                "name": "Shelly",
+                "image": "/images/brawlStars/shelly.png",
+                "gadget": ["Fast Forward", "Clay Pigeon"],
+                "starpower": ["Shell Shock", "Band-Aid"],
+                "category": "Starting Brawler"
+            },
+            {
+                "id": 1,
+                "name": "Nita",
+                "image": "/images/brawlStars/nita.png",
+                "gadget": ["Bear Paws", "Faux Fur"],
+                "starpower": ["Bear with Me", "Hyper Bear"],
+                "category": "Trophy Road Brawler"
+            },
+            {
+                "id": 2,
+                "name": "Colt",
+                "image": "/images/brawlStars/colt.png",
+                "gadget": ["Speed Loader", "Silver Bullet"],
+                "starpower": ["Slick Boots", "Magnum Special"],
+                "category": "Trophy Road Brawler"
+            },
+            {
+                "id": 3,
+                "name": "Bull",
+                "image": "/images/brawlStars/bull.png",
+                "gadget": ["T-Bone Injector", "Stomper"],
+                "starpower": ["Berserker", "Tough Guy"],
+                "category": "Trophy Road Brawler"
+            },
+            {
+                "id": 4,
+                "name": "Jessie",
+                "image": "/images/brawlStars/jessie.png",
+                "gadget": ["Spark Plug", "Recoil Spring"],
+                "starpower": ["Energize", "Shocky"],
+                "category": "Trophy Road Brawler"
+            },
+            {
+                "id": 5,
+                "name": "Brock",
+                "image": "/images/brawlStars/brock.png",
+                "gadget": ["Rocket Laces", "Rocket Fuel"],
+                "starpower": ["More Rockets", "Rocket No. Four"],
+                "category": "Trophy Road Brawler"
+            },
+            {
+                "id": 6,
+                "name": "Dynamike",
+                "image": "/images/brawlStars/dynamike.png",
+                "gadget": ["Fidget Spinner", "Satchel Charge"],
+                "starpower": ["Dyna Jump", "Demolition"],
+                "category": "Trophy Road Brawler"
+            },
+            {
+                "id": 7,
+                "name": "Bo",
+                "image": "/images/brawlStars/bo.png",
+                "gadget": ["Super Totem", "Tripwire"],
+                "starpower": ["Circling Eagle", "Snare A Bear"],
+                "category": "Trophy Road Brawler"
+            },
+            {
+                "id": 8,
+                "name": "Tick",
+                "image": "/images/brawlStars/tick.png",
+                "gadget": ["Mine Mania", "Last Hurrah"],
+                "starpower": ["Well Oiled", "Automa-Tick Reload"],
+                "category": "Trophy Road Brawler"
+            },
+            {
+                "id": 9,
+                "name": "8-Bit",
+                "image": "8-/images/brawlStars/bit.png",
+                "gadget": ["Cheat Cartridge", "Extra Credits"],
+                "starpower": ["Boosted Booster", "Plugged In"],
+                "category": "Trophy Road Brawler"
+            },
+            {
+                "id": 10,
+                "name": "Emz",
+                "image": "/images/brawlStars/emz.png",
+                "gadget": ["Friend Zoner", "Acid Spray"],
+                "starpower": ["Bad Karma", "Hype"],
+                "category": "Trophy Road Brawler"
+            },
+            {
+                "id": 11,
+                "name": "Stu",
+                "image": "/images/brawlStars/stu.png",
+                "gadget": ["Speed Zone", "Breakthrough"],
+                "starpower": ["Zero Drag", "Gaso Heal"],
+                "category": "Trophy Road Brawler"
+            },
+            {
+                "id": 12,
+                "name": "El Primo",
+                "image": "/images/brawlStars/el_primo.png",
+                "gadget": ["Suplex Supplement", "Asteroid Belt"],
+                "starpower": ["El Fuego", "Meteor Rush"],
+                "category": "Rare Brawler"
+            },
+            {
+                "id": 13,
+                "name": "Barley",
+                "image": "/images/brawlStars/barley.png",
+                "gadget": ["Sticky Syrup Mixer", "Herbal Tonic"],
+                "starpower": ["Medical Use", "Extra Noxious"],
+                "category": "Rare Brawler"
+            },
+            {
+                "id": 14,
+                "name": "Poco",
+                "image": "/images/brawlStars/poco.png",
+                "gadget": ["Tuning Fork", "Protective Tunes"],
+                "starpower": ["Da Capo!", "Screeching Solo"],
+                "category": "Rare Brawler"
+            },
+            {
+                "id": 15,
+                "name": "Rosa",
+                "image": "/images/brawlStars/rosa.png",
+                "gadget": ["Grow Light", "Unfriendly Bushes"],
+                "starpower": ["Plant Life", "Thorny Gloves"],
+                "category": "Rare Brawler"
+            },
+            {
+                "id": 16,
+                "name": "Rico",
+                "image": "/images/brawlStars/rico.png",
+                "gadget": ["Multiball Launcher", "Bouncy Castle"],
+                "starpower": ["Super Bouncy", "Robo Retreat"],
+                "category": "Super Rare Brawler"
+            },
+            {
+                "id": 17,
+                "name": "Darryl",
+                "image": "/images/brawlStars/darryl.png",
+                "gadget": ["Recoiling Rotator", "Tar Barrel"],
+                "starpower": ["Steel Hoops", "Rolling Reload"],
+                "category": "Super Rare Brawler"
+            },
+            {
+                "id": 18,
+                "name": "Penny",
+                "image": "/images/brawlStars/penny.png",
+                "gadget": ["Pocket Detonator", "Captain's Compass"],
+                "starpower": ["Last Blast", "Balls Of Fire"],
+                "category": "Super Rare Brawler"
+            },
+            {
+                "id": 19,
+                "name": "Carl",
+                "image": "/images/brawlStars/carl.png",
+                "gadget": ["Heat Ejector", "Flying Hook"],
+                "starpower": ["Power Throw", "Protective Pirouette"],
+                "category": "Super Rare Brawler"
+            },
+            {
+                "id": 20,
+                "name": "Jacky",
+                "image": "/images/brawlStars/jacky.png",
+                "gadget": ["Pneumatic Booster", null],
+                "starpower": ["Counter Crush", "Hardy Hard Hat"],
+                "category": "Super Rare Brawler"
+            },
+            {
+                "id": 21,
+                "name": "Piper",
+                "image": "/images/brawlStars/piper.png",
+                "gadget": ["Auto Aimer", "Homemade Recipe"],
+                "starpower": ["Ambush", "Snappy Sniping"],
+                "category": "Epic Brawler"
+            },
+            {
+                "id": 22,
+                "name": "Pam",
+                "image": "/images/brawlStars/pam.png",
+                "gadget": ["Pulse Modulator", "ScrapSucker"],
+                "starpower": ["Mama's Hug", "Mama's Squeeze"],
+                "category": "Epic Brawler"
+            },
+            {
+                "id": 23,
+                "name": "Frank",
+                "image": "/images/brawlStars/frank.png",
+                "gadget": ["Active Noise Canceling", "Irresistible Attraction"],
+                "starpower": ["Power Grab", "Sponge"],
+                "category": "Epic Brawler"
+            },
+            {
+                "id": 24,
+                "name": "Bibi",
+                "image": "/images/brawlStars/bibi.png",
+                "gadget": ["Vitamin Booster", "Extra Stikcy"],
+                "starpower": ["Home Run", "Batting Stance"],
+                "category": "Epic Brawler"
+            },
+            {
+                "id": 25,
+                "name": "Bea",
+                "image": "/images/brawlStars/bea.png",
+                "gadget": ["Honey Molasses", "Rattled Hive"],
+                "starpower": ["Insta Beaload", "Honeycomb"],
+                "category": "Epic Brawler"
+            },
+            {
+                "id": 26,
+                "name": "Nani",
+                "image": "/images/brawlStars/nani.png",
+                "gadget": ["Warp Blast", "Return to Sender"],
+                "starpower": ["Autofocus", "Tempered Steel"],
+                "category": "Super Rare Brawler"
+            },
+            {
+                "id": 27,
+                "name": "Edgar",
+                "image": "/images/brawlStars/edgar.png",
+                "gadget": ["Let's Fly", "Hardcore"],
+                "starpower": ["Hard Landing", "Fisticuffs"],
+                "category": "Epic Brawler"
+            },
+            {
+                "id": 28,
+                "name": "Griff",
+                "image": "/images/brawlStars/griff.png",
+                "gadget": ["Piggy Bank", null],
+                "starpower": ["Keep the Change", "Business Resilience"],
+                "category": "Epic Brawler"
+            },
+            {
+                "id": 29,
+                "name": "Mortis",
+                "image": "/images/brawlStars/mortis.png",
+                "gadget": ["Combo Spinner", "Survival Shovel"],
+                "starpower": ["Creepy Harvest", "Coiled Snake"],
+                "category": "Mythic Brawler"
+            },
+            {
+                "id": 30,
+                "name": "Tara",
+                "image": "/images/brawlStars/tara.png",
+                "gadget": ["Psychic Enhancer", "Support from Beyond"],
+                "starpower": ["Black Portal", "Healing Shade"],
+                "category": "Mythic Brawler"
+            },
+            {
+                "id": 31,
+                "name": "Gene",
+                "image": "/images/brawlStars/gene.png",
+                "gadget": ["Lamp Blowout", "Vengeful Spirits"],
+                "starpower": ["Magic Puffs", "Spirit Slap"],
+                "category": "Mythic Brawler"
+            },
+            {
+                "id": 32,
+                "name": "Max",
+                "image": "/images/brawlStars/max.png",
+                "gadget": ["Phase Shifter", "Sneaky Sneakers"],
+                "starpower": ["Super Charged", "Run N Gun"],
+                "category": "Mythic Brawler"
+            },
+            {
+                "id": 33,
+                "name": "Mr. P",
+                "image": "/images/brawlStars/mr_p.png",
+                "gadget": ["Service Bell", "Porter Reinforcements"],
+                "starpower": ["Handle With Care", "Revolving Door"],
+                "category": "Mythic Brawler"
+            },
+            {
+                "id": 34,
+                "name": "Sprout",
+                "image": "/images/brawlStars/sprout.png",
+                "gadget": ["Garden Mulcher", "Transplant"],
+                "starpower": ["Overgrowth", "Photosynthesis"],
+                "category": "Mythic Brawler"
+            },
+            {
+                "id": 35,
+                "name": "Byron",
+                "image": "/images/brawlStars/byron.png",
+                "gadget": ["Shot In The Arm", "Booster Shots"],
+                "starpower": ["Malaise", "Injection"],
+                "category": "Mythic Brawler"
+            },
+            {
+                "id": 36,
+                "name": "Squeak",
+                "image": "/images/brawlStars/squeak.png",
+                "gadget": ["Windup", "Residue"],
+                "starpower": ["Chain Reaction", "Super Sticky"],
+                "category": "Mythic Brawler"
+            },
+            {
+                "id": 37,
+                "name": "Spike",
+                "image": "/images/brawlStars/spike.png",
+                "gadget": ["Poping Pincushion", "Life Plant"],
+                "starpower": ["Fertilize", "Curveball"],
+                "category": "Legendary Brawler"
+            },
+            {
+                "id": 38,
+                "name": "Crow",
+                "image": "/images/brawlStars/crow.png",
+                "gadget": ["Defence Booster", "Slowing Toxic"],
+                "starpower": ["Extra Toxic", "Carrion Crow"],
+                "category": "Legendary Brawler"
+            },
+            {
+                "id": 39,
+                "name": "Leon",
+                "image": "/images/brawlStars/leon.png",
+                "gadget": ["Clone Projector", "Lollipop Drop"],
+                "starpower": ["Smoke Trails", "Invisiheal"],
+                "category": "Legendary Brawler"
+            },
+            {
+                "id": 40,
+                "name": "Sandy",
+                "image": "/images/brawlStars/sandy.png",
+                "gadget": ["Sleep Simulator", "Sweet Dreams"],
+                "starpower": ["Rude Sands", "Healing Winds"],
+                "category": "Legendary Brawler"
+            },
+            {
+                "id": 41,
+                "name": "Amber",
+                "image": "/images/brawlStars/amber.png",
+                "gadget": ["Fire Starters", null],
+                "starpower": ["Wild Flames", "Scrochin Siphon"],
+                "category": "Legendary Brawler"
+            },
+            {
+                "id": 42,
+                "name": "Gale",
+                "image": "/images/brawlStars/gale.png",
+                "gadget": ["Spring Ejector", "Twister"],
+                "starpower": ["Blustery Blow", "Freezing Snow"],
+                "category": "Chromatic Brawler"
+            },
+            {
+                "id": 43,
+                "name": "Surge",
+                "image": "/images/brawlStars/surge.png",
+                "gadget": ["Power Surge", null],
+                "starpower": ["To The Max!", "Serve Ice Cold"],
+                "category": "Chromatic Brawler"
+            },
+            {
+                "id": 44,
+                "name": "Colette",
+                "image": "/images/brawlStars/colette.png",
+                "gadget": ["Na-Ah", "Gotcha!"],
+                "starpower": ["Push It", "Mass Tax"],
+                "category": "Chromatic Brawler"
+            },
+            {
+                "id": 45,
+                "name": "Lou",
+                "image": "/images/brawlStars/lou.png",
+                "gadget": ["Ice Block", "Cryo Syrup"],
+                "starpower": ["Supercool", "Hypothermia"],
+                "category": "Chromatic Brawler"
+            },
+            {
+                "id": 46,
+                "name": "Colonel Ruffs",
+                "image": "/images/brawlStars/colonel_ruffs.png",
+                "gadget": ["Take Cover", "Air Support"],
+                "starpower": ["Air Superiority", "Field Promotions"],
+                "category": "Chromatic Brawler"
+            },
+            {
+                "id": 47,
+                "name": "Belle",
+                "image": "/images/brawlStars/belle.png",
+                "gadget": ["Nest Egg", "Reverse Polarity"],
+                "starpower": ["Positive Feedback", "Grounded"],
+                "category": "Chromatic Brawler"
+            },
+            {
+                "id": 48,
+                "name": "Buzz",
+                "image": "/images/brawlStars/buzz.png",
+                "gadget": ["Reserve Buoy", null],
+                "starpower": ["Tougher Torpedo", "Eyes Sharp"],
+                "category": "Chromatic Brawler"
+            },
+            {
+                "id": 49,
+                "name": "Ash",
+                "image": "/images/brawlStars/ash.png",
+                "gadget": ["Chill Pill", "Rotten Banana"],
+                "starpower": ["First Bash", "Mad As Heck"],
+                "category": "Chromatic Brawler"
+            },
+            {
+                "id": 50,
+                "name": "Meg",
+                "image": "/images/brawlStars/meg.png",
+                "gadget": ["Jolting Volts", null],
+                "starpower": ["Force Field", "Self Destruction"],
+                "category": "Legendary Brawler"
+            },
+            {
+                "id": 51,
+                "name": "Lola",
+                "image": "/images/brawlStars/lola.png",
+                "gadget": ["Freeze Frames", "Stunt Double"],
+                "starpower": ["Improvise", "Sealed With A Kiss"],
+                "category": "Chromatic Brawler"
+            },
+            {
+                "id": 52,
+                "name": "Grom",
+                "image": "/images/brawlStars/grom.png",
+                "gadget": ["Guardia", "Radio Check"],
+                "starpower": ["Tallow in the Shins", "Factor X"],
+                "category": "Epic Brawler"
+            },
+            {
+                "id": 53,
+                "name": "Fang",
+                "image": "/images/brawlStars/fang.png",
+                "gadget": ["Corn Foo", "Roundhouse Kick"],
+                "starpower": ["Fresh Kicks", null],
+                "category": "Chromatic Brawler"
+            },
+            {
+                "id": 54,
+                "name": "Eve",
+                "image": "/images/brawlStars/eve.png",
+                "gadget": ["Gotta Go!", "Motherly Love"],
+                "starpower": ["Unnatural Order", "Happy Surprise"],
+                "category": "Chromatic Brawler"
+            }
+        ]
+    }
 }

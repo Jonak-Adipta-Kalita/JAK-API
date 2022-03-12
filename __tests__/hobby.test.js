@@ -5,6 +5,6 @@ it("matches", () => {
         if (err) throw err;
 
         const parsedData = JSON.parse(data);
-        expect(parsedData.hobby).toBe(parsedData.hobby);
+        expect(parsedData.me.hobby).toBe(parsedData.me.hobby);
     });
 });

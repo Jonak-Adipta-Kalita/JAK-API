@@ -5,6 +5,6 @@ it("matches", () => {
         if (err) throw err;
 
         const parsedData = JSON.parse(data);
-        expect(parsedData.me.social_medias).toBe(parsedData.me.social_medias);
+        expect(parsedData.miraculous).toBe(parsedData.miraculous);
     });
 });

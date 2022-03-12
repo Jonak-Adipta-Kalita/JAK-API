@@ -5,6 +5,6 @@ it("matches", () => {
         if (err) throw err;
 
         const parsedData = JSON.parse(data);
-        expect(parsedData.me.fav_food).toBe(parsedData.me.fav_food);
+        expect(parsedData.jak).toBe(parsedData.jak);
     });
 });

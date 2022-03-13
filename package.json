@@ -4,10 +4,9 @@
     "description": "A API made by JAK",
     "author": "Jonak Adipta Kalita",
     "license": "MIT",
-    "main": "index.js",
+    "main": "api/index.js",
     "scripts": {
-        "start:prod": "node index.js",
-        "start:dev": "nodemon index.js localhost 3000",
+        "start": "nodemon api/index.js localhost 3000",
         "test": "jest",
         "lint": "eslint .",
         "lint:fix": "eslint --fix .",

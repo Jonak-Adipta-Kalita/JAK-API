@@ -2,7 +2,7 @@
 
 # JAK-API
 
-![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fjak-api-dot-com.herokuapp.com)
+![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fjak-api.vercel.app)
 ![License](https://img.shields.io/github/license/Jonak-Adipta-Kalita/JAK-API?style=for-the-badge)
 ![GitHub Repo Stars](https://img.shields.io/github/stars/Jonak-Adipta-Kalita/JAK-API?style=for-the-badge)
 ![GitHub Forks](https://img.shields.io/github/forks/Jonak-Adipta-Kalita/JAK-API?style=for-the-badge)
@@ -11,7 +11,7 @@
 
 </div>
 
-Go to the [Website](http://jak-api-dot-com.herokuapp.com/), [Rapid API](https://rapidapi.com/Jonak-Adipta-Kalita/api/jak_api)
+Go to the [Website](https://jak-api.vercel.app/), [Rapid API](https://rapidapi.com/Jonak-Adipta-Kalita/api/jak_api)
 
 ## Steps
 
@@ -56,7 +56,7 @@ to run the server. After you did that, go to [http://localhost:3000/](http://loc
 -   Language: [JavaScript](https://www.javascript.com/)
 -   CSS Framework: [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 -   Backend: [Node JS](https://nodejs.org/)
--   Hosted: [Heroku](https://heroku.com/)
+-   Hosted: [Vercel](https://vercel.com/)
 
 ## Contributors
 

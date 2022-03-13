@@ -43,9 +43,9 @@ and hit enter.
 To run the server, open a terminal in the directory. Now type
 
 ```bash
-npm run start:dev
+npm start
 # or
-yarn start:dev
+yarn start
 ```
 
 to run the server. After you did that, go to [http://localhost:3000/](http://localhost:3000/) or

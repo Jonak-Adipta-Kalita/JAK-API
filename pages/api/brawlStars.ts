@@ -78,7 +78,7 @@ export default (req: NextApiRequest, res: NextApiResponse) => {
             {
                 id: 9,
                 name: "8-Bit",
-                image: "8-/images/brawlStars/bit.png",
+                image: "/images/brawlStars/8-bit.png",
                 gadget: ["Cheat Cartridge", "Extra Credits"],
                 starpower: ["Boosted Booster", "Plugged In"],
                 category: "Trophy Road Brawler",

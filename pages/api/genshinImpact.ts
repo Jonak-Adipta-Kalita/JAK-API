@@ -90,7 +90,7 @@ export default (req: NextApiRequest, res: NextApiResponse) => {
             {
                 id: 7,
                 name: "Diona",
-                image: "/images/genshinImpact/Diona.png",
+                image: "/images/genshinImpact/diona.png",
                 element: "Cyro",
                 weapon: "Bow",
                 special_dish: "Definitely Not a Bar Food!",
@@ -426,7 +426,7 @@ export default (req: NextApiRequest, res: NextApiResponse) => {
             {
                 id: 35,
                 name: "Zhongli",
-                image: "/images/genshinImpact/Zhongli.png",
+                image: "/images/genshinImpact/zhongli.png",
                 element: "Geo",
                 weapon: "Polearm",
                 special_dish: "Slow-Cooked Bamboo Shoot Soup",

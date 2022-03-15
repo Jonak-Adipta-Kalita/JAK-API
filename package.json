@@ -12,9 +12,9 @@
         "test": "echo No Tests provided till now.",
         "lint": "eslint .",
         "lint:fix": "eslint --fix .",
-        "prettier": "prettier **/*.{js,css,json,md}",
-        "prettier:fix": "prettier --write **/*.{js,css,json,md}",
-        "format": "eslint --fix . && prettier --write **/*.{js,css,json,md}",
+        "prettier": "prettier **/*.{ts,tsx,json,md}",
+        "prettier:fix": "prettier --write **/*.{ts,tsx,json,md}",
+        "format": "eslint --fix . && prettier --write **/*.{ts,tsx,json,md}",
         "check:version": "ncu",
         "prepare": "husky install"
     },

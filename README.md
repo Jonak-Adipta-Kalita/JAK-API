@@ -54,7 +54,6 @@ to run the server. After you did that, go to [http://localhost:3000/](http://loc
 ## Technology(s) Used
 
 -   Language: [JavaScript](https://www.javascript.com/)
--   CSS Framework: [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 -   Backend: [Node JS](https://nodejs.org/)
 -   Hosted: [Vercel](https://vercel.com/)
 

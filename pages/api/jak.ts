@@ -1,7 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 
 export default (req: NextApiRequest, res: NextApiResponse) => {
-if (!(req.method === "GET")) {
+    if (!(req.method === "GET")) {
         res.setHeader("Allow", ["GET"]);
         return res
             .status(405)

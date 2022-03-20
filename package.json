@@ -34,6 +34,7 @@
     },
     "homepage": "https://github.com/Jonak-Adipta-Kalita/JAK-API#readme",
     "dependencies": {
+        "@tensorflow/tfjs": "^3.14.0",
         "next": "latest",
         "react": "^17.0.2",
         "react-dom": "^17.0.2"

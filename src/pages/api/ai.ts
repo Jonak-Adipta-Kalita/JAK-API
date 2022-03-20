@@ -1,8 +1,6 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import fs from "fs";
-import * as tensorflow from "@tensorflow/tfjs";
 
-export default (req: NextApiRequest, res: NextApiResponse) => {
+export default async (req: NextApiRequest, res: NextApiResponse) => {
     if (!(req.method === "POST")) {
         res.setHeader("Allow", ["POST"]);
         return res
@@ -11,9 +9,6 @@ export default (req: NextApiRequest, res: NextApiResponse) => {
     }
 
     const { message } = req.body;
-
-    const words = fs.readFileSync("../../ai/model/words.pkl", "binary");
-    const classes = fs.readFileSync("../../ai/model/classes.pkl", "binary");
 
     res.status(200).json({});
 };

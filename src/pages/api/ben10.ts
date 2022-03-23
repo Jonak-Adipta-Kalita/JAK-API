@@ -1,6 +1,10 @@
 import type { NextApiRequest, NextApiResponse } from "next";
+import { Ben10 } from "../../typings";
 
-export default (req: NextApiRequest, res: NextApiResponse) => {
+export default (
+    req: NextApiRequest,
+    res: NextApiResponse<Ben10 | { error: string }>
+) => {
     if (!(req.method === "GET")) {
         res.setHeader("Allow", ["GET"]);
         return res

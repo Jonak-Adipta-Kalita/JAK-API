@@ -3,7 +3,24 @@ import fs from "fs";
 import * as tensorflow from "@tensorflow/tfjs";
 import intent from "../../ai/model/intents.json";
 
-export default async (req: NextApiRequest, res: NextApiResponse) => {
+/**
+ * @swagger
+ * /api/ai:
+ *   post:
+ *     description: Talk with Alexis
+ *     parameters:
+ *       - name: message
+ *         in: formData
+ *         required: true
+ *         type: string
+ *     responses:
+ *       200:
+ *         description: Response from Alexis
+ */
+export default async (
+    req: NextApiRequest,
+    res: NextApiResponse<string | { error: string }>
+) => {
     if (!(req.method === "POST")) {
         res.setHeader("Allow", ["POST"]);
         return res
@@ -23,5 +40,5 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     const predict_class = (sentence: string) => {};
     const get_response = (intents_list: [], intents_json: object) => {};
 
-    res.status(200).json({});
+    res.status(200).json("");
 };

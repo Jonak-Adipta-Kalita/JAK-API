@@ -1,6 +1,10 @@
 import type { NextApiRequest, NextApiResponse } from "next";
+import { BrawlStars } from "../../typings";
 
-export default (req: NextApiRequest, res: NextApiResponse) => {
+export default (
+    req: NextApiRequest,
+    res: NextApiResponse<BrawlStars | { error: string }>
+) => {
     if (!(req.method === "GET")) {
         res.setHeader("Allow", ["GET"]);
         return res

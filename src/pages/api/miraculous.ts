@@ -1,6 +1,10 @@
 import type { NextApiRequest, NextApiResponse } from "next";
+import { Miraculous } from "../../typings";
 
-export default (req: NextApiRequest, res: NextApiResponse) => {
+export default (
+    req: NextApiRequest,
+    res: NextApiResponse<Miraculous | { error: string }>
+) => {
     if (!(req.method === "GET")) {
         res.setHeader("Allow", ["GET"]);
         return res
@@ -1877,7 +1881,7 @@ export default (req: NextApiRequest, res: NextApiResponse) => {
                 name: "Mega Leech",
                 image: "/images/miraculous/amokatized/mega-leech.png",
                 serve: "Malediktator",
-                power_and_ability: [null],
+                power_and_ability: ["Throw clows of Malediktator"],
             },
             {
                 id: 10,

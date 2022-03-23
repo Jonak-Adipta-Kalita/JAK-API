@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.swagger-ui:nth-child(2) div.scheme-container {
+    @apply hidden;
+}
+
+.swagger-ui:nth-child(2) div.information-container.wrapper {
+    @apply hidden;
+}
+
+#operations-tag-default {
+    @apply hidden;
+}

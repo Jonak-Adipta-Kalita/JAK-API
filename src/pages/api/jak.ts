@@ -1,7 +1,10 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import { JAK } from "../../typings";
 
-export default (req: NextApiRequest, res: NextApiResponse<JAK | {error: string}>) => {
+export default (
+    req: NextApiRequest,
+    res: NextApiResponse<JAK | { error: string }>
+) => {
     if (!(req.method === "GET")) {
         res.setHeader("Allow", ["GET"]);
         return res

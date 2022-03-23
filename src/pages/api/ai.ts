@@ -7,7 +7,8 @@ import intent from "../../ai/model/intents.json";
  * @swagger
  * /api/ai:
  *   post:
- *     description: Talk with Alexis
+ *     summary: Talk with Alexis
+ *     description: Talk with Alexis a AI made by JAK
  *     parameters:
  *       - name: message
  *         in: formData

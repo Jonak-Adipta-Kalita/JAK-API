@@ -3,7 +3,7 @@ import { BrawlStars } from "../../typings";
 
 /**
  * @swagger
- * /api/ben10:
+ * /api/brawlStars:
  *   get:
  *     description: Get the Data about Brawl Stars
  *     summary: Get Brawl Stars Data

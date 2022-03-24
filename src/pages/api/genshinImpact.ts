@@ -3,7 +3,7 @@ import { GenshinImpact } from "../../typings";
 
 /**
  * @swagger
- * /api/ben10:
+ * /api/genshinImpact:
  *   get:
  *     description: Get the Data about Genshin Impact
  *     summary: Get Genshin Impact Data

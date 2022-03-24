@@ -3,7 +3,7 @@ import { JAK } from "../../typings";
 
 /**
  * @swagger
- * /api/ben10:
+ * /api/jak:
  *   get:
  *     description: Get the Data about JAK
  *     summary: Get JAK Data

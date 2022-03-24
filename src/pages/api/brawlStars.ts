@@ -1,6 +1,16 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import { BrawlStars } from "../../typings";
 
+/**
+ * @swagger
+ * /api/ben10:
+ *   get:
+ *     description: Get the Data about Brawl Stars
+ *     summary: Get Brawl Stars Data
+ *     responses:
+ *       200:
+ *          description: Brawl Stars Data
+ */
 export default (
     req: NextApiRequest,
     res: NextApiResponse<BrawlStars | { error: string }>

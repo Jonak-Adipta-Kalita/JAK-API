@@ -1,6 +1,16 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import { Miraculous } from "../../typings";
 
+/**
+ * @swagger
+ * /api/ben10:
+ *   get:
+ *     description: Get the Data about Miraculous
+ *     summary: Get Miraculous Data
+ *     responses:
+ *       200:
+ *          description: Miraculous Data
+ */
 export default (
     req: NextApiRequest,
     res: NextApiResponse<Miraculous | { error: string }>

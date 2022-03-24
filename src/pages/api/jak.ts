@@ -1,6 +1,16 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import { JAK } from "../../typings";
 
+/**
+ * @swagger
+ * /api/ben10:
+ *   get:
+ *     description: Get the Data about JAK
+ *     summary: Get JAK Data
+ *     responses:
+ *       200:
+ *          description: JAK Data
+ */
 export default (
     req: NextApiRequest,
     res: NextApiResponse<JAK | { error: string }>

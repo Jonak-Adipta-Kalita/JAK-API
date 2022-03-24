@@ -1,6 +1,16 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import { GenshinImpact } from "../../typings";
 
+/**
+ * @swagger
+ * /api/ben10:
+ *   get:
+ *     description: Get the Data about Genshin Impact
+ *     summary: Get Genshin Impact Data
+ *     responses:
+ *       200:
+ *          description: Genshin Impact Data
+ */
 export default (
     req: NextApiRequest,
     res: NextApiResponse<GenshinImpact | { error: string }>

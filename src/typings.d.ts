@@ -135,7 +135,7 @@ export interface MughalEmpire {
             id: number;
             name: string;
             born: string | null;
-            died: string;
+            died: string | null;
             image: string | null;
             description: string;
         }[];

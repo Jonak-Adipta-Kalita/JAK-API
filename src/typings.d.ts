@@ -121,3 +121,23 @@ export interface Miraculous {
         power_and_ability: string[] | null[];
     }[];
 }
+
+export interface MughalEmpire {
+    description: string;
+    kings: {
+        id: number;
+        name: string;
+        givenName: string;
+        image: string;
+        description: string;
+        reigned: string;
+        wives: {
+            id: number;
+            name: string;
+            born: string | null;
+            died: string;
+            image: string | null;
+            description: string;
+        }[];
+    }[];
+}

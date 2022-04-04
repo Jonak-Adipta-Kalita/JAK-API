@@ -41,9 +41,9 @@ export interface JAK {
                 id: number;
                 platform: string;
                 value: string;
-				description: string;
+                description: string;
                 imageURL: string;
-				link: string;
+                link: string;
             }[];
         },
         {
@@ -73,6 +73,21 @@ export interface JAK {
             }[];
         }
     ];
+    games: {
+        id: number;
+        platform: string;
+        value: string;
+        description: string;
+        imageURL: string;
+        link: string;
+    }[];
+    pictures: {
+        id: number;
+        name: string;
+        height: string;
+        width: string;
+        image: string;
+    }[];
     fav_food: {
         id: number;
         value: string;

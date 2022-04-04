@@ -31,8 +31,9 @@ export default (
                         id: 0,
                         platform: "Mobile",
                         value: "Pokemon Go",
-						description: "Join Trainers around the world and play Pokémon GO together in new and exciting ways.",
-						link: "https://pokemongolive.com/en/",
+                        description:
+                            "Join Trainers around the world and play Pokémon GO together in new and exciting ways.",
+                        link: "https://pokemongolive.com/en/",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/PokemonGo.png",
                     },
@@ -40,8 +41,9 @@ export default (
                         id: 1,
                         platform: "Mobile",
                         value: "Brawl Stars",
-						description: "Time to BRAWL! Team up with your friends and get ready for epic multiplayer MAYHEM!",
-						link: "https://supercell.com/en/games/brawlstars/",
+                        description:
+                            "Time to BRAWL! Team up with your friends and get ready for epic multiplayer MAYHEM!",
+                        link: "https://supercell.com/en/games/brawlstars/",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/brawl-stars.png",
                     },
@@ -49,8 +51,9 @@ export default (
                         id: 2,
                         platform: "Mobile",
                         value: "Among Us",
-						description: "Among Us is a party game of teamwork and betrayal. Crewmates work together to complete tasks before one or more Impostors can kill everyone aboard.",
-						link: "https://www.innersloth.com/games/among-us/",
+                        description:
+                            "Among Us is a party game of teamwork and betrayal. Crewmates work together to complete tasks before one or more Impostors can kill everyone aboard.",
+                        link: "https://www.innersloth.com/games/among-us/",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/among-us.png",
                     },
@@ -58,8 +61,9 @@ export default (
                         id: 3,
                         platform: "Personal Computer",
                         value: "Need For Speed: Most Wanted 2005",
-						description: "Need for Speed: Most Wanted is a 2005 open-world racing video game.",
-						link: "https://www.ea.com/games/need-for-speed/need-for-speed-most-wanted-2005",
+                        description:
+                            "Need for Speed: Most Wanted is a 2005 open-world racing video game.",
+                        link: "https://www.ea.com/games/need-for-speed/need-for-speed-most-wanted-2005",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/need-for-speed-most-wanted-2005.png",
                     },
@@ -67,8 +71,9 @@ export default (
                         id: 4,
                         platform: "Personal Computer",
                         value: "Need For Speed: Most Wanted 2012",
-						description: "To be Most Wanted, you’ll need to outrun the cops, outdrive your friends, and outsmart your rivals. With a relentless police force gunning to take you down, you’ll need to make split second decisions.",
-						link: "https://www.ea.com/en-gb/games/need-for-speed/need-for-speed-most-wanted-2012",
+                        description:
+                            "To be Most Wanted, you’ll need to outrun the cops, outdrive your friends, and outsmart your rivals. With a relentless police force gunning to take you down, you’ll need to make split second decisions.",
+                        link: "https://www.ea.com/en-gb/games/need-for-speed/need-for-speed-most-wanted-2012",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/need-for-speed-most-wanted-.png",
                     },
@@ -76,8 +81,9 @@ export default (
                         id: 5,
                         platform: "Personal Computer",
                         value: "Krunker.io",
-						description: "Krunker is a online multiplayer Shooting Game!!",
-						link: "https://krunker.io/",
+                        description:
+                            "Krunker is a online multiplayer Shooting Game!!",
+                        link: "https://krunker.io/",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/krunker-io.png",
                     },
@@ -85,8 +91,9 @@ export default (
                         id: 6,
                         platform: "Personal Computer",
                         value: "Call of Duty: Modern Warfare 3",
-						description: "Modern Warfare 3 delivers a multiplayer experience that continues to raise the bar by focusing on fast-paced, gun-on-gun combat, along with innovative features that support and enhance a large variety of play-styles. Killstreaks have been redesigned, new game modes are being introduced, and a gun progression system evolves your weapons over time.",
-						link: "https://www.callofduty.com/mw3",
+                        description:
+                            "Modern Warfare 3 delivers a multiplayer experience that continues to raise the bar by focusing on fast-paced, gun-on-gun combat, along with innovative features that support and enhance a large variety of play-styles. Killstreaks have been redesigned, new game modes are being introduced, and a gun progression system evolves your weapons over time.",
+                        link: "https://www.callofduty.com/mw3",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/call-of-duty-modern-warfare-3.png",
                     },
@@ -94,16 +101,18 @@ export default (
                         id: 7,
                         platform: "Personal Computer",
                         value: "Re Run",
-						description: "Re Run is a Fighting game created by Dani",
-						link: "https://danidev.itch.io/rerun",
+                        description:
+                            "Re Run is a Fighting game created by Dani",
+                        link: "https://danidev.itch.io/rerun",
                         imageURL: "/images/jak/hobby/favouriteGames/re-run.png",
                     },
                     {
                         id: 8,
                         platform: "Personal Computer",
                         value: "Human Fall Flat",
-						description: "In Human: Fall Flat you play as a wobbly human who keeps dreaming about surreal places filled with puzzles where he's yet to find the exit.",
-						link: "https://505games.com/games/human-fall-flat/",
+                        description:
+                            "In Human: Fall Flat you play as a wobbly human who keeps dreaming about surreal places filled with puzzles where he's yet to find the exit.",
+                        link: "https://505games.com/games/human-fall-flat/",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/human-fall-flat.png",
                     },
@@ -111,8 +120,9 @@ export default (
                         id: 9,
                         platform: "Personal Computer",
                         value: "One Hand Clapping",
-						description: "One Hand Clapping is a relaxing, inspiring puzzle platformer that focuses on vocal input to progress through its vibrant world.",
-						link: "https://handy-games.com/en/games/one-hand-clapping/",
+                        description:
+                            "One Hand Clapping is a relaxing, inspiring puzzle platformer that focuses on vocal input to progress through its vibrant world.",
+                        link: "https://handy-games.com/en/games/one-hand-clapping/",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/one-hand-clapping.png",
                     },
@@ -120,8 +130,9 @@ export default (
                         id: 10,
                         platform: "Personal Computer",
                         value: "Jelly Drift",
-						description: "Jelly Drift is a Car Racing game made by Dani!",
-						link: "https://danidev.itch.io/jelly-drift",
+                        description:
+                            "Jelly Drift is a Car Racing game made by Dani!",
+                        link: "https://danidev.itch.io/jelly-drift",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/jelly-drift.png",
                     },
@@ -129,8 +140,9 @@ export default (
                         id: 11,
                         platform: "Personal Computer",
                         value: "Minecraft",
-						description: "In Minecraft, players explore a blocky, procedurally generated 3D world with virtually infinite terrain, and may discover and extract raw materials, craft tools and items, and build structures, earthworks and simple machines. Depending on game mode, players can fight computer-controlled mobs, as well as cooperate with or compete against other players in the same world. Game modes include a survival mode, in which players must acquire resources to build the world and maintain health, and a creative mode, where players have unlimited resources and access to flight. Players can modify the game to create new gameplay mechanics, items, and assets.",
-						link: "https://www.minecraft.net/",
+                        description:
+                            "In Minecraft, players explore a blocky, procedurally generated 3D world with virtually infinite terrain, and may discover and extract raw materials, craft tools and items, and build structures, earthworks and simple machines. Depending on game mode, players can fight computer-controlled mobs, as well as cooperate with or compete against other players in the same world. Game modes include a survival mode, in which players must acquire resources to build the world and maintain health, and a creative mode, where players have unlimited resources and access to flight. Players can modify the game to create new gameplay mechanics, items, and assets.",
+                        link: "https://www.minecraft.net/",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/minecraft.png",
                     },
@@ -138,8 +150,9 @@ export default (
                         id: 12,
                         platform: "Personal Computer",
                         value: "Scribbl.io",
-						description: "Skribbl.io is a free multiplayer drawing and guessing game. Draw and guess words with your friends and people all around the world!!",
-						link: "https://skribbl.io/",
+                        description:
+                            "Skribbl.io is a free multiplayer drawing and guessing game. Draw and guess words with your friends and people all around the world!!",
+                        link: "https://skribbl.io/",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/scribbl-io.png",
                     },
@@ -147,8 +160,9 @@ export default (
                         id: 13,
                         platform: "Personal Computer",
                         value: "Ducklings.io",
-						description: "It's time to relax, you're a duck now. Swim around and rescue as many ducklings as possible. Dodge the reckless boats, they will hurt you!!",
-						link: "https://ducklings.io/",
+                        description:
+                            "It's time to relax, you're a duck now. Swim around and rescue as many ducklings as possible. Dodge the reckless boats, they will hurt you!!",
+                        link: "https://ducklings.io/",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/ducklings-io.png",
                     },
@@ -156,8 +170,9 @@ export default (
                         id: 14,
                         platform: "Personal Computer",
                         value: "Hole.io",
-						description: "Absorb everyone into your black hole in the new game!!",
-						link: "https://hole-io.com/",
+                        description:
+                            "Absorb everyone into your black hole in the new game!!",
+                        link: "https://hole-io.com/",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/hole-io.png",
                     },
@@ -165,8 +180,9 @@ export default (
                         id: 15,
                         platform: "Personal Computer",
                         value: "Agar.io",
-						description: "Agar.io is a massively multiplayer online action game created by Brazilian developer Matheus Valadares. Players control one or more circular cells in a map representing a Petri dish!!",
-						link: "https://www.agar.io/",
+                        description:
+                            "Agar.io is a massively multiplayer online action game created by Brazilian developer Matheus Valadares. Players control one or more circular cells in a map representing a Petri dish!!",
+                        link: "https://www.agar.io/",
                         imageURL:
                             "/images/jak/hobby/favouriteGames/agar-io.png",
                     },
@@ -174,10 +190,10 @@ export default (
                         id: 16,
                         platform: "Personal Computer",
                         value: "Paper.io",
-						description: "Invade as many lands as possible and become the biggest on the server!!",
-						link: "	https://paper-io.com/",
-                        imageURL:
-                            "/images/jak/hobby/favouriteGames/paper.png",
+                        description:
+                            "Invade as many lands as possible and become the biggest on the server!!",
+                        link: "	https://paper-io.com/",
+                        imageURL: "/images/jak/hobby/favouriteGames/paper.png",
                     },
                 ],
             },
@@ -408,6 +424,10 @@ export default (
                 ],
             },
         ],
+
+        pictures: [],
+
+        games: [],
 
         fav_food: [
             {

@@ -41,7 +41,9 @@ export interface JAK {
                 id: number;
                 platform: string;
                 value: string;
+				description: string;
                 imageURL: string;
+				link: string;
             }[];
         },
         {

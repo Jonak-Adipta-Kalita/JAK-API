@@ -35,7 +35,7 @@ export default (
                             "Join Trainers around the world and play Pokémon GO together in new and exciting ways.",
                         link: "https://pokemongolive.com/en/",
                         imageURL:
-                            "/images/jak/hobby/favouriteGames/PokemonGo.png",
+                            "/images/jak/hobby/favouriteGames/pokemon-go.png",
                     },
                     {
                         id: 1,
@@ -75,7 +75,7 @@ export default (
                             "To be Most Wanted, you’ll need to outrun the cops, outdrive your friends, and outsmart your rivals. With a relentless police force gunning to take you down, you’ll need to make split second decisions.",
                         link: "https://www.ea.com/en-gb/games/need-for-speed/need-for-speed-most-wanted-2012",
                         imageURL:
-                            "/images/jak/hobby/favouriteGames/need-for-speed-most-wanted-.png",
+                            "/images/jak/hobby/favouriteGames/need-for-speed-most-wanted-2012.png",
                     },
                     {
                         id: 5,

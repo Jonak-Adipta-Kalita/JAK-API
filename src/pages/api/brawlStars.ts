@@ -452,7 +452,7 @@ export default (
                 name: "Fang",
                 image: "/images/brawlStars/fang.png",
                 gadget: ["Corn Foo", "Roundhouse Kick"],
-                starpower: ["Fresh Kicks", null],
+                starpower: ["Fresh Kicks", "Divine Soles"],
                 category: "Chromatic Brawler",
             },
             {
@@ -462,6 +462,22 @@ export default (
                 gadget: ["Gotta Go!", "Motherly Love"],
                 starpower: ["Unnatural Order", "Happy Surprise"],
                 category: "Chromatic Brawler",
+            },
+            {
+                id: 55,
+                name: "Janet",
+                image: "/images/brawlStars/janet.png",
+                gadget: ["Drop The Bass", null],
+                starpower: ["Stage View", null],
+                category: "Chromatic Brawler",
+            },
+            {
+                id: 56,
+                name: "Bonnie",
+                image: "/images/brawlStars/bonnie.png",
+                gadget: ["Sugar Rush", null],
+                starpower: ["Black Powder", null],
+                category: "Epic Brawler",
             },
         ],
     });

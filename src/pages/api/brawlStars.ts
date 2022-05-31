@@ -467,8 +467,8 @@ export default (
                 id: 55,
                 name: "Janet",
                 image: "/images/brawlStars/janet.png",
-                gadget: ["Drop The Bass", null],
-                starpower: ["Stage View", null],
+                gadget: ["Drop The Bass", "Backstage Pass"],
+                starpower: ["Stage View", "Vocal Warm-Up"],
                 category: "Chromatic Brawler",
             },
             {

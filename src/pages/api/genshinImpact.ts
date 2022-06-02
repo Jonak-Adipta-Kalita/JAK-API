@@ -590,7 +590,7 @@ export default (
             {
                 id: 47,
                 name: "Yelan",
-                image: "/images/genshinImpact/yelen.png",
+                image: "/images/genshinImpact/yelan.png",
                 element: "Hydro",
                 weapon: "Bow",
                 special_dish: "Dew-Dipped Shrimp",

@@ -600,7 +600,7 @@ export default (
                 nation: "Liyue",
             },
             {
-                id: 47,
+                id: 48,
                 name: "Yae Miko",
                 image: "/images/genshinImpact/yae-miko.png",
                 element: "Electro",

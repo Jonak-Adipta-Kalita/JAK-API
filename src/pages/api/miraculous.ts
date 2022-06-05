@@ -521,7 +521,7 @@ export default (
                 image: "/images/miraculous/holders/rooster-bold.png",
                 real_name: "Marc Anciel",
                 kwami: ["Orikko"],
-                magical_words: "Orikko !",
+                magical_words: "Orikko Transform!",
                 main_power: "Sublimation",
             },
             {
@@ -530,7 +530,7 @@ export default (
                 image: "/images/miraculous/holders/caprikid.png",
                 real_name: "Nathaniel Kurtzberg",
                 kwami: ["Ziggy"],
-                magical_words: "Ziggy !",
+                magical_words: "Ziggy Transform!",
                 main_power: "Genesis",
             },
             {
@@ -548,7 +548,7 @@ export default (
                 image: "/images/miraculous/holders/minotaurox.png",
                 real_name: "Ivan Bruel",
                 kwami: ["Stompp"],
-                magical_words: "Stompp !",
+                magical_words: "Stompp Transform!",
                 main_power: "Resistance",
             },
         ],

@@ -652,7 +652,8 @@ export default (
                 ],
                 magical_words:
                     "Tikki, Plagg, Nooroo, Wayzz, Trixx, Pollen, Duusu, Sass, Mullo, Longg, Ziggy, Xuppu, Daizzi, Orikko, Barkk, Stompp, Kaalki, Roaar, Unify!",
-                main_power: "",
+                main_power:
+                    "Lucky Charm, Cataclysm, Akumatization, Shell-ter, Mirage, Venom, Amokatization, Second Chance, Multitude, Wind Dragon, Water Dragon, Thunder Dragon, Genesis, Uproar, Gift, Sublimation, Fetch, Resistance, Voyage, Collision, Burrow",
             },
             {
                 id: 41,

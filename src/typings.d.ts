@@ -111,6 +111,8 @@ export interface Miraculous {
         owner: string[];
         holder: string;
         miraculous: string;
+        power: string;
+        magical_words: string | null;
     }[];
     holders: {
         id: number;

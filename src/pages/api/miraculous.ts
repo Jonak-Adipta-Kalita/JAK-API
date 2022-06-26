@@ -627,8 +627,8 @@ export default (
             },
             {
                 id: 40,
-                name: "Monarch",
-                image: "/images/miraculous/holders/monarch.png",
+                name: "Monarque",
+                image: "/images/miraculous/holders/monarque.png",
                 real_name: "Gabriel Agreste",
                 kwami: [
                     "Tikki",

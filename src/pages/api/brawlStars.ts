@@ -479,6 +479,14 @@ export default (
                 starpower: ["Black Powder", "Wisdom Tooth"],
                 category: "Epic Brawler",
             },
+            {
+                id: 57,
+                name: "Otis",
+                image: "/images/brawlStars/otis.png",
+                gadget: ["Dormant Star", null],
+                starpower: ["Stencil Glue", null],
+                category: "Chromatic Brawler",
+            },
         ],
     });
 };

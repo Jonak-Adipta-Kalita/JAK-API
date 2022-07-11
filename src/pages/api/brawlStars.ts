@@ -29,7 +29,7 @@ export default (
                 image: "/images/brawlStars/shelly.png",
                 gadget: ["Fast Forward", "Clay Pigeon"],
                 starpower: ["Shell Shock", "Band-Aid"],
-                category: "Starting Brawler",
+                category: "Starting",
             },
             {
                 id: 1,
@@ -37,7 +37,7 @@ export default (
                 image: "/images/brawlStars/nita.png",
                 gadget: ["Bear Paws", "Faux Fur"],
                 starpower: ["Bear with Me", "Hyper Bear"],
-                category: "Trophy Road Brawler",
+                category: "Trophy Road",
             },
             {
                 id: 2,
@@ -45,7 +45,7 @@ export default (
                 image: "/images/brawlStars/colt.png",
                 gadget: ["Speed Loader", "Silver Bullet"],
                 starpower: ["Slick Boots", "Magnum Special"],
-                category: "Trophy Road Brawler",
+                category: "Trophy Road",
             },
             {
                 id: 3,
@@ -53,7 +53,7 @@ export default (
                 image: "/images/brawlStars/bull.png",
                 gadget: ["T-Bone Injector", "Stomper"],
                 starpower: ["Berserker", "Tough Guy"],
-                category: "Trophy Road Brawler",
+                category: "Trophy Road",
             },
             {
                 id: 4,
@@ -61,7 +61,7 @@ export default (
                 image: "/images/brawlStars/jessie.png",
                 gadget: ["Spark Plug", "Recoil Spring"],
                 starpower: ["Energize", "Shocky"],
-                category: "Trophy Road Brawler",
+                category: "Trophy Road",
             },
             {
                 id: 5,
@@ -69,7 +69,7 @@ export default (
                 image: "/images/brawlStars/brock.png",
                 gadget: ["Rocket Laces", "Rocket Fuel"],
                 starpower: ["More Rockets", "Rocket No. Four"],
-                category: "Trophy Road Brawler",
+                category: "Trophy Road",
             },
             {
                 id: 6,
@@ -77,7 +77,7 @@ export default (
                 image: "/images/brawlStars/dynamike.png",
                 gadget: ["Fidget Spinner", "Satchel Charge"],
                 starpower: ["Dyna Jump", "Demolition"],
-                category: "Trophy Road Brawler",
+                category: "Trophy Road",
             },
             {
                 id: 7,
@@ -85,7 +85,7 @@ export default (
                 image: "/images/brawlStars/bo.png",
                 gadget: ["Super Totem", "Tripwire"],
                 starpower: ["Circling Eagle", "Snare A Bear"],
-                category: "Trophy Road Brawler",
+                category: "Trophy Road",
             },
             {
                 id: 8,
@@ -93,7 +93,7 @@ export default (
                 image: "/images/brawlStars/tick.png",
                 gadget: ["Mine Mania", "Last Hurrah"],
                 starpower: ["Well Oiled", "Automa-Tick Reload"],
-                category: "Trophy Road Brawler",
+                category: "Trophy Road",
             },
             {
                 id: 9,
@@ -101,7 +101,7 @@ export default (
                 image: "/images/brawlStars/8-bit.png",
                 gadget: ["Cheat Cartridge", "Extra Credits"],
                 starpower: ["Boosted Booster", "Plugged In"],
-                category: "Trophy Road Brawler",
+                category: "Trophy Road",
             },
             {
                 id: 10,
@@ -109,7 +109,7 @@ export default (
                 image: "/images/brawlStars/emz.png",
                 gadget: ["Friend Zoner", "Acid Spray"],
                 starpower: ["Bad Karma", "Hype"],
-                category: "Trophy Road Brawler",
+                category: "Trophy Road",
             },
             {
                 id: 11,
@@ -117,7 +117,7 @@ export default (
                 image: "/images/brawlStars/stu.png",
                 gadget: ["Speed Zone", "Breakthrough"],
                 starpower: ["Zero Drag", "Gaso Heal"],
-                category: "Trophy Road Brawler",
+                category: "Trophy Road",
             },
             {
                 id: 12,
@@ -125,7 +125,7 @@ export default (
                 image: "/images/brawlStars/el_primo.png",
                 gadget: ["Suplex Supplement", "Asteroid Belt"],
                 starpower: ["El Fuego", "Meteor Rush"],
-                category: "Rare Brawler",
+                category: "Rare",
             },
             {
                 id: 13,
@@ -133,7 +133,7 @@ export default (
                 image: "/images/brawlStars/barley.png",
                 gadget: ["Sticky Syrup Mixer", "Herbal Tonic"],
                 starpower: ["Medical Use", "Extra Noxious"],
-                category: "Rare Brawler",
+                category: "Rare",
             },
             {
                 id: 14,
@@ -141,7 +141,7 @@ export default (
                 image: "/images/brawlStars/poco.png",
                 gadget: ["Tuning Fork", "Protective Tunes"],
                 starpower: ["Da Capo!", "Screeching Solo"],
-                category: "Rare Brawler",
+                category: "Rare",
             },
             {
                 id: 15,
@@ -149,7 +149,7 @@ export default (
                 image: "/images/brawlStars/rosa.png",
                 gadget: ["Grow Light", "Unfriendly Bushes"],
                 starpower: ["Plant Life", "Thorny Gloves"],
-                category: "Rare Brawler",
+                category: "Rare",
             },
             {
                 id: 16,
@@ -157,7 +157,7 @@ export default (
                 image: "/images/brawlStars/rico.png",
                 gadget: ["Multiball Launcher", "Bouncy Castle"],
                 starpower: ["Super Bouncy", "Robo Retreat"],
-                category: "Super Rare Brawler",
+                category: "Super Rare",
             },
             {
                 id: 17,
@@ -165,15 +165,15 @@ export default (
                 image: "/images/brawlStars/darryl.png",
                 gadget: ["Recoiling Rotator", "Tar Barrel"],
                 starpower: ["Steel Hoops", "Rolling Reload"],
-                category: "Super Rare Brawler",
+                category: "Super Rare",
             },
             {
                 id: 18,
                 name: "Penny",
                 image: "/images/brawlStars/penny.png",
-                gadget: ["Pocket Detonator", "Captain's Compass"],
-                starpower: ["Last Blast", "Balls Of Fire"],
-                category: "Super Rare Brawler",
+                gadget: ["Salty Barrel", "Trusty Spyglass"],
+                starpower: ["Heavy Coffers", "Master Blaster"],
+                category: "Super Rare",
             },
             {
                 id: 19,
@@ -181,7 +181,7 @@ export default (
                 image: "/images/brawlStars/carl.png",
                 gadget: ["Heat Ejector", "Flying Hook"],
                 starpower: ["Power Throw", "Protective Pirouette"],
-                category: "Super Rare Brawler",
+                category: "Super Rare",
             },
             {
                 id: 20,
@@ -189,7 +189,7 @@ export default (
                 image: "/images/brawlStars/jacky.png",
                 gadget: ["Pneumatic Booster", null],
                 starpower: ["Counter Crush", "Hardy Hard Hat"],
-                category: "Super Rare Brawler",
+                category: "Super Rare",
             },
             {
                 id: 21,
@@ -197,7 +197,7 @@ export default (
                 image: "/images/brawlStars/piper.png",
                 gadget: ["Auto Aimer", "Homemade Recipe"],
                 starpower: ["Ambush", "Snappy Sniping"],
-                category: "Epic Brawler",
+                category: "Epic",
             },
             {
                 id: 22,
@@ -205,7 +205,7 @@ export default (
                 image: "/images/brawlStars/pam.png",
                 gadget: ["Pulse Modulator", "ScrapSucker"],
                 starpower: ["Mama's Hug", "Mama's Squeeze"],
-                category: "Epic Brawler",
+                category: "Epic",
             },
             {
                 id: 23,
@@ -213,7 +213,7 @@ export default (
                 image: "/images/brawlStars/frank.png",
                 gadget: ["Active Noise Canceling", "Irresistible Attraction"],
                 starpower: ["Power Grab", "Sponge"],
-                category: "Epic Brawler",
+                category: "Epic",
             },
             {
                 id: 24,
@@ -221,7 +221,7 @@ export default (
                 image: "/images/brawlStars/bibi.png",
                 gadget: ["Vitamin Booster", "Extra Stikcy"],
                 starpower: ["Home Run", "Batting Stance"],
-                category: "Epic Brawler",
+                category: "Epic",
             },
             {
                 id: 25,
@@ -229,7 +229,7 @@ export default (
                 image: "/images/brawlStars/bea.png",
                 gadget: ["Honey Molasses", "Rattled Hive"],
                 starpower: ["Insta Beaload", "Honeycomb"],
-                category: "Epic Brawler",
+                category: "Epic",
             },
             {
                 id: 26,
@@ -237,7 +237,7 @@ export default (
                 image: "/images/brawlStars/nani.png",
                 gadget: ["Warp Blast", "Return to Sender"],
                 starpower: ["Autofocus", "Tempered Steel"],
-                category: "Super Rare Brawler",
+                category: "Super Rare",
             },
             {
                 id: 27,
@@ -245,7 +245,7 @@ export default (
                 image: "/images/brawlStars/edgar.png",
                 gadget: ["Let's Fly", "Hardcore"],
                 starpower: ["Hard Landing", "Fisticuffs"],
-                category: "Epic Brawler",
+                category: "Epic",
             },
             {
                 id: 28,
@@ -253,7 +253,7 @@ export default (
                 image: "/images/brawlStars/griff.png",
                 gadget: ["Piggy Bank", null],
                 starpower: ["Keep the Change", "Business Resilience"],
-                category: "Epic Brawler",
+                category: "Epic",
             },
             {
                 id: 29,
@@ -261,7 +261,7 @@ export default (
                 image: "/images/brawlStars/mortis.png",
                 gadget: ["Combo Spinner", "Survival Shovel"],
                 starpower: ["Creepy Harvest", "Coiled Snake"],
-                category: "Mythic Brawler",
+                category: "Mythic",
             },
             {
                 id: 30,
@@ -269,7 +269,7 @@ export default (
                 image: "/images/brawlStars/tara.png",
                 gadget: ["Psychic Enhancer", "Support from Beyond"],
                 starpower: ["Black Portal", "Healing Shade"],
-                category: "Mythic Brawler",
+                category: "Mythic",
             },
             {
                 id: 31,
@@ -277,7 +277,7 @@ export default (
                 image: "/images/brawlStars/gene.png",
                 gadget: ["Lamp Blowout", "Vengeful Spirits"],
                 starpower: ["Magic Puffs", "Spirit Slap"],
-                category: "Mythic Brawler",
+                category: "Mythic",
             },
             {
                 id: 32,
@@ -285,7 +285,7 @@ export default (
                 image: "/images/brawlStars/max.png",
                 gadget: ["Phase Shifter", "Sneaky Sneakers"],
                 starpower: ["Super Charged", "Run N Gun"],
-                category: "Mythic Brawler",
+                category: "Mythic",
             },
             {
                 id: 33,
@@ -293,7 +293,7 @@ export default (
                 image: "/images/brawlStars/mr_p.png",
                 gadget: ["Service Bell", "Porter Reinforcements"],
                 starpower: ["Handle With Care", "Revolving Door"],
-                category: "Mythic Brawler",
+                category: "Mythic",
             },
             {
                 id: 34,
@@ -301,7 +301,7 @@ export default (
                 image: "/images/brawlStars/sprout.png",
                 gadget: ["Garden Mulcher", "Transplant"],
                 starpower: ["Overgrowth", "Photosynthesis"],
-                category: "Mythic Brawler",
+                category: "Mythic",
             },
             {
                 id: 35,
@@ -309,7 +309,7 @@ export default (
                 image: "/images/brawlStars/byron.png",
                 gadget: ["Shot In The Arm", "Booster Shots"],
                 starpower: ["Malaise", "Injection"],
-                category: "Mythic Brawler",
+                category: "Mythic",
             },
             {
                 id: 36,
@@ -317,7 +317,7 @@ export default (
                 image: "/images/brawlStars/squeak.png",
                 gadget: ["Windup", "Residue"],
                 starpower: ["Chain Reaction", "Super Sticky"],
-                category: "Mythic Brawler",
+                category: "Mythic",
             },
             {
                 id: 37,
@@ -325,7 +325,7 @@ export default (
                 image: "/images/brawlStars/spike.png",
                 gadget: ["Poping Pincushion", "Life Plant"],
                 starpower: ["Fertilize", "Curveball"],
-                category: "Legendary Brawler",
+                category: "Legendary",
             },
             {
                 id: 38,
@@ -333,7 +333,7 @@ export default (
                 image: "/images/brawlStars/crow.png",
                 gadget: ["Defence Booster", "Slowing Toxic"],
                 starpower: ["Extra Toxic", "Carrion Crow"],
-                category: "Legendary Brawler",
+                category: "Legendary",
             },
             {
                 id: 39,
@@ -341,7 +341,7 @@ export default (
                 image: "/images/brawlStars/leon.png",
                 gadget: ["Clone Projector", "Lollipop Drop"],
                 starpower: ["Smoke Trails", "Invisiheal"],
-                category: "Legendary Brawler",
+                category: "Legendary",
             },
             {
                 id: 40,
@@ -349,7 +349,7 @@ export default (
                 image: "/images/brawlStars/sandy.png",
                 gadget: ["Sleep Simulator", "Sweet Dreams"],
                 starpower: ["Rude Sands", "Healing Winds"],
-                category: "Legendary Brawler",
+                category: "Legendary",
             },
             {
                 id: 41,
@@ -357,7 +357,7 @@ export default (
                 image: "/images/brawlStars/amber.png",
                 gadget: ["Fire Starters", null],
                 starpower: ["Wild Flames", "Scrochin Siphon"],
-                category: "Legendary Brawler",
+                category: "Legendary",
             },
             {
                 id: 42,
@@ -365,7 +365,7 @@ export default (
                 image: "/images/brawlStars/gale.png",
                 gadget: ["Spring Ejector", "Twister"],
                 starpower: ["Blustery Blow", "Freezing Snow"],
-                category: "Chromatic Brawler",
+                category: "Chromatic",
             },
             {
                 id: 43,
@@ -373,7 +373,7 @@ export default (
                 image: "/images/brawlStars/surge.png",
                 gadget: ["Power Surge", null],
                 starpower: ["To The Max!", "Serve Ice Cold"],
-                category: "Chromatic Brawler",
+                category: "Chromatic",
             },
             {
                 id: 44,
@@ -381,7 +381,7 @@ export default (
                 image: "/images/brawlStars/colette.png",
                 gadget: ["Na-Ah", "Gotcha!"],
                 starpower: ["Push It", "Mass Tax"],
-                category: "Chromatic Brawler",
+                category: "Chromatic",
             },
             {
                 id: 45,
@@ -389,7 +389,7 @@ export default (
                 image: "/images/brawlStars/lou.png",
                 gadget: ["Ice Block", "Cryo Syrup"],
                 starpower: ["Supercool", "Hypothermia"],
-                category: "Chromatic Brawler",
+                category: "Chromatic",
             },
             {
                 id: 46,
@@ -397,7 +397,7 @@ export default (
                 image: "/images/brawlStars/colonel_ruffs.png",
                 gadget: ["Take Cover", "Air Support"],
                 starpower: ["Air Superiority", "Field Promotions"],
-                category: "Chromatic Brawler",
+                category: "Chromatic",
             },
             {
                 id: 47,
@@ -405,7 +405,7 @@ export default (
                 image: "/images/brawlStars/belle.png",
                 gadget: ["Nest Egg", "Reverse Polarity"],
                 starpower: ["Positive Feedback", "Grounded"],
-                category: "Chromatic Brawler",
+                category: "Chromatic",
             },
             {
                 id: 48,
@@ -413,7 +413,7 @@ export default (
                 image: "/images/brawlStars/buzz.png",
                 gadget: ["Reserve Buoy", null],
                 starpower: ["Tougher Torpedo", "Eyes Sharp"],
-                category: "Chromatic Brawler",
+                category: "Chromatic",
             },
             {
                 id: 49,
@@ -421,7 +421,7 @@ export default (
                 image: "/images/brawlStars/ash.png",
                 gadget: ["Chill Pill", "Rotten Banana"],
                 starpower: ["First Bash", "Mad As Heck"],
-                category: "Chromatic Brawler",
+                category: "Chromatic",
             },
             {
                 id: 50,
@@ -429,7 +429,7 @@ export default (
                 image: "/images/brawlStars/meg.png",
                 gadget: ["Jolting Volts", null],
                 starpower: ["Force Field", "Self Destruction"],
-                category: "Legendary Brawler",
+                category: "Legendary",
             },
             {
                 id: 51,
@@ -437,7 +437,7 @@ export default (
                 image: "/images/brawlStars/lola.png",
                 gadget: ["Freeze Frames", "Stunt Double"],
                 starpower: ["Improvise", "Sealed With A Kiss"],
-                category: "Chromatic Brawler",
+                category: "Chromatic",
             },
             {
                 id: 52,
@@ -445,7 +445,7 @@ export default (
                 image: "/images/brawlStars/grom.png",
                 gadget: ["Guardia", "Radio Check"],
                 starpower: ["Tallow in the Shins", "Factor X"],
-                category: "Epic Brawler",
+                category: "Epic",
             },
             {
                 id: 53,
@@ -453,7 +453,7 @@ export default (
                 image: "/images/brawlStars/fang.png",
                 gadget: ["Corn Foo", "Roundhouse Kick"],
                 starpower: ["Fresh Kicks", "Divine Soles"],
-                category: "Chromatic Brawler",
+                category: "Chromatic",
             },
             {
                 id: 54,
@@ -461,7 +461,7 @@ export default (
                 image: "/images/brawlStars/eve.png",
                 gadget: ["Gotta Go!", "Motherly Love"],
                 starpower: ["Unnatural Order", "Happy Surprise"],
-                category: "Chromatic Brawler",
+                category: "Chromatic",
             },
             {
                 id: 55,
@@ -469,7 +469,7 @@ export default (
                 image: "/images/brawlStars/janet.png",
                 gadget: ["Drop The Bass", "Backstage Pass"],
                 starpower: ["Stage View", "Vocal Warm-Up"],
-                category: "Chromatic Brawler",
+                category: "Chromatic",
             },
             {
                 id: 56,
@@ -477,7 +477,7 @@ export default (
                 image: "/images/brawlStars/bonnie.png",
                 gadget: ["Sugar Rush", "Crash Test"],
                 starpower: ["Black Powder", "Wisdom Tooth"],
-                category: "Epic Brawler",
+                category: "Epic",
             },
             {
                 id: 57,
@@ -485,7 +485,7 @@ export default (
                 image: "/images/brawlStars/otis.png",
                 gadget: ["Dormant Star", null],
                 starpower: ["Stencil Glue", null],
-                category: "Chromatic Brawler",
+                category: "Chromatic",
             },
         ],
     });

@@ -26,7 +26,7 @@ export default (
             {
                 id: 0,
                 name: "Shelly",
-                image: "/images/brawlStars/shelly.png",
+                image: "/images/brawlStars/shelly/main.png",
                 gadget: ["Fast Forward", "Clay Pigeon"],
                 starpower: ["Shell Shock", "Band-Aid"],
                 category: "Starting",
@@ -34,7 +34,7 @@ export default (
             {
                 id: 1,
                 name: "Nita",
-                image: "/images/brawlStars/nita.png",
+                image: "/images/brawlStars/nita/main.png",
                 gadget: ["Bear Paws", "Faux Fur"],
                 starpower: ["Bear with Me", "Hyper Bear"],
                 category: "Trophy Road",
@@ -42,7 +42,7 @@ export default (
             {
                 id: 2,
                 name: "Colt",
-                image: "/images/brawlStars/colt.png",
+                image: "/images/brawlStars/colt/main.png",
                 gadget: ["Speed Loader", "Silver Bullet"],
                 starpower: ["Slick Boots", "Magnum Special"],
                 category: "Trophy Road",
@@ -50,7 +50,7 @@ export default (
             {
                 id: 3,
                 name: "Bull",
-                image: "/images/brawlStars/bull.png",
+                image: "/images/brawlStars/bull/main.png",
                 gadget: ["T-Bone Injector", "Stomper"],
                 starpower: ["Berserker", "Tough Guy"],
                 category: "Trophy Road",
@@ -58,7 +58,7 @@ export default (
             {
                 id: 4,
                 name: "Jessie",
-                image: "/images/brawlStars/jessie.png",
+                image: "/images/brawlStars/jessie/main.png",
                 gadget: ["Spark Plug", "Recoil Spring"],
                 starpower: ["Energize", "Shocky"],
                 category: "Trophy Road",
@@ -66,7 +66,7 @@ export default (
             {
                 id: 5,
                 name: "Brock",
-                image: "/images/brawlStars/brock.png",
+                image: "/images/brawlStars/brock/main.png",
                 gadget: ["Rocket Laces", "Rocket Fuel"],
                 starpower: ["More Rockets", "Rocket No. Four"],
                 category: "Trophy Road",
@@ -74,7 +74,7 @@ export default (
             {
                 id: 6,
                 name: "Dynamike",
-                image: "/images/brawlStars/dynamike.png",
+                image: "/images/brawlStars/dynamike/main.png",
                 gadget: ["Fidget Spinner", "Satchel Charge"],
                 starpower: ["Dyna Jump", "Demolition"],
                 category: "Trophy Road",
@@ -82,7 +82,7 @@ export default (
             {
                 id: 7,
                 name: "Bo",
-                image: "/images/brawlStars/bo.png",
+                image: "/images/brawlStars/bo/main.png",
                 gadget: ["Super Totem", "Tripwire"],
                 starpower: ["Circling Eagle", "Snare A Bear"],
                 category: "Trophy Road",
@@ -90,7 +90,7 @@ export default (
             {
                 id: 8,
                 name: "Tick",
-                image: "/images/brawlStars/tick.png",
+                image: "/images/brawlStars/tick/main.png",
                 gadget: ["Mine Mania", "Last Hurrah"],
                 starpower: ["Well Oiled", "Automa-Tick Reload"],
                 category: "Trophy Road",
@@ -98,7 +98,7 @@ export default (
             {
                 id: 9,
                 name: "8-Bit",
-                image: "/images/brawlStars/8-bit.png",
+                image: "/images/brawlStars/8-bit/main.png",
                 gadget: ["Cheat Cartridge", "Extra Credits"],
                 starpower: ["Boosted Booster", "Plugged In"],
                 category: "Trophy Road",
@@ -106,7 +106,7 @@ export default (
             {
                 id: 10,
                 name: "Emz",
-                image: "/images/brawlStars/emz.png",
+                image: "/images/brawlStars/emz/main.png",
                 gadget: ["Friend Zoner", "Acid Spray"],
                 starpower: ["Bad Karma", "Hype"],
                 category: "Trophy Road",
@@ -114,7 +114,7 @@ export default (
             {
                 id: 11,
                 name: "Stu",
-                image: "/images/brawlStars/stu.png",
+                image: "/images/brawlStars/stu/main.png",
                 gadget: ["Speed Zone", "Breakthrough"],
                 starpower: ["Zero Drag", "Gaso Heal"],
                 category: "Trophy Road",
@@ -122,7 +122,7 @@ export default (
             {
                 id: 12,
                 name: "El Primo",
-                image: "/images/brawlStars/el_primo.png",
+                image: "/images/brawlStars/el_primo/main.png",
                 gadget: ["Suplex Supplement", "Asteroid Belt"],
                 starpower: ["El Fuego", "Meteor Rush"],
                 category: "Rare",
@@ -130,7 +130,7 @@ export default (
             {
                 id: 13,
                 name: "Barley",
-                image: "/images/brawlStars/barley.png",
+                image: "/images/brawlStars/barley/main.png",
                 gadget: ["Sticky Syrup Mixer", "Herbal Tonic"],
                 starpower: ["Medical Use", "Extra Noxious"],
                 category: "Rare",
@@ -138,7 +138,7 @@ export default (
             {
                 id: 14,
                 name: "Poco",
-                image: "/images/brawlStars/poco.png",
+                image: "/images/brawlStars/poco/main.png",
                 gadget: ["Tuning Fork", "Protective Tunes"],
                 starpower: ["Da Capo!", "Screeching Solo"],
                 category: "Rare",
@@ -146,7 +146,7 @@ export default (
             {
                 id: 15,
                 name: "Rosa",
-                image: "/images/brawlStars/rosa.png",
+                image: "/images/brawlStars/rosa/main.png",
                 gadget: ["Grow Light", "Unfriendly Bushes"],
                 starpower: ["Plant Life", "Thorny Gloves"],
                 category: "Rare",
@@ -154,7 +154,7 @@ export default (
             {
                 id: 16,
                 name: "Rico",
-                image: "/images/brawlStars/rico.png",
+                image: "/images/brawlStars/rico/main.png",
                 gadget: ["Multiball Launcher", "Bouncy Castle"],
                 starpower: ["Super Bouncy", "Robo Retreat"],
                 category: "Super Rare",
@@ -162,7 +162,7 @@ export default (
             {
                 id: 17,
                 name: "Darryl",
-                image: "/images/brawlStars/darryl.png",
+                image: "/images/brawlStars/darryl/main.png",
                 gadget: ["Recoiling Rotator", "Tar Barrel"],
                 starpower: ["Steel Hoops", "Rolling Reload"],
                 category: "Super Rare",
@@ -170,7 +170,7 @@ export default (
             {
                 id: 18,
                 name: "Penny",
-                image: "/images/brawlStars/penny.png",
+                image: "/images/brawlStars/penny/main.png",
                 gadget: ["Salty Barrel", "Trusty Spyglass"],
                 starpower: ["Heavy Coffers", "Master Blaster"],
                 category: "Super Rare",
@@ -178,7 +178,7 @@ export default (
             {
                 id: 19,
                 name: "Carl",
-                image: "/images/brawlStars/carl.png",
+                image: "/images/brawlStars/carl/main.png",
                 gadget: ["Heat Ejector", "Flying Hook"],
                 starpower: ["Power Throw", "Protective Pirouette"],
                 category: "Super Rare",
@@ -186,7 +186,7 @@ export default (
             {
                 id: 20,
                 name: "Jacky",
-                image: "/images/brawlStars/jacky.png",
+                image: "/images/brawlStars/jacky/main.png",
                 gadget: ["Pneumatic Booster", null],
                 starpower: ["Counter Crush", "Hardy Hard Hat"],
                 category: "Super Rare",
@@ -194,7 +194,7 @@ export default (
             {
                 id: 21,
                 name: "Piper",
-                image: "/images/brawlStars/piper.png",
+                image: "/images/brawlStars/piper/main.png",
                 gadget: ["Auto Aimer", "Homemade Recipe"],
                 starpower: ["Ambush", "Snappy Sniping"],
                 category: "Epic",
@@ -202,7 +202,7 @@ export default (
             {
                 id: 22,
                 name: "Pam",
-                image: "/images/brawlStars/pam.png",
+                image: "/images/brawlStars/pam/main.png",
                 gadget: ["Pulse Modulator", "ScrapSucker"],
                 starpower: ["Mama's Hug", "Mama's Squeeze"],
                 category: "Epic",
@@ -210,7 +210,7 @@ export default (
             {
                 id: 23,
                 name: "Frank",
-                image: "/images/brawlStars/frank.png",
+                image: "/images/brawlStars/frank/main.png",
                 gadget: ["Active Noise Canceling", "Irresistible Attraction"],
                 starpower: ["Power Grab", "Sponge"],
                 category: "Epic",
@@ -218,7 +218,7 @@ export default (
             {
                 id: 24,
                 name: "Bibi",
-                image: "/images/brawlStars/bibi.png",
+                image: "/images/brawlStars/bibi/main.png",
                 gadget: ["Vitamin Booster", "Extra Stikcy"],
                 starpower: ["Home Run", "Batting Stance"],
                 category: "Epic",
@@ -226,7 +226,7 @@ export default (
             {
                 id: 25,
                 name: "Bea",
-                image: "/images/brawlStars/bea.png",
+                image: "/images/brawlStars/bea/main.png",
                 gadget: ["Honey Molasses", "Rattled Hive"],
                 starpower: ["Insta Beaload", "Honeycomb"],
                 category: "Epic",
@@ -242,7 +242,7 @@ export default (
             {
                 id: 27,
                 name: "Edgar",
-                image: "/images/brawlStars/edgar.png",
+                image: "/images/brawlStars/edgar/main.png",
                 gadget: ["Let's Fly", "Hardcore"],
                 starpower: ["Hard Landing", "Fisticuffs"],
                 category: "Epic",
@@ -250,7 +250,7 @@ export default (
             {
                 id: 28,
                 name: "Griff",
-                image: "/images/brawlStars/griff.png",
+                image: "/images/brawlStars/griff/main.png",
                 gadget: ["Piggy Bank", null],
                 starpower: ["Keep the Change", "Business Resilience"],
                 category: "Epic",
@@ -258,7 +258,7 @@ export default (
             {
                 id: 29,
                 name: "Mortis",
-                image: "/images/brawlStars/mortis.png",
+                image: "/images/brawlStars/mortis/main.png",
                 gadget: ["Combo Spinner", "Survival Shovel"],
                 starpower: ["Creepy Harvest", "Coiled Snake"],
                 category: "Mythic",
@@ -266,7 +266,7 @@ export default (
             {
                 id: 30,
                 name: "Tara",
-                image: "/images/brawlStars/tara.png",
+                image: "/images/brawlStars/tara/main.png",
                 gadget: ["Psychic Enhancer", "Support from Beyond"],
                 starpower: ["Black Portal", "Healing Shade"],
                 category: "Mythic",
@@ -274,7 +274,7 @@ export default (
             {
                 id: 31,
                 name: "Gene",
-                image: "/images/brawlStars/gene.png",
+                image: "/images/brawlStars/gene/main.png",
                 gadget: ["Lamp Blowout", "Vengeful Spirits"],
                 starpower: ["Magic Puffs", "Spirit Slap"],
                 category: "Mythic",
@@ -282,7 +282,7 @@ export default (
             {
                 id: 32,
                 name: "Max",
-                image: "/images/brawlStars/max.png",
+                image: "/images/brawlStars/max/main.png",
                 gadget: ["Phase Shifter", "Sneaky Sneakers"],
                 starpower: ["Super Charged", "Run N Gun"],
                 category: "Mythic",
@@ -290,7 +290,7 @@ export default (
             {
                 id: 33,
                 name: "Mr. P",
-                image: "/images/brawlStars/mr_p.png",
+                image: "/images/brawlStars/mr_p/main.png",
                 gadget: ["Service Bell", "Porter Reinforcements"],
                 starpower: ["Handle With Care", "Revolving Door"],
                 category: "Mythic",
@@ -298,7 +298,7 @@ export default (
             {
                 id: 34,
                 name: "Sprout",
-                image: "/images/brawlStars/sprout.png",
+                image: "/images/brawlStars/sprout/main.png",
                 gadget: ["Garden Mulcher", "Transplant"],
                 starpower: ["Overgrowth", "Photosynthesis"],
                 category: "Mythic",
@@ -306,7 +306,7 @@ export default (
             {
                 id: 35,
                 name: "Byron",
-                image: "/images/brawlStars/byron.png",
+                image: "/images/brawlStars/byron/main.png",
                 gadget: ["Shot In The Arm", "Booster Shots"],
                 starpower: ["Malaise", "Injection"],
                 category: "Mythic",
@@ -314,7 +314,7 @@ export default (
             {
                 id: 36,
                 name: "Squeak",
-                image: "/images/brawlStars/squeak.png",
+                image: "/images/brawlStars/squeak/main.png",
                 gadget: ["Windup", "Residue"],
                 starpower: ["Chain Reaction", "Super Sticky"],
                 category: "Mythic",
@@ -322,7 +322,7 @@ export default (
             {
                 id: 37,
                 name: "Spike",
-                image: "/images/brawlStars/spike.png",
+                image: "/images/brawlStars/spike/main.png",
                 gadget: ["Poping Pincushion", "Life Plant"],
                 starpower: ["Fertilize", "Curveball"],
                 category: "Legendary",
@@ -330,7 +330,7 @@ export default (
             {
                 id: 38,
                 name: "Crow",
-                image: "/images/brawlStars/crow.png",
+                image: "/images/brawlStars/crow/main.png",
                 gadget: ["Defence Booster", "Slowing Toxic"],
                 starpower: ["Extra Toxic", "Carrion Crow"],
                 category: "Legendary",
@@ -338,7 +338,7 @@ export default (
             {
                 id: 39,
                 name: "Leon",
-                image: "/images/brawlStars/leon.png",
+                image: "/images/brawlStars/leon/main.png",
                 gadget: ["Clone Projector", "Lollipop Drop"],
                 starpower: ["Smoke Trails", "Invisiheal"],
                 category: "Legendary",
@@ -346,7 +346,7 @@ export default (
             {
                 id: 40,
                 name: "Sandy",
-                image: "/images/brawlStars/sandy.png",
+                image: "/images/brawlStars/sandy/main.png",
                 gadget: ["Sleep Simulator", "Sweet Dreams"],
                 starpower: ["Rude Sands", "Healing Winds"],
                 category: "Legendary",
@@ -354,7 +354,7 @@ export default (
             {
                 id: 41,
                 name: "Amber",
-                image: "/images/brawlStars/amber.png",
+                image: "/images/brawlStars/amber/main.png",
                 gadget: ["Fire Starters", null],
                 starpower: ["Wild Flames", "Scrochin Siphon"],
                 category: "Legendary",
@@ -362,7 +362,7 @@ export default (
             {
                 id: 42,
                 name: "Gale",
-                image: "/images/brawlStars/gale.png",
+                image: "/images/brawlStars/gale/main.png",
                 gadget: ["Spring Ejector", "Twister"],
                 starpower: ["Blustery Blow", "Freezing Snow"],
                 category: "Chromatic",
@@ -370,7 +370,7 @@ export default (
             {
                 id: 43,
                 name: "Surge",
-                image: "/images/brawlStars/surge.png",
+                image: "/images/brawlStars/surge/main.png",
                 gadget: ["Power Surge", null],
                 starpower: ["To The Max!", "Serve Ice Cold"],
                 category: "Chromatic",
@@ -378,7 +378,7 @@ export default (
             {
                 id: 44,
                 name: "Colette",
-                image: "/images/brawlStars/colette.png",
+                image: "/images/brawlStars/colette/main.png",
                 gadget: ["Na-Ah", "Gotcha!"],
                 starpower: ["Push It", "Mass Tax"],
                 category: "Chromatic",
@@ -386,7 +386,7 @@ export default (
             {
                 id: 45,
                 name: "Lou",
-                image: "/images/brawlStars/lou.png",
+                image: "/images/brawlStars/lou/main.png",
                 gadget: ["Ice Block", "Cryo Syrup"],
                 starpower: ["Supercool", "Hypothermia"],
                 category: "Chromatic",
@@ -394,7 +394,7 @@ export default (
             {
                 id: 46,
                 name: "Colonel Ruffs",
-                image: "/images/brawlStars/colonel_ruffs.png",
+                image: "/images/brawlStars/colonel_ruffs/main.png",
                 gadget: ["Take Cover", "Air Support"],
                 starpower: ["Air Superiority", "Field Promotions"],
                 category: "Chromatic",
@@ -402,7 +402,7 @@ export default (
             {
                 id: 47,
                 name: "Belle",
-                image: "/images/brawlStars/belle.png",
+                image: "/images/brawlStars/belle/main.png",
                 gadget: ["Nest Egg", "Reverse Polarity"],
                 starpower: ["Positive Feedback", "Grounded"],
                 category: "Chromatic",
@@ -410,7 +410,7 @@ export default (
             {
                 id: 48,
                 name: "Buzz",
-                image: "/images/brawlStars/buzz.png",
+                image: "/images/brawlStars/buzz/main.png",
                 gadget: ["Reserve Buoy", null],
                 starpower: ["Tougher Torpedo", "Eyes Sharp"],
                 category: "Chromatic",
@@ -418,7 +418,7 @@ export default (
             {
                 id: 49,
                 name: "Ash",
-                image: "/images/brawlStars/ash.png",
+                image: "/images/brawlStars/ash/main.png",
                 gadget: ["Chill Pill", "Rotten Banana"],
                 starpower: ["First Bash", "Mad As Heck"],
                 category: "Chromatic",
@@ -426,7 +426,7 @@ export default (
             {
                 id: 50,
                 name: "Meg",
-                image: "/images/brawlStars/meg.png",
+                image: "/images/brawlStars/meg/main.png",
                 gadget: ["Jolting Volts", null],
                 starpower: ["Force Field", "Self Destruction"],
                 category: "Legendary",
@@ -434,7 +434,7 @@ export default (
             {
                 id: 51,
                 name: "Lola",
-                image: "/images/brawlStars/lola.png",
+                image: "/images/brawlStars/lola/main.png",
                 gadget: ["Freeze Frames", "Stunt Double"],
                 starpower: ["Improvise", "Sealed With A Kiss"],
                 category: "Chromatic",
@@ -442,7 +442,7 @@ export default (
             {
                 id: 52,
                 name: "Grom",
-                image: "/images/brawlStars/grom.png",
+                image: "/images/brawlStars/grom/main.png",
                 gadget: ["Guardia", "Radio Check"],
                 starpower: ["Tallow in the Shins", "Factor X"],
                 category: "Epic",
@@ -450,7 +450,7 @@ export default (
             {
                 id: 53,
                 name: "Fang",
-                image: "/images/brawlStars/fang.png",
+                image: "/images/brawlStars/fang/main.png",
                 gadget: ["Corn Foo", "Roundhouse Kick"],
                 starpower: ["Fresh Kicks", "Divine Soles"],
                 category: "Chromatic",
@@ -458,7 +458,7 @@ export default (
             {
                 id: 54,
                 name: "Eve",
-                image: "/images/brawlStars/eve.png",
+                image: "/images/brawlStars/eve/main.png",
                 gadget: ["Gotta Go!", "Motherly Love"],
                 starpower: ["Unnatural Order", "Happy Surprise"],
                 category: "Chromatic",
@@ -466,7 +466,7 @@ export default (
             {
                 id: 55,
                 name: "Janet",
-                image: "/images/brawlStars/janet.png",
+                image: "/images/brawlStars/janet/main.png",
                 gadget: ["Drop The Bass", "Backstage Pass"],
                 starpower: ["Stage View", "Vocal Warm-Up"],
                 category: "Chromatic",
@@ -474,7 +474,7 @@ export default (
             {
                 id: 56,
                 name: "Bonnie",
-                image: "/images/brawlStars/bonnie.png",
+                image: "/images/brawlStars/bonnie/main.png",
                 gadget: ["Sugar Rush", "Crash Test"],
                 starpower: ["Black Powder", "Wisdom Tooth"],
                 category: "Epic",
@@ -482,7 +482,7 @@ export default (
             {
                 id: 57,
                 name: "Otis",
-                image: "/images/brawlStars/otis.png",
+                image: "/images/brawlStars/otis/main.png",
                 gadget: ["Dormant Star", null],
                 starpower: ["Stencil Glue", null],
                 category: "Chromatic",

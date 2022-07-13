@@ -30,6 +30,38 @@ export default (
                 gadget: ["Fast Forward", "Clay Pigeon"],
                 starpower: ["Shell Shock", "Band-Aid"],
                 category: "Starting",
+                pins: [
+                    {
+                        image: "/images/brawlStars/shelly/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/shelly/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/shelly/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/shelly/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/shelly/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/shelly/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/shelly/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/shelly/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/shelly/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/shelly/pins/witch-shelly/neutral.png",
+                    },
+                ],
             },
             {
                 id: 1,
@@ -38,6 +70,41 @@ export default (
                 gadget: ["Bear Paws", "Faux Fur"],
                 starpower: ["Bear with Me", "Hyper Bear"],
                 category: "Trophy Road",
+                pins: [
+                    {
+                        image: "/images/brawlStars/nita/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/nita/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/nita/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/nita/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/nita/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/nita/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/nita/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/nita/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/nita/pins/red-nose-nita/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/nita/pins/nian-nita/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/nita/pins/shiba-nita/neutral.png",
+                    },
+                ],
             },
             {
                 id: 2,
@@ -46,6 +113,35 @@ export default (
                 gadget: ["Speed Loader", "Silver Bullet"],
                 starpower: ["Slick Boots", "Magnum Special"],
                 category: "Trophy Road",
+                pins: [
+                    {
+                        image: "colt/neutral.png",
+                    },
+                    {
+                        image: "colt/happy.png",
+                    },
+                    {
+                        image: "colt/sad.png",
+                    },
+                    {
+                        image: "colt/angry.png",
+                    },
+                    {
+                        image: "colt/gg.png",
+                    },
+                    {
+                        image: "colt/clap.png",
+                    },
+                    {
+                        image: "colt/thanks.png",
+                    },
+                    {
+                        image: "colt/phew.png",
+                    },
+                    {
+                        image: "colt/special.png",
+                    },
+                ],
             },
             {
                 id: 3,
@@ -54,6 +150,32 @@ export default (
                 gadget: ["T-Bone Injector", "Stomper"],
                 starpower: ["Berserker", "Tough Guy"],
                 category: "Trophy Road",
+                pins: [
+                    {
+                        image: "bull/neutral.png",
+                    },
+                    {
+                        image: "bull/happy.png",
+                    },
+                    {
+                        image: "bull/sad.png",
+                    },
+                    {
+                        image: "bull/angry.png",
+                    },
+                    {
+                        image: "bull/gg.png",
+                    },
+                    {
+                        image: "bull/clap.png",
+                    },
+                    {
+                        image: "bull/thanks.png",
+                    },
+                    {
+                        image: "bull/phew.png",
+                    },
+                ],
             },
             {
                 id: 4,
@@ -62,6 +184,36 @@ export default (
                 gadget: ["Spark Plug", "Recoil Spring"],
                 starpower: ["Energize", "Shocky"],
                 category: "Trophy Road",
+
+                pins: [
+                    {
+                        image: "/images/brawlStars/jessie/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jessie/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jessie/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jessie/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jessie/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jessie/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jessie/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jessie/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jessie/pins/tanuki-jessie/neutral.png",
+                    },
+                ],
             },
             {
                 id: 5,

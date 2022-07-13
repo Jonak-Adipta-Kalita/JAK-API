@@ -14,6 +14,9 @@ export interface BrawlStars {
         gadget: [string, string | null];
         starpower: [string, string | null];
         category: string;
+        pins: {
+            image: string;
+        }[];
     }[];
 }
 

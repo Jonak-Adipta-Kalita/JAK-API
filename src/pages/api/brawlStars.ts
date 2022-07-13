@@ -222,6 +222,35 @@ export default (
                 gadget: ["Rocket Laces", "Rocket Fuel"],
                 starpower: ["More Rockets", "Rocket No. Four"],
                 category: "Trophy Road",
+                pins: [
+                    {
+                        image: "/images/brawlStars/brock/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/brock/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/brock/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/brock/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/brock/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/brock/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/brock/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/brock/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/brock/pins/postal-brock/neutral.png",
+                    },
+                ],
             },
             {
                 id: 6,
@@ -230,6 +259,38 @@ export default (
                 gadget: ["Fidget Spinner", "Satchel Charge"],
                 starpower: ["Dyna Jump", "Demolition"],
                 category: "Trophy Road",
+                pins: [
+                    {
+                        image: "/images/brawlStars/dynamike/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/dynamike/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/dynamike/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/dynamike/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/dynamike/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/dynamike/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/dynamike/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/dynamike/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/dynamike/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/dynamike/pins/santa-mike/gg.png",
+                    },
+                ],
             },
             {
                 id: 7,

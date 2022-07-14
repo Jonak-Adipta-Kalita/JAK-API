@@ -29,7 +29,7 @@ export default (
                 image: "/images/brawlStars/shelly/main.png",
                 gadget: ["Fast Forward", "Clay Pigeon"],
                 starpower: ["Shell Shock", "Band-Aid"],
-                category: "Starting",
+                category: "Common",
                 pins: [
                     {
                         image: "/images/brawlStars/shelly/pins/neutral.png",
@@ -69,7 +69,7 @@ export default (
                 image: "/images/brawlStars/nita/main.png",
                 gadget: ["Bear Paws", "Faux Fur"],
                 starpower: ["Bear with Me", "Hyper Bear"],
-                category: "Trophy Road",
+                category: "Common",
                 pins: [
                     {
                         image: "/images/brawlStars/nita/pins/neutral.png",
@@ -112,7 +112,7 @@ export default (
                 image: "/images/brawlStars/colt/main.png",
                 gadget: ["Speed Loader", "Silver Bullet"],
                 starpower: ["Slick Boots", "Magnum Special"],
-                category: "Trophy Road",
+                category: "Common",
                 pins: [
                     {
                         image: "colt/neutral.png",
@@ -149,7 +149,7 @@ export default (
                 image: "/images/brawlStars/bull/main.png",
                 gadget: ["T-Bone Injector", "Stomper"],
                 starpower: ["Berserker", "Tough Guy"],
-                category: "Trophy Road",
+                category: "Common",
                 pins: [
                     {
                         image: "bull/neutral.png",
@@ -183,7 +183,7 @@ export default (
                 image: "/images/brawlStars/jessie/main.png",
                 gadget: ["Spark Plug", "Recoil Spring"],
                 starpower: ["Energize", "Shocky"],
-                category: "Trophy Road",
+                category: "Common",
 
                 pins: [
                     {
@@ -221,7 +221,7 @@ export default (
                 image: "/images/brawlStars/brock/main.png",
                 gadget: ["Rocket Laces", "Rocket Fuel"],
                 starpower: ["More Rockets", "Rocket No. Four"],
-                category: "Trophy Road",
+                category: "Common",
                 pins: [
                     {
                         image: "/images/brawlStars/brock/pins/neutral.png",
@@ -258,7 +258,7 @@ export default (
                 image: "/images/brawlStars/dynamike/main.png",
                 gadget: ["Fidget Spinner", "Satchel Charge"],
                 starpower: ["Dyna Jump", "Demolition"],
-                category: "Trophy Road",
+                category: "Common",
                 pins: [
                     {
                         image: "/images/brawlStars/dynamike/pins/neutral.png",
@@ -298,7 +298,42 @@ export default (
                 image: "/images/brawlStars/bo/main.png",
                 gadget: ["Super Totem", "Tripwire"],
                 starpower: ["Circling Eagle", "Snare A Bear"],
-                category: "Trophy Road",
+                category: "Common",
+                pins: [
+                    {
+                        image: "/images/brawlStars/bo/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/bo/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/bo/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/bo/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/bo/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/bo/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/bo/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/bo/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/bo/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/bo/pins/ho-ho-ho-bo/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/bo/pins/wasp-bo/neutral.png",
+                    },
+                ],
             },
             {
                 id: 8,
@@ -306,7 +341,36 @@ export default (
                 image: "/images/brawlStars/tick/main.png",
                 gadget: ["Mine Mania", "Last Hurrah"],
                 starpower: ["Well Oiled", "Automa-Tick Reload"],
-                category: "Trophy Road",
+                category: "Common",
+                pins: [
+                    {
+                        image: "/images/brawlStars/tick/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tick/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tick/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tick/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tick/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tick/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tick/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tick/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tick/pins/snowman-tick/clap.png",
+                    },
+                ],
             },
             {
                 id: 9,
@@ -314,7 +378,36 @@ export default (
                 image: "/images/brawlStars/8-bit/main.png",
                 gadget: ["Cheat Cartridge", "Extra Credits"],
                 starpower: ["Boosted Booster", "Plugged In"],
-                category: "Trophy Road",
+                category: "Common",
+                pins: [
+                    {
+                        image: "/images/brawlStars/8-bit/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/8-bit/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/8-bit/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/8-bit/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/8-bit/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/8-bit/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/8-bit/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/8-bit/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/8-bit/pins/v8-bit/neutral.png",
+                    },
+                ],
             },
             {
                 id: 10,
@@ -322,7 +415,36 @@ export default (
                 image: "/images/brawlStars/emz/main.png",
                 gadget: ["Friend Zoner", "Acid Spray"],
                 starpower: ["Bad Karma", "Hype"],
-                category: "Trophy Road",
+                category: "Common",
+                pins: [
+                    {
+                        image: "/images/brawlStars/emz/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/emz/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/emz/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/emz/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/emz/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/emz/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/emz/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/emz/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/emz/pins/special.png",
+                    },
+                ],
             },
             {
                 id: 11,
@@ -330,7 +452,39 @@ export default (
                 image: "/images/brawlStars/stu/main.png",
                 gadget: ["Speed Zone", "Breakthrough"],
                 starpower: ["Zero Drag", "Gaso Heal"],
-                category: "Trophy Road",
+                category: "Common",
+                pins: [
+                    {
+                        image: "/images/brawlStars/stu/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/stu/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/stu/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/stu/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/stu/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/stu/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/stu/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/stu/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/stu/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/stu/pins/headless-rider-stu/neutral.png",
+                    },
+                ],
             },
             {
                 id: 12,

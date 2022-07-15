@@ -493,6 +493,44 @@ export default (
                 gadget: ["Suplex Supplement", "Asteroid Belt"],
                 starpower: ["El Fuego", "Meteor Rush"],
                 category: "Rare",
+                pins: [
+                    {
+                        image: "/images/brawlStars/el-primo/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/el-primo/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/el-primo/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/el-primo/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/el-primo/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/el-primo/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/el-primo/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/el-primo/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/el-primo/pins/el-dragon/verdoso/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/el-primo/pins/el-dragon/rosado/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/el-primo/pins/el-tigro/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/el-primo/pins/el-corazon/neutral.png",
+                    },
+                ],
             },
             {
                 id: 13,
@@ -501,6 +539,41 @@ export default (
                 gadget: ["Sticky Syrup Mixer", "Herbal Tonic"],
                 starpower: ["Medical Use", "Extra Noxious"],
                 category: "Rare",
+                pins: [
+                    {
+                        image: "/images/brawlStars/barley/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/barley/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/barley/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/barley/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/barley/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/barley/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/barley/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/barley/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/barley/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/barley/pins/bakesale-barley/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/barley/pins/sway-master-barley/neutral.png",
+                    },
+                ],
             },
             {
                 id: 14,
@@ -509,6 +582,38 @@ export default (
                 gadget: ["Tuning Fork", "Protective Tunes"],
                 starpower: ["Da Capo!", "Screeching Solo"],
                 category: "Rare",
+                pins: [
+                    {
+                        image: "/images/brawlStars/poco/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/poco/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/poco/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/poco/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/poco/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/poco/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/poco/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/poco/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/poco/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/poco/pins/serenade-poco/neutral.png",
+                    },
+                ],
             },
             {
                 id: 15,
@@ -517,6 +622,65 @@ export default (
                 gadget: ["Grow Light", "Unfriendly Bushes"],
                 starpower: ["Plant Life", "Thorny Gloves"],
                 category: "Rare",
+                pins: [
+                    {
+                        image: "/images/brawlStars/rosa/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/brawl-o-ween-rosa/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/brawl-o-ween-rosa/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/brawl-o-ween-rosa/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/brawl-o-ween-rosa/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/brawl-o-ween-rosa/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/brawl-o-ween-rosa/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/brawl-o-ween-rosa/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/brawl-o-ween-rosa/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/brawl-o-ween-rosa/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/major-rosa/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rosa/pins/mantis-rosa/neutral.png",
+                    },
+                ],
             },
             {
                 id: 16,

@@ -689,6 +689,35 @@ export default (
                 gadget: ["Multiball Launcher", "Bouncy Castle"],
                 starpower: ["Super Bouncy", "Robo Retreat"],
                 category: "Super Rare",
+                pins: [
+                    {
+                        image: "/images/brawlStars/rico/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rico/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rico/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rico/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rico/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rico/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rico/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rico/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/rico/pins/firefly-rico/neutral.png",
+                    },
+                ],
             },
             {
                 id: 17,
@@ -697,6 +726,38 @@ export default (
                 gadget: ["Recoiling Rotator", "Tar Barrel"],
                 starpower: ["Steel Hoops", "Rolling Reload"],
                 category: "Super Rare",
+                pins: [
+                    {
+                        image: "/images/brawlStars/darryl/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/darryl/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/darryl/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/darryl/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/darryl/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/darryl/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/darryl/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/darryl/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/darryl/pins/megabox-darryl/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/darryl/pins/crash-test-darryl/neutral.png",
+                    },
+                ],
             },
             {
                 id: 18,
@@ -705,6 +766,36 @@ export default (
                 gadget: ["Salty Barrel", "Trusty Spyglass"],
                 starpower: ["Heavy Coffers", "Master Blaster"],
                 category: "Super Rare",
+                pins: [
+                    {
+                        image: "/images/brawlStars/penny/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/penny/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/penny/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/penny/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/penny/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/penny/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/penny/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/penny/pins/phew.png",
+                    },
+
+                    {
+                        image: "/images/brawlStars/penny/pins/lil-helper-penny/neutral.png",
+                    },
+                ],
             },
             {
                 id: 19,
@@ -713,6 +804,41 @@ export default (
                 gadget: ["Heat Ejector", "Flying Hook"],
                 starpower: ["Power Throw", "Protective Pirouette"],
                 category: "Super Rare",
+                pins: [
+                    {
+                        image: "/images/brawlStars/carl/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/carl/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/carl/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/carl/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/carl/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/carl/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/carl/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/carl/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/carl/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/carl/pins/road-rage-carl/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/carl/pins/biker-carl/neutral.png",
+                    },
+                ],
             },
             {
                 id: 20,
@@ -721,6 +847,35 @@ export default (
                 gadget: ["Pneumatic Booster", null],
                 starpower: ["Counter Crush", "Hardy Hard Hat"],
                 category: "Super Rare",
+                pins: [
+                    {
+                        image: "/images/brawlStars/jacky/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jacky/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jacky/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jacky/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jacky/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jacky/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jacky/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jacky/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/jacky/pins/gift-express-jacky/happy.png",
+                    },
+                ],
             },
             {
                 id: 21,

@@ -495,40 +495,40 @@ export default (
                 category: "Rare",
                 pins: [
                     {
-                        image: "/images/brawlStars/el-primo/pins/neutral.png",
+                        image: "/images/brawlStars/el_primo/pins/neutral.png",
                     },
                     {
-                        image: "/images/brawlStars/el-primo/pins/happy.png",
+                        image: "/images/brawlStars/el_primo/pins/happy.png",
                     },
                     {
-                        image: "/images/brawlStars/el-primo/pins/sad.png",
+                        image: "/images/brawlStars/el_primo/pins/sad.png",
                     },
                     {
-                        image: "/images/brawlStars/el-primo/pins/angry.png",
+                        image: "/images/brawlStars/el_primo/pins/angry.png",
                     },
                     {
-                        image: "/images/brawlStars/el-primo/pins/gg.png",
+                        image: "/images/brawlStars/el_primo/pins/gg.png",
                     },
                     {
-                        image: "/images/brawlStars/el-primo/pins/clap.png",
+                        image: "/images/brawlStars/el_primo/pins/clap.png",
                     },
                     {
-                        image: "/images/brawlStars/el-primo/pins/thanks.png",
+                        image: "/images/brawlStars/el_primo/pins/thanks.png",
                     },
                     {
-                        image: "/images/brawlStars/el-primo/pins/phew.png",
+                        image: "/images/brawlStars/el_primo/pins/phew.png",
                     },
                     {
-                        image: "/images/brawlStars/el-primo/pins/el-dragon/verdoso/neutral.png",
+                        image: "/images/brawlStars/el_primo/pins/el-dragon/verdoso/neutral.png",
                     },
                     {
-                        image: "/images/brawlStars/el-primo/pins/el-dragon/rosado/neutral.png",
+                        image: "/images/brawlStars/el_primo/pins/el-dragon/rosado/neutral.png",
                     },
                     {
-                        image: "/images/brawlStars/el-primo/pins/el-tigro/neutral.png",
+                        image: "/images/brawlStars/el_primo/pins/el-tigro/neutral.png",
                     },
                     {
-                        image: "/images/brawlStars/el-primo/pins/el-corazon/neutral.png",
+                        image: "/images/brawlStars/el_primo/pins/el-corazon/neutral.png",
                     },
                 ],
             },
@@ -1192,6 +1192,35 @@ export default (
                 gadget: ["Combo Spinner", "Survival Shovel"],
                 starpower: ["Creepy Harvest", "Coiled Snake"],
                 category: "Mythic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/mortis/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mortis/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mortis/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mortis/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mortis/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mortis/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mortis/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mortis/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mortis/pins/rockabilly-mortis/neutral.png",
+                    },
+                ],
             },
             {
                 id: 30,
@@ -1200,6 +1229,38 @@ export default (
                 gadget: ["Psychic Enhancer", "Support from Beyond"],
                 starpower: ["Black Portal", "Healing Shade"],
                 category: "Mythic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/tara/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tara/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tara/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tara/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tara/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tara/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tara/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tara/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tara/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/tara/pins/tempest-tara/neutral.png",
+                    },
+                ],
             },
             {
                 id: 31,
@@ -1208,6 +1269,38 @@ export default (
                 gadget: ["Lamp Blowout", "Vengeful Spirits"],
                 starpower: ["Magic Puffs", "Spirit Slap"],
                 category: "Mythic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/gene/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gene/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gene/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gene/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gene/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gene/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gene/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gene/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gene/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gene/pins/swamp-gene/neutral.png",
+                    },
+                ],
             },
             {
                 id: 32,
@@ -1216,6 +1309,32 @@ export default (
                 gadget: ["Phase Shifter", "Sneaky Sneakers"],
                 starpower: ["Super Charged", "Run N Gun"],
                 category: "Mythic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/max/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/max/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/max/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/max/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/max/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/max/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/max/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/max/pins/phew.png",
+                    },
+                ],
             },
             {
                 id: 33,
@@ -1224,6 +1343,44 @@ export default (
                 gadget: ["Service Bell", "Porter Reinforcements"],
                 starpower: ["Handle With Care", "Revolving Door"],
                 category: "Mythic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/mr_p/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mr_p/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mr_p/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mr_p/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mr_p/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mr_p/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mr_p/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mr_p/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mr_p/pins/count-pengula/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mr_p/pins/mr-fly/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mr_p/pins/daruma-mr-p/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/mr_p/pins/daruma-mr-p/special.png",
+                    },
+                ],
             },
             {
                 id: 34,
@@ -1232,6 +1389,41 @@ export default (
                 gadget: ["Garden Mulcher", "Transplant"],
                 starpower: ["Overgrowth", "Photosynthesis"],
                 category: "Mythic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/sprout/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sprout/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sprout/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sprout/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sprout/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sprout/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sprout/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sprout/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sprout/pins/prince-sprout/emerald/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sprout/pins/prince-sprout/ruby/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sprout/pins/corrupted-sprout/gg.png",
+                    },
+                ],
             },
             {
                 id: 35,
@@ -1240,6 +1432,38 @@ export default (
                 gadget: ["Shot In The Arm", "Booster Shots"],
                 starpower: ["Malaise", "Injection"],
                 category: "Mythic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/byron/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/byron/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/byron/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/byron/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/byron/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/byron/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/byron/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/byron/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/byron/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/byron/pins/overlord-byron/neutral.png",
+                    },
+                ],
             },
             {
                 id: 36,
@@ -1248,6 +1472,38 @@ export default (
                 gadget: ["Windup", "Residue"],
                 starpower: ["Chain Reaction", "Super Sticky"],
                 category: "Mythic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/squeak/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/squeak/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/squeak/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/squeak/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/squeak/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/squeak/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/squeak/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/squeak/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/squeak/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/squeak/pins/ghost-squeak/neutral.png",
+                    },
+                ],
             },
             {
                 id: 37,

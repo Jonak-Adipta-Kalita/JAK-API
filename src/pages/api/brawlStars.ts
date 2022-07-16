@@ -1512,6 +1512,44 @@ export default (
                 gadget: ["Poping Pincushion", "Life Plant"],
                 starpower: ["Fertilize", "Curveball"],
                 category: "Legendary",
+                pins: [
+                    {
+                        image: "/images/brawlStars/spike/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/spike/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/spike/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/spike/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/spike/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/spike/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/spike/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/spike/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/spike/pins/dark-lord-spike/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/spike/pins/logmas-spike/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/spike/pins/sakura-spike/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/spike/pins/pyro-spike/neutral.png",
+                    },
+                ],
             },
             {
                 id: 38,
@@ -1520,6 +1558,32 @@ export default (
                 gadget: ["Defence Booster", "Slowing Toxic"],
                 starpower: ["Extra Toxic", "Carrion Crow"],
                 category: "Legendary",
+                pins: [
+                    {
+                        image: "/images/brawlStars/crow/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/crow/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/crow/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/crow/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/crow/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/crow/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/crow/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/crow/pins/phew.png",
+                    },
+                ],
             },
             {
                 id: 39,
@@ -1528,6 +1592,35 @@ export default (
                 gadget: ["Clone Projector", "Lollipop Drop"],
                 starpower: ["Smoke Trails", "Invisiheal"],
                 category: "Legendary",
+                pins: [
+                    {
+                        image: "/images/brawlStars/leon/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/leon/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/leon/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/leon/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/leon/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/leon/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/leon/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/leon/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/leon/pins/werewolf-leon/neutral.png",
+                    },
+                ],
             },
             {
                 id: 40,
@@ -1536,6 +1629,35 @@ export default (
                 gadget: ["Sleep Simulator", "Sweet Dreams"],
                 starpower: ["Rude Sands", "Healing Winds"],
                 category: "Legendary",
+                pins: [
+                    {
+                        image: "/images/brawlStars/sandy/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sandy/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sandy/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sandy/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sandy/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sandy/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sandy/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sandy/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/sandy/pins/special.png",
+                    },
+                ],
             },
             {
                 id: 41,
@@ -1544,6 +1666,35 @@ export default (
                 gadget: ["Fire Starters", null],
                 starpower: ["Wild Flames", "Scrochin Siphon"],
                 category: "Legendary",
+                pins: [
+                    {
+                        image: "/images/brawlStars/amber/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/amber/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/amber/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/amber/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/amber/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/amber/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/amber/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/amber/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/amber/pins/special.png",
+                    },
+                ],
             },
             {
                 id: 42,
@@ -1616,6 +1767,41 @@ export default (
                 gadget: ["Jolting Volts", null],
                 starpower: ["Force Field", "Self Destruction"],
                 category: "Legendary",
+                pins: [
+                    {
+                        image: "/images/brawlStars/meg/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/meg/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/meg/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/meg/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/meg/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/meg/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/meg/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/meg/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/meg/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/meg/pins/beetle-meg/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/meg/pins/monster-truck-meg/neutral.png",
+                    },
+                ],
             },
             {
                 id: 51,

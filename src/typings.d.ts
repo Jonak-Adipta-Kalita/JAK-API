@@ -18,11 +18,11 @@ export interface BrawlStars {
             image: string;
         }[];
     }[];
-    players: {
+    players?: {
         pins: {
             image: string;
         }[];
-    } | null;
+    };
 }
 
 export interface GenshinImpact {

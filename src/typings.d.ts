@@ -22,7 +22,7 @@ export interface BrawlStars {
         pins: {
             image: string;
         }[];
-    };
+    } | null;
 }
 
 export interface GenshinImpact {

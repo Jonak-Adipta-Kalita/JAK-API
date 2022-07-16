@@ -248,6 +248,9 @@ export default (
                         image: "/images/brawlStars/brock/pins/phew.png",
                     },
                     {
+                        image: "/images/brawlStars/brock/pins/hot-road-brock/neutral.png",
+                    },
+                    {
                         image: "/images/brawlStars/brock/pins/postal-brock/neutral.png",
                     },
                 ],
@@ -1703,6 +1706,56 @@ export default (
                 gadget: ["Spring Ejector", "Twister"],
                 starpower: ["Blustery Blow", "Freezing Snow"],
                 category: "Chromatic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/gale/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/merchant-gale/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/merchant-gale/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/merchant-gale/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/merchant-gale/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/merchant-gale/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/merchant-gale/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/merchant-gale/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/gale/pins/merchant-gale/phew.png",
+                    },
+                ],
             },
             {
                 id: 43,
@@ -1711,6 +1764,62 @@ export default (
                 gadget: ["Power Surge", null],
                 starpower: ["To The Max!", "Serve Ice Cold"],
                 category: "Chromatic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/surge/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/mecha-paladin-surge/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/mecha-paladin-surge/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/mecha-paladin-surge/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/mecha-paladin-surge/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/mecha-paladin-surge/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/mecha-paladin-surge/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/mecha-paladin-surge/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/mecha-paladin-surge/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/surge/pins/mecha-paladin-surge/special.png",
+                    },
+                ],
             },
             {
                 id: 44,
@@ -1719,6 +1828,59 @@ export default (
                 gadget: ["Na-Ah", "Gotcha!"],
                 starpower: ["Push It", "Mass Tax"],
                 category: "Chromatic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/colette/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/trixie-colette/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/trixie-colette/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/trixie-colette/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/trixie-colette/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/trixie-colette/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/trixie-colette/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/trixie-colette/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/trixie-colette/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colette/pins/trixie-colette/special.png",
+                    },
+                ],
             },
             {
                 id: 45,
@@ -1727,6 +1889,65 @@ export default (
                 gadget: ["Ice Block", "Cryo Syrup"],
                 starpower: ["Supercool", "Hypothermia"],
                 category: "Chromatic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/lou/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/king-lou/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/king-lou/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/king-lou/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/king-lou/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/king-lou/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/king-lou/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/king-lou/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/king-lou/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/king-lou/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lou/pins/smooth-lou/neutral.png",
+                    },
+                ],
             },
             {
                 id: 46,
@@ -1735,6 +1956,62 @@ export default (
                 gadget: ["Take Cover", "Air Support"],
                 starpower: ["Air Superiority", "Field Promotions"],
                 category: "Chromatic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/ronin-ruffs/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/ronin-ruffs/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/ronin-ruffs/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/ronin-ruffs/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/ronin-ruffs/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/ronin-ruffs/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/ronin-ruffs/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/ronin-ruffs/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/colonel_ruffs/pins/ronin-ruffs/special.png",
+                    },
+                ],
             },
             {
                 id: 47,
@@ -1743,6 +2020,65 @@ export default (
                 gadget: ["Nest Egg", "Reverse Polarity"],
                 starpower: ["Positive Feedback", "Grounded"],
                 category: "Chromatic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/belle/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/goldhand-belle/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/goldhand-belle/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/goldhand-belle/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/goldhand-belle/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/goldhand-belle/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/goldhand-belle/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/goldhand-belle/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/goldhand-belle/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/goldhand-belle/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/belle/pins/ivy-belle/happy.png",
+                    },
+                ],
             },
             {
                 id: 48,
@@ -1751,6 +2087,62 @@ export default (
                 gadget: ["Reserve Buoy", null],
                 starpower: ["Tougher Torpedo", "Eyes Sharp"],
                 category: "Chromatic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/buzz/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/born-bad-buzz/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/born-bad-buzz/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/born-bad-buzz/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/born-bad-buzz/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/born-bad-buzz/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/born-bad-buzz/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/born-bad-buzz/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/born-bad-buzz/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/buzz/pins/born-bad-buzz/special.png",
+                    },
+                ],
             },
             {
                 id: 49,
@@ -1759,6 +2151,62 @@ export default (
                 gadget: ["Chill Pill", "Rotten Banana"],
                 starpower: ["First Bash", "Mad As Heck"],
                 category: "Chromatic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/ash/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/ninja-ash/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/ninja-ash/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/ninja-ash/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/ninja-ash/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/ninja-ash/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/ninja-ash/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/ninja-ash/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/ninja-ash/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/ash/pins/ninja-ash/special.png",
+                    },
+                ],
             },
             {
                 id: 50,
@@ -1810,6 +2258,65 @@ export default (
                 gadget: ["Freeze Frames", "Stunt Double"],
                 starpower: ["Improvise", "Sealed With A Kiss"],
                 category: "Chromatic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/lola/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/rebel-lola/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/rebel-lola/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/rebel-lola/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/rebel-lola/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/rebel-lola/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/rebel-lola/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/rebel-lola/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/rebel-lola/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/rebel-lola/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/lola/pins/galaxy-storm-lola/neutral.png",
+                    },
+                ],
             },
             {
                 id: 52,
@@ -1855,6 +2362,62 @@ export default (
                 gadget: ["Corn Foo", "Roundhouse Kick"],
                 starpower: ["Fresh Kicks", "Divine Soles"],
                 category: "Chromatic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/fang/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/furious-fang/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/furious-fang/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/furious-fang/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/furious-fang/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/furious-fang/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/furious-fang/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/furious-fang/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/furious-fang/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/fang/pins/furious-fang/special.png",
+                    },
+                ],
             },
             {
                 id: 54,
@@ -1863,6 +2426,62 @@ export default (
                 gadget: ["Gotta Go!", "Motherly Love"],
                 starpower: ["Unnatural Order", "Happy Surprise"],
                 category: "Chromatic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/eve/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/spiky-eve/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/spiky-eve/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/spiky-eve/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/spiky-eve/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/spiky-eve/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/spiky-eve/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/spiky-eve/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/spiky-eve/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/eve/pins/spiky-eve/special.png",
+                    },
+                ],
             },
             {
                 id: 55,
@@ -1871,6 +2490,62 @@ export default (
                 gadget: ["Drop The Bass", "Backstage Pass"],
                 starpower: ["Stage View", "Vocal Warm-Up"],
                 category: "Chromatic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/janet/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/valkyrie-janet/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/valkyrie-janet/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/valkyrie-janet/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/valkyrie-janet/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/valkyrie-janet/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/valkyrie-janet/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/valkyrie-janet/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/valkyrie-janet/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/janet/pins/valkyrie-janet/special.png",
+                    },
+                ],
             },
             {
                 id: 56,
@@ -1919,6 +2594,62 @@ export default (
                 gadget: ["Dormant Star", null],
                 starpower: ["Stencil Glue", null],
                 category: "Chromatic",
+                pins: [
+                    {
+                        image: "/images/brawlStars/otis/pins/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/pharaotis/neutral.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/pharaotis/happy.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/pharaotis/sad.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/pharaotis/angry.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/pharaotis/gg.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/pharaotis/clap.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/pharaotis/thanks.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/pharaotis/phew.png",
+                    },
+                    {
+                        image: "/images/brawlStars/otis/pins/pharaotis/special.png",
+                    },
+                ],
             },
         ],
     });

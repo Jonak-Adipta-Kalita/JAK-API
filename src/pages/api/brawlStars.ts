@@ -2889,7 +2889,7 @@ export default (
                     image: "/images/brawlStars/players/pins/exclusive/matcherino/winner.png",
                 },
                 {
-                    image: "/images/brawlStars/players/pins/exclusive/thrower's-challenge/anry.png",
+                    image: "/images/brawlStars/players/pins/exclusive/thrower's-challenge/angry.png",
                 },
                 {
                     image: "/images/brawlStars/players/pins/exclusive/thrower's-challenge/special.png",

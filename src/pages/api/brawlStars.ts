@@ -32,28 +32,28 @@ export default (
                 category: "Common",
                 pins: [
                     {
-                        image: "/images/brawlStars/brawlers/brawlers/shelly/pins/neutral.png",
+                        image: "/images/brawlStars/brawlers/shelly/pins/neutral.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/brawlers/shelly/pins/happy.png",
+                        image: "/images/brawlStars/brawlers/shelly/pins/happy.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/brawlers/shelly/pins/sad.png",
+                        image: "/images/brawlStars/brawlers/shelly/pins/sad.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/brawlers/shelly/pins/angry.png",
+                        image: "/images/brawlStars/brawlers/shelly/pins/angry.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/brawlers/shelly/pins/gg.png",
+                        image: "/images/brawlStars/brawlers/shelly/pins/gg.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/brawlers/shelly/pins/clap.png",
+                        image: "/images/brawlStars/brawlers/shelly/pins/clap.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/brawlers/shelly/pins/thanks.png",
+                        image: "/images/brawlStars/brawlers/shelly/pins/thanks.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/brawlers/shelly/pins/phew.png",
+                        image: "/images/brawlStars/brawlers/shelly/pins/phew.png",
                     },
                     {
                         image: "/images/brawlStars/brawlers/shelly/pins/special.png",
@@ -2652,218 +2652,219 @@ export default (
                 ],
             },
         ],
-		players: {
-			pins: [{
-			"image": "/images/brawlStars/players/pins/starting/happy.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/smile.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/ecstatic.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/grin.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/laugh.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/sunglasses.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/blank.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/speechless.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/sad.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/shocked.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/stunned.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/bothered.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/annoyed.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/rage.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/angry.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/frenzied.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/thumbs-up.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/starting/thumbs-down.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/world-finals-2020/neutral.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/world-finals-2020/happy.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/world-finals-2020/sad.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/world-finals-2020/angry.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/world-finals-2020/gg.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/world-finals-2020/thanks.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/world-finals-2020/phew.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/world-finals-2020/special.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlidays-2020/neutral.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlidays-2020/happy.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlidays-2020/sad.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlidays-2020/angry.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlidays-2020/gg.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlidays-2020/thanks.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlidays-2020/phew.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlidays-2020/special.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/lunar-brawl-2021/neutral.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/lunar-brawl-2021/happy.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/lunar-brawl-2021/angry.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/lunar-brawl-2021/gg.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/lunar-brawl-2021/thanks.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/lunar-brawl-2021/special.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/championship-challenge-2021/lighter.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/championship-challenge-2021/whistle.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/championship-challenge-2021/confetti.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/championship-challenge-2021/white-flag.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawloween-2021/happy.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/singles-day-2021/sign.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/world-finals-2021/foam-finger.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/world-finals-2021/thumbs-down.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/world-finals-2021/sunglasses.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlidays-2021/neutral.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlidays-2021/angry.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlidays-2021/clap.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlidays-2021/thanks.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlidays-2021/phew.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlidays-2021/special.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/world-finals-2021/special.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlies-2021/neutral.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/lunar-brawl-2022/neutral.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/lunar-brawl-2022/happy.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/lunar-brawl-2022/thanks.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/lunar-brawl-2022/sweat.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/lunar-brawl-2022/special.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/lunar-brawl-challenge-2022/gg.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/brawlentines-challenge-2022/special.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/gg.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/special.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/sleepy.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/chaos-cup.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/happy.png"
-		},
-		{
-			"image": "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/thanks.png"
-		},
-		],
-		}
+        players: {
+            pins: [
+                {
+                    image: "/images/brawlStars/players/pins/starting/happy.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/smile.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/ecstatic.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/grin.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/laugh.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/sunglasses.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/blank.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/speechless.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/sad.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/shocked.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/stunned.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/bothered.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/annoyed.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/rage.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/angry.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/frenzied.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/thumbs-up.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/starting/thumbs-down.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/world-finals-2020/neutral.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/world-finals-2020/happy.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/world-finals-2020/sad.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/world-finals-2020/angry.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/world-finals-2020/gg.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/world-finals-2020/thanks.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/world-finals-2020/phew.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/world-finals-2020/special.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlidays-2020/neutral.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlidays-2020/happy.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlidays-2020/sad.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlidays-2020/angry.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlidays-2020/gg.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlidays-2020/thanks.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlidays-2020/phew.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlidays-2020/special.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/lunar-brawl-2021/neutral.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/lunar-brawl-2021/happy.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/lunar-brawl-2021/angry.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/lunar-brawl-2021/gg.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/lunar-brawl-2021/thanks.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/lunar-brawl-2021/special.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/championship-challenge-2021/lighter.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/championship-challenge-2021/whistle.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/championship-challenge-2021/confetti.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/championship-challenge-2021/white-flag.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawloween-2021/happy.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/singles-day-2021/sign.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/world-finals-2021/foam-finger.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/world-finals-2021/thumbs-down.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/world-finals-2021/sunglasses.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlidays-2021/neutral.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlidays-2021/angry.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlidays-2021/clap.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlidays-2021/thanks.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlidays-2021/phew.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlidays-2021/special.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/world-finals-2021/special.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlies-2021/neutral.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/lunar-brawl-2022/neutral.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/lunar-brawl-2022/happy.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/lunar-brawl-2022/thanks.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/lunar-brawl-2022/sweat.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/lunar-brawl-2022/special.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/lunar-brawl-challenge-2022/gg.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawlentines-challenge-2022/special.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/gg.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/special.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/sleepy.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/chaos-cup.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/happy.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/thanks.png",
+                },
+            ],
+        },
     });
 };

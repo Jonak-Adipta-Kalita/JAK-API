@@ -115,31 +115,31 @@ export default (
                 category: "Common",
                 pins: [
                     {
-                        image: "/images/brawlStars/brawlers/colt/neutral.png",
+                        image: "/images/brawlStars/brawlers/colt/pins/neutral.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/colt/happy.png",
+                        image: "/images/brawlStars/brawlers/colt/pins/happy.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/colt/sad.png",
+                        image: "/images/brawlStars/brawlers/colt/pins/sad.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/colt/angry.png",
+                        image: "/images/brawlStars/brawlers/colt/pins/angry.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/colt/gg.png",
+                        image: "/images/brawlStars/brawlers/colt/pins/gg.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/colt/clap.png",
+                        image: "/images/brawlStars/brawlers/colt/pins/clap.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/colt/thanks.png",
+                        image: "/images/brawlStars/brawlers/colt/pins/thanks.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/colt/phew.png",
+                        image: "/images/brawlStars/brawlers/colt/pins/phew.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/colt/special.png",
+                        image: "/images/brawlStars/brawlers/colt/pins/special.png",
                     },
                 ],
             },
@@ -152,28 +152,28 @@ export default (
                 category: "Common",
                 pins: [
                     {
-                        image: "/images/brawlStars/brawlers/bull/neutral.png",
+                        image: "/images/brawlStars/brawlers/bull/pins/neutral.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/bull/happy.png",
+                        image: "/images/brawlStars/brawlers/bull/pins/happy.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/bull/sad.png",
+                        image: "/images/brawlStars/brawlers/bull/pins/sad.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/bull/angry.png",
+                        image: "/images/brawlStars/brawlers/bull/pins/angry.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/bull/gg.png",
+                        image: "/images/brawlStars/brawlers/bull/pins/gg.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/bull/clap.png",
+                        image: "/images/brawlStars/brawlers/bull/pins/clap.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/bull/thanks.png",
+                        image: "/images/brawlStars/brawlers/bull/pins/thanks.png",
                     },
                     {
-                        image: "/images/brawlStars/brawlers/bull/phew.png",
+                        image: "/images/brawlStars/brawlers/bull/pins/phew.png",
                     },
                 ],
             },

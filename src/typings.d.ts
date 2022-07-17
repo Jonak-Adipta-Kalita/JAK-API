@@ -17,11 +17,17 @@ export interface BrawlStars {
         pins: {
             image: string;
         }[];
+		sprays?: {
+			image: string
+		}[]
     }[];
-    players?: {
+    players: {
         pins: {
             image: string;
         }[];
+		sprays?: {
+            image: string;
+        }[]
     };
 }
 

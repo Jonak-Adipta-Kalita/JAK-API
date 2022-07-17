@@ -2864,6 +2864,39 @@ export default (
                 {
                     image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/thanks.png",
                 },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/totally-normal-challenge/happy.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/lantern-brawl/special.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/grom's-easter/special.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/golden-week-challenge/angry.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/golden-week-2022/happy.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/golden-week-2022/thanks.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/matcherino/contributer.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/matcherino/winner.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/thrower's-challenge/anry.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/thrower's-challenge/special.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/hay-day-anniversary/neutral.png",
+                },
             ],
         },
     });

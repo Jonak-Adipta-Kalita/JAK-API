@@ -62,6 +62,11 @@ export default (
                         image: "/images/brawlStars/brawlers/shelly/pins/witch-shelly/neutral.png",
                     },
                 ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/shelly/sprays/normal.png",
+                    },
+                ],
             },
             {
                 id: 1,
@@ -105,6 +110,11 @@ export default (
                         image: "/images/brawlStars/brawlers/nita/pins/shiba-nita/neutral.png",
                     },
                 ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/nita/sprays/normal.png",
+                    },
+                ],
             },
             {
                 id: 2,
@@ -142,6 +152,11 @@ export default (
                         image: "/images/brawlStars/brawlers/colt/pins/special.png",
                     },
                 ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/colt/sprays/normal.png",
+                    },
+                ],
             },
             {
                 id: 3,
@@ -176,6 +191,11 @@ export default (
                         image: "/images/brawlStars/brawlers/bull/pins/phew.png",
                     },
                 ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/bull/sprays/normal.png",
+                    },
+                ],
             },
             {
                 id: 4,
@@ -184,7 +204,6 @@ export default (
                 gadget: ["Spark Plug", "Recoil Spring"],
                 starpower: ["Energize", "Shocky"],
                 category: "Common",
-
                 pins: [
                     {
                         image: "/images/brawlStars/brawlers/jessie/pins/neutral.png",
@@ -212,6 +231,11 @@ export default (
                     },
                     {
                         image: "/images/brawlStars/brawlers/jessie/pins/tanuki-jessie/neutral.png",
+                    },
+                ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/jessie/sprays/normal.png",
                     },
                 ],
             },
@@ -254,6 +278,11 @@ export default (
                         image: "/images/brawlStars/brawlers/brock/pins/postal-brock/neutral.png",
                     },
                 ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/brock/sprays/normal.png",
+                    },
+                ],
             },
             {
                 id: 6,
@@ -292,6 +321,11 @@ export default (
                     },
                     {
                         image: "/images/brawlStars/brawlers/dynamike/pins/santa-mike/gg.png",
+                    },
+                ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/dynamike/sprays/normal.png",
                     },
                 ],
             },
@@ -337,6 +371,11 @@ export default (
                         image: "/images/brawlStars/brawlers/bo/pins/wasp-bo/neutral.png",
                     },
                 ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/bo/sprays/normal.png",
+                    },
+                ],
             },
             {
                 id: 8,
@@ -372,6 +411,11 @@ export default (
                     },
                     {
                         image: "/images/brawlStars/brawlers/tick/pins/snowman-tick/clap.png",
+                    },
+                ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/tick/sprays/normal.png",
                     },
                 ],
             },
@@ -411,6 +455,11 @@ export default (
                         image: "/images/brawlStars/brawlers/8-bit/pins/v8-bit/neutral.png",
                     },
                 ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/8-bit/sprays/normal.png",
+                    },
+                ],
             },
             {
                 id: 10,
@@ -446,6 +495,11 @@ export default (
                     },
                     {
                         image: "/images/brawlStars/brawlers/emz/pins/special.png",
+                    },
+                ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/emz/sprays/normal.png",
                     },
                 ],
             },
@@ -486,6 +540,11 @@ export default (
                     },
                     {
                         image: "/images/brawlStars/brawlers/stu/pins/headless-rider-stu/neutral.png",
+                    },
+                ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/stu/sprays/normal.png",
                     },
                 ],
             },
@@ -534,6 +593,11 @@ export default (
                         image: "/images/brawlStars/brawlers/el_primo/pins/el-corazon/neutral.png",
                     },
                 ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/el_primo/sprays/normal.png",
+                    },
+                ],
             },
             {
                 id: 13,
@@ -577,6 +641,11 @@ export default (
                         image: "/images/brawlStars/brawlers/barley/pins/sway-master-barley/neutral.png",
                     },
                 ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/barley/sprays/normal.png",
+                    },
+                ],
             },
             {
                 id: 14,
@@ -615,6 +684,11 @@ export default (
                     },
                     {
                         image: "/images/brawlStars/brawlers/poco/pins/serenade-poco/neutral.png",
+                    },
+                ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/poco/sprays/normal.png",
                     },
                 ],
             },
@@ -684,6 +758,11 @@ export default (
                         image: "/images/brawlStars/brawlers/rosa/pins/mantis-rosa/neutral.png",
                     },
                 ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/rosa/sprays/normal.png",
+                    },
+                ],
             },
             {
                 id: 16,
@@ -719,6 +798,11 @@ export default (
                     },
                     {
                         image: "/images/brawlStars/brawlers/rico/pins/firefly-rico/neutral.png",
+                    },
+                ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/rico/sprays/normal.png",
                     },
                 ],
             },
@@ -761,6 +845,11 @@ export default (
                         image: "/images/brawlStars/brawlers/darryl/pins/crash-test-darryl/neutral.png",
                     },
                 ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/darryl/sprays/normal.png",
+                    },
+                ],
             },
             {
                 id: 18,
@@ -797,6 +886,11 @@ export default (
 
                     {
                         image: "/images/brawlStars/brawlers/penny/pins/lil-helper-penny/neutral.png",
+                    },
+                ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/penny/sprays/normal.png",
                     },
                 ],
             },
@@ -842,6 +936,11 @@ export default (
                         image: "/images/brawlStars/brawlers/carl/pins/biker-carl/neutral.png",
                     },
                 ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/carl/sprays/normal.png",
+                    },
+                ],
             },
             {
                 id: 20,
@@ -877,6 +976,11 @@ export default (
                     },
                     {
                         image: "/images/brawlStars/brawlers/jacky/pins/gift-express-jacky/happy.png",
+                    },
+                ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/jacky/sprays/normal.png",
                     },
                 ],
             },
@@ -922,6 +1026,7 @@ export default (
                         image: "/images/brawlStars/brawlers/piper/pins/cupid-piper/neutral.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 22,
@@ -956,6 +1061,7 @@ export default (
                         image: "/images/brawlStars/brawlers/pam/pins/phew.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 23,
@@ -993,6 +1099,7 @@ export default (
                         image: "/images/brawlStars/brawlers/frank/pins/holiday-party-frank/gg.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 24,
@@ -1027,6 +1134,7 @@ export default (
                         image: "/images/brawlStars/brawlers/bibi/pins/phew.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 25,
@@ -1067,6 +1175,7 @@ export default (
                         image: "/images/brawlStars/brawlers/bea/pins/gold-neko-bea/neutral.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 26,
@@ -1104,6 +1213,7 @@ export default (
                         image: "/images/brawlStars/brawlers/nani/pins/special.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 27,
@@ -1147,6 +1257,7 @@ export default (
                         image: "/images/brawlStars/brawlers/edgar/pins/doctor-edgar/neutral.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 28,
@@ -1187,6 +1298,7 @@ export default (
                         image: "/images/brawlStars/brawlers/griff/pins/sleigher-griff/happy.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 29,
@@ -1224,6 +1336,7 @@ export default (
                         image: "/images/brawlStars/brawlers/mortis/pins/rockabilly-mortis/neutral.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 30,
@@ -1262,6 +1375,11 @@ export default (
                     },
                     {
                         image: "/images/brawlStars/brawlers/tara/pins/tempest-tara/neutral.png",
+                    },
+                ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/tara/sprays/tempest-tara.png",
                     },
                 ],
             },
@@ -1304,6 +1422,7 @@ export default (
                         image: "/images/brawlStars/brawlers/gene/pins/swamp-gene/neutral.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 32,
@@ -1338,6 +1457,7 @@ export default (
                         image: "/images/brawlStars/brawlers/max/pins/phew.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 33,
@@ -1384,6 +1504,11 @@ export default (
                         image: "/images/brawlStars/brawlers/mr_p/pins/daruma-mr-p/special.png",
                     },
                 ],
+                sprays: [
+                    {
+                        image: "/images/brawlStars/brawlers/mr_p/sprays/daruma-mr-p.png",
+                    },
+                ],
             },
             {
                 id: 34,
@@ -1427,6 +1552,7 @@ export default (
                         image: "/images/brawlStars/brawlers/sprout/pins/corrupted-sprout/gg.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 35,
@@ -1467,6 +1593,7 @@ export default (
                         image: "/images/brawlStars/brawlers/byron/pins/overlord-byron/neutral.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 36,
@@ -1507,6 +1634,7 @@ export default (
                         image: "/images/brawlStars/brawlers/squeak/pins/ghost-squeak/neutral.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 37,
@@ -1553,6 +1681,7 @@ export default (
                         image: "/images/brawlStars/brawlers/spike/pins/pyro-spike/neutral.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 38,
@@ -1587,6 +1716,7 @@ export default (
                         image: "/images/brawlStars/brawlers/crow/pins/phew.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 39,
@@ -1624,6 +1754,7 @@ export default (
                         image: "/images/brawlStars/brawlers/leon/pins/werewolf-leon/neutral.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 40,
@@ -1661,6 +1792,7 @@ export default (
                         image: "/images/brawlStars/brawlers/sandy/pins/special.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 41,
@@ -1698,6 +1830,7 @@ export default (
                         image: "/images/brawlStars/brawlers/amber/pins/special.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 42,
@@ -1756,6 +1889,7 @@ export default (
                         image: "/images/brawlStars/brawlers/gale/pins/merchant-gale/phew.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 43,
@@ -1820,6 +1954,7 @@ export default (
                         image: "/images/brawlStars/brawlers/surge/pins/mecha-paladin-surge/special.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 44,
@@ -1881,6 +2016,7 @@ export default (
                         image: "/images/brawlStars/brawlers/colette/pins/trixie-colette/special.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 45,
@@ -1948,6 +2084,7 @@ export default (
                         image: "/images/brawlStars/brawlers/lou/pins/smooth-lou/neutral.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 46,
@@ -2012,6 +2149,7 @@ export default (
                         image: "/images/brawlStars/brawlers/colonel_ruffs/pins/ronin-ruffs/special.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 47,
@@ -2079,6 +2217,7 @@ export default (
                         image: "/images/brawlStars/brawlers/belle/pins/ivy-belle/happy.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 48,
@@ -2143,6 +2282,7 @@ export default (
                         image: "/images/brawlStars/brawlers/buzz/pins/born-bad-buzz/special.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 49,
@@ -2207,6 +2347,7 @@ export default (
                         image: "/images/brawlStars/brawlers/ash/pins/ninja-ash/special.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 50,
@@ -2250,6 +2391,7 @@ export default (
                         image: "/images/brawlStars/brawlers/meg/pins/monster-truck-meg/neutral.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 51,
@@ -2317,6 +2459,7 @@ export default (
                         image: "/images/brawlStars/brawlers/lola/pins/galaxy-storm-lola/neutral.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 52,
@@ -2354,6 +2497,7 @@ export default (
                         image: "/images/brawlStars/brawlers/grom/pins/special.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 53,
@@ -2418,6 +2562,7 @@ export default (
                         image: "/images/brawlStars/brawlers/fang/pins/furious-fang/special.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 54,
@@ -2482,6 +2627,7 @@ export default (
                         image: "/images/brawlStars/brawlers/eve/pins/spiky-eve/special.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 55,
@@ -2546,6 +2692,7 @@ export default (
                         image: "/images/brawlStars/brawlers/janet/pins/valkyrie-janet/special.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 56,
@@ -2586,6 +2733,7 @@ export default (
                         image: "/images/brawlStars/brawlers/bonnie/pins/empress-bonnie/neutral.png",
                     },
                 ],
+                sprays: null,
             },
             {
                 id: 57,
@@ -2650,6 +2798,7 @@ export default (
                         image: "/images/brawlStars/brawlers/otis/pins/pharaotis/special.png",
                     },
                 ],
+                sprays: null,
             },
         ],
         players: {

@@ -3059,7 +3059,7 @@ export default (
                     image: "/images/brawlStars/players/pins/exclusive/brawl-ball-quest/angry.png",
                 },
             ],
-			sprays: []
+            sprays: [],
         },
     });
 };

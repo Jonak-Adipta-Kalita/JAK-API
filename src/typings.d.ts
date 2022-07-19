@@ -22,7 +22,7 @@ export interface BrawlStars {
                   image: string;
               }[]
             | null;
-		profile_icon?: {image: string}[]
+        profile_icon?: { image: string }[];
     }[];
     players: {
         pins: {
@@ -31,9 +31,9 @@ export interface BrawlStars {
         sprays: {
             image: string;
         }[];
-        profile_icons?:{
-                  image: string;
-              }[];
+        profile_icons?: {
+            image: string;
+        }[];
     };
 }
 

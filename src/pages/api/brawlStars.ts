@@ -3133,7 +3133,6 @@ export default (
                     image: "/images/brawlStars/players/sprays/warning.png",
                 },
             ],
-            profile_icons: [],
         },
     });
 };

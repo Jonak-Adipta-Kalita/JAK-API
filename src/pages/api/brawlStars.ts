@@ -151,6 +151,9 @@ export default (
                     {
                         image: "/images/brawlStars/brawlers/colt/pins/special.png",
                     },
+                    {
+                        image: "/images/brawlStars/brawlers/colt/pins/sharktooth-colt/neutral.png",
+                    },
                 ],
                 sprays: [
                     {
@@ -2216,6 +2219,9 @@ export default (
                     {
                         image: "/images/brawlStars/brawlers/belle/pins/ivy-belle/happy.png",
                     },
+                    {
+                        image: "/images/brawlStars/brawlers/belle/pins/coral-belle/neutral.png",
+                    },
                 ],
                 sprays: null,
             },
@@ -2560,6 +2566,9 @@ export default (
                     },
                     {
                         image: "/images/brawlStars/brawlers/fang/pins/furious-fang/special.png",
+                    },
+                    {
+                        image: "/images/brawlStars/brawlers/fang/pins/octo-fang/neutral.png",
                     },
                 ],
                 sprays: null,
@@ -3046,7 +3055,11 @@ export default (
                 {
                     image: "/images/brawlStars/players/pins/exclusive/hay-day-anniversary/neutral.png",
                 },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawl-ball-quest/angry.png",
+                },
             ],
+			sprays: []
         },
     });
 };

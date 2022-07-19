@@ -199,9 +199,11 @@ export default (
                         id: 17,
                         platform: "Personal Computer",
                         value: "Plague Inc.",
-                        description: "Can you infect the world? Plague Inc. is a unique mix of high strategy and terrifyingly realistic simulation.",
+                        description:
+                            "Can you infect the world? Plague Inc. is a unique mix of high strategy and terrifyingly realistic simulation.",
                         link: "https://www.ndemiccreations.com/en/22-plague-inc",
-                        imageURL: "/images/jak/hobby/favouriteGames/plague-inc.png",
+                        imageURL:
+                            "/images/jak/hobby/favouriteGames/plague-inc.png",
                     },
                 ],
             },

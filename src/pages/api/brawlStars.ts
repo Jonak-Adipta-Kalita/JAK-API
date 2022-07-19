@@ -3059,7 +3059,81 @@ export default (
                     image: "/images/brawlStars/players/pins/exclusive/brawl-ball-quest/angry.png",
                 },
             ],
-            sprays: [],
+            sprays: [
+                {
+                    image: "/images/brawlStars/players/sprays/angel-skeleton.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/arrow-heart.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/bad-randoms.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/banana-peel.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/breaking-wall.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/champion.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/clash-of-clans.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/crash-test.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/crying-mask.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/don't-be-salty.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/double-chevron.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/footprint.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/gem-king.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/green-checkmark.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/lightning-cloud.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/red-checkmark.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/shark.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/starfish.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/starr-logo.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/sweat-drop.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/this-is-fine.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/thumbs-up.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/tire.png",
+                },
+                {
+                    image: "/images/brawlStars/players/sprays/warning.png",
+                },
+            ],
+            profile_icons: [],
         },
     });
 };

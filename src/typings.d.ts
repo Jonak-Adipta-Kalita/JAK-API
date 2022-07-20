@@ -50,6 +50,13 @@ export interface GenshinImpact {
         constellation: string;
         nation: string | null;
     }[];
+	elements: {
+		id: number;
+		name: string;
+		image: string;
+		archon: string;
+		status_applies: string;
+	}[]
 }
 
 export interface JAK {

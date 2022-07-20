@@ -26,7 +26,7 @@ export default (
             {
                 id: 0,
                 name: "Albedo",
-                image: "/images/genshinImpact/albedo.png",
+                image: "/images/genshinImpact/characters/albedo.png",
                 element: "Geo",
                 weapon: "Sword",
                 special_dish: "Woodland Dream",
@@ -38,7 +38,7 @@ export default (
             {
                 id: 1,
                 name: "Amber",
-                image: "/images/genshinImpact/amber.png",
+                image: "/images/genshinImpact/characters/amber.png",
                 element: "Pyro",
                 weapon: "Bow",
                 special_dish: "Outrider's Champion Steak!",
@@ -50,7 +50,7 @@ export default (
             {
                 id: 2,
                 name: "Barbara",
-                image: "/images/genshinImpact/barbara.png",
+                image: "/images/genshinImpact/characters/barbara.png",
                 element: "Hydro",
                 weapon: "Catalyst",
                 special_dish: "Spicy Stew",
@@ -62,7 +62,7 @@ export default (
             {
                 id: 3,
                 name: "Beidou",
-                image: "/images/genshinImpact/beidou.png",
+                image: "/images/genshinImpact/characters/beidou.png",
                 element: "Electro",
                 weapon: "Claymore",
                 special_dish: "Flash-Fried Filet",
@@ -74,7 +74,7 @@ export default (
             {
                 id: 4,
                 name: "Bennett",
-                image: "/images/genshinImpact/bennett.png",
+                image: "/images/genshinImpact/characters/bennett.png",
                 element: "Pyro",
                 weapon: "Sword",
                 special_dish: "Teyvat Charred Egg",
@@ -86,7 +86,7 @@ export default (
             {
                 id: 5,
                 name: "Chongyun",
-                image: "/images/genshinImpact/chongyun.png",
+                image: "/images/genshinImpact/characters/chongyun.png",
                 element: "Cyro",
                 weapon: "Claymore",
                 special_dish: "Cold Noodles with Mountain Delicacies",
@@ -98,7 +98,7 @@ export default (
             {
                 id: 6,
                 name: "Diluc",
-                image: "/images/genshinImpact/diluc.png",
+                image: "/images/genshinImpact/characters/diluc.png",
                 element: "Pyro",
                 weapon: "Claymore",
                 special_dish: "Once Upon a Time in Mondstadt",
@@ -110,7 +110,7 @@ export default (
             {
                 id: 7,
                 name: "Diona",
-                image: "/images/genshinImpact/diona.png",
+                image: "/images/genshinImpact/characters/diona.png",
                 element: "Cyro",
                 weapon: "Bow",
                 special_dish: "Definitely Not a Bar Food!",
@@ -122,7 +122,7 @@ export default (
             {
                 id: 8,
                 name: "Eula",
-                image: "/images/genshinImpact/eula.png",
+                image: "/images/genshinImpact/characters/eula.png",
                 element: "Cyro",
                 weapon: "Claymore",
                 special_dish: "Stormcrest Pie",
@@ -134,7 +134,7 @@ export default (
             {
                 id: 9,
                 name: "Fischl",
-                image: "/images/genshinImpact/fischl.png",
+                image: "/images/genshinImpact/characters/fischl.png",
                 element: "Electro",
                 weapon: "Bow",
                 special_dish: "Die Heilige Sinfonie",
@@ -146,7 +146,7 @@ export default (
             {
                 id: 10,
                 name: "Ganyu",
-                image: "/images/genshinImpact/ganyu.png",
+                image: "/images/genshinImpact/characters/ganyu.png",
                 element: "Cyro",
                 weapon: "Bow",
                 special_dish: "Prosperous Peace",
@@ -158,7 +158,7 @@ export default (
             {
                 id: 11,
                 name: "Hu Tao",
-                image: "/images/genshinImpact/hu-tao.png",
+                image: "/images/genshinImpact/characters/hu-tao.png",
                 element: "Pyro",
                 weapon: "Polearm",
                 special_dish: "Ghostly March",
@@ -170,7 +170,7 @@ export default (
             {
                 id: 12,
                 name: "Jean",
-                image: "/images/genshinImpact/jean.png",
+                image: "/images/genshinImpact/characters/jean.png",
                 element: "Anemo",
                 weapon: "Sword",
                 special_dish: "Invigorating Pizza",
@@ -182,7 +182,7 @@ export default (
             {
                 id: 13,
                 name: "Kaedehara Kazuha",
-                image: "/images/genshinImpact/kaedehara-kazuha.png",
+                image: "/images/genshinImpact/characters/kaedehara-kazuha.png",
                 element: "Anemo",
                 weapon: "Sword",
                 special_dish: "All-Weather Beuty",
@@ -194,7 +194,7 @@ export default (
             {
                 id: 14,
                 name: "Kaeya",
-                image: "/images/genshinImpact/kaeya.png",
+                image: "/images/genshinImpact/characters/kaeya.png",
                 element: "Cyro",
                 weapon: "Sword",
                 special_dish: "Fruity Skewers",
@@ -206,7 +206,7 @@ export default (
             {
                 id: 15,
                 name: "Kamisato Ayaka",
-                image: "/images/genshinImpact/kamisato-ayaka.png",
+                image: "/images/genshinImpact/characters/kamisato-ayaka.png",
                 element: "Cyro",
                 weapon: "Sword",
                 special_dish: "Snow on the Heart",
@@ -218,7 +218,7 @@ export default (
             {
                 id: 16,
                 name: "Keqing",
-                image: "/images/genshinImpact/keqing.png",
+                image: "/images/genshinImpact/characters/keqing.png",
                 element: "Electro",
                 weapon: "Sword",
                 special_dish: "Survival Grilled Fish",
@@ -230,7 +230,7 @@ export default (
             {
                 id: 17,
                 name: "Klee",
-                image: "/images/genshinImpact/klee.png",
+                image: "/images/genshinImpact/characters/klee.png",
                 element: "Pyro",
                 weapon: "Catalyst",
                 special_dish: "Fish-Flavored Toast",
@@ -242,7 +242,7 @@ export default (
             {
                 id: 18,
                 name: "Lisa",
-                image: "/images/genshinImpact/lisa.png",
+                image: "/images/genshinImpact/characters/lisa.png",
                 element: "Electro",
                 weapon: "Catalyst",
                 special_dish: "Mysterious Bolognese",
@@ -254,7 +254,7 @@ export default (
             {
                 id: 19,
                 name: "Mona",
-                image: "/images/genshinImpact/mona.png",
+                image: "/images/genshinImpact/characters/mona.png",
                 element: "Hydro",
                 weapon: "Catalyst",
                 special_dish: "Der Weisheit Letzter",
@@ -266,7 +266,7 @@ export default (
             {
                 id: 20,
                 name: "Ningguang",
-                image: "/images/genshinImpact/ningguang.png",
+                image: "/images/genshinImpact/characters/ningguang.png",
                 element: "Geo",
                 weapon: "Catalyst",
                 special_dish: "Qiankun Mora Meat",
@@ -278,7 +278,7 @@ export default (
             {
                 id: 21,
                 name: "Noelle",
-                image: "/images/genshinImpact/noelle.png",
+                image: "/images/genshinImpact/characters/noelle.png",
                 element: "Geo",
                 weapon: "Claymore",
                 special_dish: "Lighter-Than-Air Pancake",
@@ -290,7 +290,7 @@ export default (
             {
                 id: 22,
                 name: "Qiqi",
-                image: "/images/genshinImpact/qiqi.png",
+                image: "/images/genshinImpact/characters/qiqi.png",
                 element: "Cyro",
                 weapon: "Sword",
                 special_dish: "No Tomorrow",
@@ -302,7 +302,7 @@ export default (
             {
                 id: 23,
                 name: "Razor",
-                image: "/images/genshinImpact/razor.png",
+                image: "/images/genshinImpact/characters/razor.png",
                 element: "Electro",
                 weapon: "Claymore",
                 special_dish: "Puppy-Paw Hash Brown",
@@ -314,7 +314,7 @@ export default (
             {
                 id: 24,
                 name: "Rosaria",
-                image: "/images/genshinImpact/rosaria.png",
+                image: "/images/genshinImpact/characters/rosaria.png",
                 element: "Cyro",
                 weapon: "Polearm",
                 special_dish: "Dinner of Judgement",
@@ -326,7 +326,7 @@ export default (
             {
                 id: 25,
                 name: "Sucrose",
-                image: "/images/genshinImpact/sucrose.png",
+                image: "/images/genshinImpact/characters/sucrose.png",
                 element: "Anemo",
                 weapon: "Catalyst",
                 special_dish: "Nutritious Meal (V. 593)",
@@ -338,7 +338,7 @@ export default (
             {
                 id: 26,
                 name: "Tartaglia",
-                image: "/images/genshinImpact/tartaglia.png",
+                image: "/images/genshinImpact/characters/tartaglia.png",
                 element: "Hydro",
                 weapon: "Bow",
                 special_dish: "A Pizza Catch",
@@ -350,7 +350,7 @@ export default (
             {
                 id: 27,
                 name: "Venti",
-                image: "/images/genshinImpact/venti.png",
+                image: "/images/genshinImpact/characters/venti.png",
                 element: "Anemo",
                 weapon: "Bow",
                 special_dish: "A Buoyant Breeze",
@@ -362,7 +362,7 @@ export default (
             {
                 id: 28,
                 name: "Xiangling",
-                image: "/images/genshinImpact/xiangling.png",
+                image: "/images/genshinImpact/characters/xiangling.png",
                 element: "Pyro",
                 weapon: "Polearm",
                 special_dish: "Wanmin Restaurant The Crux",
@@ -374,7 +374,7 @@ export default (
             {
                 id: 29,
                 name: "Xiao",
-                image: "/images/genshinImpact/xiao.png",
+                image: "/images/genshinImpact/characters/xiao.png",
                 element: "Anemon",
                 weapon: "Polearm",
                 special_dish: "Sweet Dream",
@@ -386,7 +386,7 @@ export default (
             {
                 id: 30,
                 name: "Aether",
-                image: "/images/genshinImpact/aether.png",
+                image: "/images/genshinImpact/characters/aether.png",
                 element: "Adaptive",
                 weapon: "Sword",
                 special_dish: null,
@@ -398,7 +398,7 @@ export default (
             {
                 id: 31,
                 name: "Lumine",
-                image: "/images/genshinImpact/lumine.png",
+                image: "/images/genshinImpact/characters/lumine.png",
                 element: "Adaptive",
                 weapon: "Sword",
                 special_dish: null,
@@ -410,7 +410,7 @@ export default (
             {
                 id: 32,
                 name: "Xingqiu",
-                image: "/images/genshinImpact/xingqiu.png",
+                image: "/images/genshinImpact/characters/xingqiu.png",
                 element: "Hydro",
                 weapon: "Sword",
                 special_dish: "All-Delicacy Parcels",
@@ -422,7 +422,7 @@ export default (
             {
                 id: 33,
                 name: "Xinyan",
-                image: "/images/genshinImpact/xinyan.png",
+                image: "/images/genshinImpact/characters/xinyan.png",
                 element: "Pyro",
                 weapon: "Claymore",
                 special_dish: "Rockin' Riffin' Chicken!",
@@ -434,7 +434,7 @@ export default (
             {
                 id: 34,
                 name: "Yanfei",
-                image: "/images/genshinImpact/yanfei.png",
+                image: "/images/genshinImpact/characters/yanfei.png",
                 element: "Pyro",
                 weapon: "Catalyst",
                 special_dish: "My Way",
@@ -446,7 +446,7 @@ export default (
             {
                 id: 35,
                 name: "Zhongli",
-                image: "/images/genshinImpact/zhongli.png",
+                image: "/images/genshinImpact/characters/zhongli.png",
                 element: "Geo",
                 weapon: "Polearm",
                 special_dish: "Slow-Cooked Bamboo Shoot Soup",
@@ -458,7 +458,7 @@ export default (
             {
                 id: 36,
                 name: "Yoimiya",
-                image: "/images/genshinImpact/yoimiya.png",
+                image: "/images/genshinImpact/characters/yoimiya.png",
                 element: "Pyro",
                 weapon: "Bow",
                 special_dish: "Summer Festival Fish",
@@ -470,7 +470,7 @@ export default (
             {
                 id: 37,
                 name: "Sayu",
-                image: "/images/genshinImpact/sayu.png",
+                image: "/images/genshinImpact/characters/sayu.png",
                 element: "Anemo",
                 weapon: "Claymore",
                 special_dish: "Dizziness-Be-Gone no Jutsu Version 2.0",
@@ -482,7 +482,7 @@ export default (
             {
                 id: 38,
                 name: "Sangonomiya Kokomi",
-                image: "/images/genshinImpact/sangonomiya-kokomi.png",
+                image: "/images/genshinImpact/characters/sangonomiya-kokomi.png",
                 element: "Hydro",
                 weapon: "Catalyst",
                 special_dish: "A Stunning Stratagem",
@@ -494,7 +494,7 @@ export default (
             {
                 id: 39,
                 name: "Raiden Shogan",
-                image: "/images/genshinImpact/raiden-shogan.png",
+                image: "/images/genshinImpact/characters/raiden-shogan.png",
                 element: "Electro",
                 weapon: "Polearm",
                 special_dish: null,
@@ -506,7 +506,7 @@ export default (
             {
                 id: 40,
                 name: "Thoma",
-                image: "/images/genshinImpact/thoma.png",
+                image: "/images/genshinImpact/characters/thoma.png",
                 element: "Pyro",
                 weapon: "Polearm",
                 special_dish: "Warmth",
@@ -518,7 +518,7 @@ export default (
             {
                 id: 41,
                 name: "Kujou Sara",
-                image: "/images/genshinImpact/kujou-sara.png",
+                image: "/images/genshinImpact/characters/kujou-sara.png",
                 element: "Electro",
                 weapon: "Bow",
                 special_dish: "Faith Eternal",
@@ -530,7 +530,7 @@ export default (
             {
                 id: 42,
                 name: "Aloy",
-                image: "/images/genshinImpact/aloy.png",
+                image: "/images/genshinImpact/characters/aloy.png",
                 element: "Cryo",
                 weapon: "Bow",
                 special_dish: "Satiety Gel",
@@ -542,7 +542,7 @@ export default (
             {
                 id: 43,
                 name: "Arataki Itto",
-                image: "/images/genshinImpact/arataki-itto.png",
+                image: "/images/genshinImpact/characters/arataki-itto.png",
                 element: "Geo",
                 weapon: "Claymore",
                 special_dish: "Way of the Strong",
@@ -554,7 +554,7 @@ export default (
             {
                 id: 44,
                 name: "Yun Jin",
-                image: "/images/genshinImpact/yun-jin.png",
+                image: "/images/genshinImpact/characters/yun-jin.png",
                 element: "Geo",
                 weapon: "Polearm",
                 special_dish: "Cloud-Shrouded Jade",
@@ -566,7 +566,7 @@ export default (
             {
                 id: 45,
                 name: "Shenhe",
-                image: "/images/genshinImpact/shenhe.png",
+                image: "/images/genshinImpact/characters/shenhe.png",
                 element: "Cyro",
                 weapon: "Polearm",
                 special_dish: "Heartstring Noodles",
@@ -578,7 +578,7 @@ export default (
             {
                 id: 46,
                 name: "Gorou",
-                image: "/images/genshinImpact/gorou.png",
+                image: "/images/genshinImpact/characters/gorou.png",
                 element: "Geo",
                 weapon: "Bow",
                 special_dish: "Victorious Legend",
@@ -590,7 +590,7 @@ export default (
             {
                 id: 47,
                 name: "Yelan",
-                image: "/images/genshinImpact/yelan.png",
+                image: "/images/genshinImpact/characters/yelan.png",
                 element: "Hydro",
                 weapon: "Bow",
                 special_dish: "Dew-Dipped Shrimp",
@@ -602,7 +602,7 @@ export default (
             {
                 id: 48,
                 name: "Yae Miko",
-                image: "/images/genshinImpact/yae-miko.png",
+                image: "/images/genshinImpact/characters/yae-miko.png",
                 element: "Electro",
                 weapon: "Catalyst",
                 special_dish: "Fukuuchi Udon",
@@ -614,7 +614,7 @@ export default (
             {
                 id: 49,
                 name: "Kamisato Ayato",
-                image: "/images/genshinImpact/kamisato-ayato.png",
+                image: "/images/genshinImpact/characters/kamisato-ayato.png",
                 element: "Hydro",
                 weapon: "Sword",
                 special_dish: "Quiet Elegance",
@@ -626,7 +626,7 @@ export default (
             {
                 id: 50,
                 name: "Shikanoin Heizou",
-                image: "/images/genshinImpact/shikanoin-heizou.png",
+                image: "/images/genshinImpact/characters/shikanoin-heizou.png",
                 element: "Anemo",
                 weapon: "Catalyst",
                 special_dish: "The Only Truth",
@@ -638,7 +638,7 @@ export default (
             {
                 id: 51,
                 name: "Kuki Shinobu",
-                image: "/images/genshinImpact/kuki-shinobu.png",
+                image: "/images/genshinImpact/characters/kuki-shinobu.png",
                 element: "Electro",
                 weapon: "Sword",
                 special_dish: "Omurice Waltz",
@@ -648,5 +648,56 @@ export default (
                 nation: "Inazuma",
             },
         ],
+		"element": [
+		{
+			"id": 0,
+			"name": "Pyro",
+			"image": "/images/genshinImpact/elements/pyro.png",
+			"archon": "Murata",
+			"status_applies": "Pyro"
+		},
+		{
+			"id": 1,
+			"name": "Hydro",
+			"image": "/images/genshinImpact/elements/hydro.png",
+			"archon": "Hydro Archon",
+			"status_applies": "Wet"
+		},
+		{
+			"id": 2,
+			"name": "Anemo",
+			"image": "/images/genshinImpact/elements/anemo.png",
+			"archon": "Barbatos",
+			"status_applies": null
+		},
+		{
+			"id": 3,
+			"name": "Electro",
+			"image": "/images/genshinImpact/elements/electro.png",
+			"archon": "Baal",
+			"status_applies": "Electro"
+		},
+		{
+			"id": 4,
+			"name": "Dendro",
+			"image": "/images/genshinImpact/elements/dendro.png",
+			"archon": "Dendro Archon",
+			"status_applies": "Dendro"
+		},
+		{
+			"id": 5,
+			"name": "Cyro",
+			"image": "/images/genshinImpact/elements/cyro.png",
+			"archon": "Tsaritsa",
+			"status_applies": "Cryo"
+		},
+		{
+			"id": 6,
+			"name": "Geo",
+			"image": "/images/genshinImpact/elements/geo.png",
+			"archon": "Morax",
+			"status_applies": null
+		}
+	]
     });
 };

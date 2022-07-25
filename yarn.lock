@@ -944,6 +944,14 @@ clean-stack@^2.0.0:
   resolved "https://registry.yarnpkg.com/clean-stack/-/clean-stack-2.2.0.tgz#ee8472dbb129e727b31e8a10a427dee9dfe4008b"
   integrity sha512-4diC9HaTE+KRAMWhDhrGOECgWZxoevMc5TlkObMqNSsVU62PYzXZ/SMTjzyGAFF1YusgxGcSWTEXBhp0CPwQ1A==
 
+cleye@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/cleye/-/cleye-1.2.0.tgz#ab6479ad1364e959bc87746579bbe556496d9761"
+  integrity sha512-91phRUNIHDJz+DDKsJQP5t0a82/PGaxpzbhbU+l6qJFRd35u0f0SCpovxWtWhYe6QGfypuj5E4e7k0U7/DRHtw==
+  dependencies:
+    terminal-columns "^1.4.1"
+    type-flag "^2.1.0"
+
 cli-boxes@^2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/cli-boxes/-/cli-boxes-2.2.1.tgz#ddd5035d25094fce220e9cab40a45840a440318f"
@@ -2196,7 +2204,7 @@ is-yarn-global@^0.3.0:
   resolved "https://registry.yarnpkg.com/is-yarn-global/-/is-yarn-global-0.3.0.tgz#d502d3382590ea3004893746754c89139973e232"
   integrity sha512-VjSeb/lHmkoyd8ryPVIKvOCn4D1koMqY+vqyjjUfc3xyKtP4dYOxM44sZrnqQSzSds3xyOrUTLTC9LVCVgLngw==
 
-isarray@^2.0.5:
+isarray@2.0.5:
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/isarray/-/isarray-2.0.5.tgz#8af1e4c1221244cc62459faf38940d4e644a5723"
   integrity sha512-xHjhDr3cNBK0BzdUJSPXZntQUx/mwMS5Rw4A7lPJ90XGAO6ISP/ePDNuo0vhqOZU+UD5JoodwCAAoZQd3FeAKw==
@@ -2583,13 +2591,14 @@ negotiator@^0.6.3:
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.3.tgz#58e323a72fedc0d6f9cd4d31fe49f51479590ccd"
   integrity sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==
 
-next-swagger-doc@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/next-swagger-doc/-/next-swagger-doc-0.2.1.tgz#d215381962b126ced57e918c3c510af2dad6ace6"
-  integrity sha512-++X4Negnxn6xx7X+6XaqaS9BSERe6sLULj4UNrTmbD5/M7vVuQ5zaiHjy7IWDWrPWOFeuX8q0oGeXZLPqheuEg==
+next-swagger-doc@^0.3.0:
+  version "0.3.4"
+  resolved "https://registry.yarnpkg.com/next-swagger-doc/-/next-swagger-doc-0.3.4.tgz#6f4e23f23af3ed14e223285809be4a29f61cea7c"
+  integrity sha512-HhMzSlcos+MmvxEE09qgTz7QI5sYIQ1LRNSKcQ306k7UTiADtOB+UK/b5nRqr5Le3rxsP1fF8LfA+RHRbdUqhg==
   dependencies:
-    isarray "^2.0.5"
-    swagger-jsdoc "^6.1.0"
+    cleye "1.2.0"
+    isarray "2.0.5"
+    swagger-jsdoc "6.2.1"
 
 next@latest:
   version "12.1.0"
@@ -3805,10 +3814,10 @@ swagger-client@^3.18.4:
     traverse "~0.6.6"
     url "~0.11.0"
 
-swagger-jsdoc@^6.1.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/swagger-jsdoc/-/swagger-jsdoc-6.1.0.tgz#c2b86321f2c4dde8947b418fe8a4bc94431d5522"
-  integrity sha512-xgep5M8Gq31MxpCbQLvJZpNqHfGPfI+sILCzujZbEXIQp2COtkZgoGASs0gacRs4xHmLDH+GuMGdorPITSG4tA==
+swagger-jsdoc@6.2.1:
+  version "6.2.1"
+  resolved "https://registry.yarnpkg.com/swagger-jsdoc/-/swagger-jsdoc-6.2.1.tgz#2f3f67c8433ae2c09e7e318d2f8fd9e09f0166b3"
+  integrity sha512-l2BwFf7wzNPb11+NRRy65X+kuHUGLb3ZuGFn6A8xDXXTu73YzJmCiy+LED/6QsOgPBPgO3u3sDEz6KuOHAlCtA==
   dependencies:
     commander "6.2.0"
     doctrine "3.0.0"
@@ -3902,6 +3911,11 @@ tar@^6.0.2, tar@^6.1.11, tar@^6.1.2:
     mkdirp "^1.0.3"
     yallist "^4.0.0"
 
+terminal-columns@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/terminal-columns/-/terminal-columns-1.4.1.tgz#f669dd878afaad0c404d4b7aa01855fb6f24f1a4"
+  integrity sha512-IKVL/itiMy947XWVv4IHV7a0KQXvKjj4ptbi7Ew9MPMcOLzkiQeyx3Gyvh62hKrfJ0RZc4M1nbhzjNM39Kyujw==
+
 text-table@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
@@ -3962,6 +3976,11 @@ type-fest@^0.20.2:
   version "0.20.2"
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.20.2.tgz#1bf207f4b28f91583666cb5fbd327887301cd5f4"
   integrity sha512-Ne+eE4r0/iWnpAxD852z3A+N0Bt5RN//NjJwRd2VFHEmrywxf5vsZlh4R6lixl6B+wz/8d+maTSAkN1FIkI3LQ==
+
+type-flag@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/type-flag/-/type-flag-2.1.0.tgz#9d3c7c84804032d4e03b4877a866c25c122c1136"
+  integrity sha512-ln8u/BdNzppXeFP8JsmsofElwVC2/FYoQAIipzhx45jjFwSApFqIieBEY93TKoLpphQBAbazX8LCoIY59Vwxlg==
 
 typedarray-to-buffer@^3.1.5:
   version "3.1.5"

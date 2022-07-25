@@ -2748,7 +2748,7 @@ export default (
                 id: 57,
                 name: "Otis",
                 image: "/images/brawlStars/brawlers/otis/main.png",
-                gadget: ["Dormant Star", null],
+                gadget: ["Dormant Star", "Phat Splatter"],
                 starpower: ["Stencil Glue", null],
                 category: "Chromatic",
                 pins: [

@@ -3058,6 +3058,9 @@ export default (
                 {
                     image: "/images/brawlStars/players/pins/exclusive/brawl-ball-quest/angry.png",
                 },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/clash-of-clans-anniversary-quest/angry.png",
+                },
             ],
             sprays: [
                 {

@@ -657,7 +657,7 @@ export default (
             },
             {
                 id: 41,
-                name: "Rabbit-Noir",
+                name: "Rabbit Noir",
                 image: "/images/miraculous/holders/rabbit-noir.png",
                 real_name: "Adrien Agreste",
                 kwami: ["Plagg", "Fluff"],

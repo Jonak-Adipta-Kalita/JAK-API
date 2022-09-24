@@ -39,7 +39,7 @@ export interface BrawlStars {
             values: {
                 image: string;
             }[];
-        };
+        }[];
         sprays: {
             image: string;
         }[];

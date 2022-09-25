@@ -517,52 +517,148 @@ const players: BrawlStars["players"] = {
     ],
     profile_icons: [
         {
-            image: "/images/brawlStars/players/profile_icons/bandana.png",
+            image: "/images/brawlStars/players/profile_icons/bad-randoms/normal.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/bronze-trophy-star.png",
+            image: "/images/brawlStars/players/profile_icons/bot/boss.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/bronze-trophy.png",
+            image: "/images/brawlStars/players/profile_icons/bot/melee.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/default.png",
+            image: "/images/brawlStars/players/profile_icons/bot/prettiest.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/gold-trophy-crown.png",
+            image: "/images/brawlStars/players/profile_icons/bot/sniper.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/gold-trophy.png",
+            image: "/images/brawlStars/players/profile_icons/calamity-gang/normal.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/power-up.png",
+            image: "/images/brawlStars/players/profile_icons/deep-sea-brawl/normal.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/purple-trophy-crown.png",
+            image: "/images/brawlStars/players/profile_icons/experience/bandana.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/purple-trophy.png",
+            image: "/images/brawlStars/players/profile_icons/experience/default.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/robot.png",
+            image: "/images/brawlStars/players/profile_icons/experience/power-up.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/showdown-crown.png",
+            image: "/images/brawlStars/players/profile_icons/experience/robot.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/silver-trophy-star.png",
+            image: "/images/brawlStars/players/profile_icons/experience/showdown-crown.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/silver-trophy.png",
+            image: "/images/brawlStars/players/profile_icons/experience/silver-trophy.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/spike.png",
+            image: "/images/brawlStars/players/profile_icons/experience/spike.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/star.png",
+            image: "/images/brawlStars/players/profile_icons/experience/star.png",
         },
         {
-            image: "/images/brawlStars/players/profile_icons/victory-crown.png",
+            image: "/images/brawlStars/players/profile_icons/experience/victory-crown.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/golden-week/normal.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/golden-week/special.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/pirates/normal.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-1/gold.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-1/silver.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-10/gold.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-10/silver.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-2/gold.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-2/silver.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-3/gold.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-3/silver.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-4/gold.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-4/silver.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-5/gold.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-5/silver.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-6/gold.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-6/silver.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-7/gold.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-7/silver.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-8/gold.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-8/silver.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-9/gold.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-league/season-9/silver.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/stunt-show/normal.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/trophy/bronze-trophy-star.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/trophy/bronze-trophy.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/trophy/gold-trophy-crown.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/trophy/gold-trophy.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/trophy/purple-trophy-crown.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/trophy/purple-trophy.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/trophy/silver-trophy-star.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/worst-bunch/normal.png",
         },
     ],
 };

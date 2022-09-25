@@ -472,6 +472,48 @@ const players: BrawlStars["players"] = {
         {
             image: "/images/brawlStars/players/sprays/warning.png",
         },
+        {
+            image: "/images/brawlStars/players/sprays/bronze.png",
+        },
+        {
+            image: "/images/brawlStars/players/sprays/silver.png",
+        },
+        {
+            image: "/images/brawlStars/players/sprays/gold.png",
+        },
+        {
+            image: "/images/brawlStars/players/sprays/diamond.png",
+        },
+        {
+            image: "/images/brawlStars/players/sprays/mythic.png",
+        },
+        {
+            image: "/images/brawlStars/players/sprays/legendary.png",
+        },
+        {
+            image: "/images/brawlStars/players/sprays/masters.png",
+        },
+        {
+            image: "/images/brawlStars/players/sprays/brawl-ball.png",
+        },
+        {
+            image: "/images/brawlStars/players/sprays/solo-showdown.png",
+        },
+        {
+            image: "/images/brawlStars/players/sprays/duo-showdown-1.png",
+        },
+        {
+            image: "/images/brawlStars/players/sprays/duo-showdown-2.png",
+        },
+        {
+            image: "/images/brawlStars/players/sprays/esports.png",
+        },
+        {
+            image: "/images/brawlStars/players/sprays/robot.png",
+        },
+        {
+            image: "/images/brawlStars/players/sprays/calamity-gang.png",
+        },
     ],
 };
 

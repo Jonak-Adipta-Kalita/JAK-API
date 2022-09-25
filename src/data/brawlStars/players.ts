@@ -260,61 +260,143 @@ const players: BrawlStars["players"] = {
             ],
         },
         {
-            image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/gg.png",
+            type: "monthly-finals-2022",
+            values: [
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/gg.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/special.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/sleepy.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/chaos-cup.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/happy.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/thanks.png",
+                },
+            ],
         },
         {
-            image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/special.png",
+            type: "totally-normal-challenge",
+            values: [
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/totally-normal-challenge/happy.png",
+                },
+            ],
         },
         {
-            image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/sleepy.png",
+            type: "lantern-brawl",
+            values: [
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/lantern-brawl/special.png",
+                },
+            ],
         },
         {
-            image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/chaos-cup.png",
+            type: "grom's-easter",
+            values: [
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/grom's-easter/special.png",
+                },
+            ],
         },
         {
-            image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/happy.png",
+            type: "golden-week-challenge",
+            values: [
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/golden-week-challenge/angry.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/golden-week-2022/happy.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/golden-week-2022/thanks.png",
+                },
+            ],
         },
         {
-            image: "/images/brawlStars/players/pins/exclusive/monthly-finals-2022/thanks.png",
+            type: "matcherino",
+            values: [
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/matcherino/contributer.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/matcherino/winner.png",
+                },
+            ],
         },
         {
-            image: "/images/brawlStars/players/pins/exclusive/totally-normal-challenge/happy.png",
+            type: "thrower's-challenge",
+            values: [
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/thrower's-challenge/angry.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/thrower's-challenge/special.png",
+                },
+            ],
         },
         {
-            image: "/images/brawlStars/players/pins/exclusive/lantern-brawl/special.png",
+            type: "hay-day-anniversary",
+            values: [
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/hay-day-anniversary/neutral.png",
+                },
+            ],
         },
         {
-            image: "/images/brawlStars/players/pins/exclusive/grom's-easter/special.png",
+            type: "brawl-ball-quest",
+            values: [
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/brawl-ball-quest/angry.png",
+                },
+            ],
         },
         {
-            image: "/images/brawlStars/players/pins/exclusive/golden-week-challenge/angry.png",
+            type: "clash-of-clans-anniversary-quest",
+            values: [
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/clash-of-clans-anniversary-quest/angry.png",
+                },
+            ],
         },
         {
-            image: "/images/brawlStars/players/pins/exclusive/golden-week-2022/happy.png",
-        },
-        {
-            image: "/images/brawlStars/players/pins/exclusive/golden-week-2022/thanks.png",
-        },
-        {
-            image: "/images/brawlStars/players/pins/exclusive/matcherino/contributer.png",
-        },
-        {
-            image: "/images/brawlStars/players/pins/exclusive/matcherino/winner.png",
-        },
-        {
-            image: "/images/brawlStars/players/pins/exclusive/thrower's-challenge/angry.png",
-        },
-        {
-            image: "/images/brawlStars/players/pins/exclusive/thrower's-challenge/special.png",
-        },
-        {
-            image: "/images/brawlStars/players/pins/exclusive/hay-day-anniversary/neutral.png",
-        },
-        {
-            image: "/images/brawlStars/players/pins/exclusive/brawl-ball-quest/angry.png",
-        },
-        {
-            image: "/images/brawlStars/players/pins/exclusive/clash-of-clans-anniversary-quest/angry.png",
+            type: "bsc-team-partnership",
+            values: [
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/bsc-team-partnership/obey.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/bsc-team-partnership/stamina.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/bsc-team-partnership/queso.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/bsc-team-partnership/qlash.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/bsc-team-partnership/sk.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/bsc-team-partnership/navi.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/bsc-team-partnership/tribe.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/bsc-team-partnership/zeta.png",
+                },
+                {
+                    image: "/images/brawlStars/players/pins/exclusive/bsc-team-partnership/totem.png",
+                },
+            ],
         },
     ],
     sprays: [

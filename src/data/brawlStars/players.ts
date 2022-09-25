@@ -515,6 +515,56 @@ const players: BrawlStars["players"] = {
             image: "/images/brawlStars/players/sprays/calamity-gang.png",
         },
     ],
+    profile_icons: [
+        {
+            image: "/images/brawlStars/players/profile_icons/bandana.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/bronze-trophy-star.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/bronze-trophy.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/default.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/gold-trophy-crown.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/gold-trophy.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/power-up.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/purple-trophy-crown.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/purple-trophy.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/robot.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/showdown-crown.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/silver-trophy-star.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/silver-trophy.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/spike.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/star.png",
+        },
+        {
+            image: "/images/brawlStars/players/profile_icons/victory-crown.png",
+        },
+    ],
 };
 
 export default players;

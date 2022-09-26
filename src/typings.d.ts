@@ -21,9 +21,12 @@ export interface BrawlStars {
         skins: {
             name: string;
             image: string;
-            pins: {
-                image: string;
-            }[];
+            pins:
+                | {
+                      image: string;
+                  }[]
+                | null;
+            sprays: { image: string }[] | null;
         }[];
         sprays:
             | {

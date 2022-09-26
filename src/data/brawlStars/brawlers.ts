@@ -46,6 +46,18 @@ const brawlers: BrawlStars["brawlers"] = [
         ],
         skins: [
             {
+                name: "Star Shelly",
+                image: "/images/brawlStars/brawlers/shelly/skins/star-shelly/skin.png",
+                pins: null,
+                sprays: null,
+            },
+            {
+                name: "Bandita Shelly",
+                image: "/images/brawlStars/brawlers/shelly/skins/bandita-shelly/skin.png",
+                pins: null,
+                sprays: null,
+            },
+            {
                 name: "Witch Shelly",
                 image: "/images/brawlStars/brawlers/shelly/skins/witch-shelly/skin.png",
                 pins: [
@@ -53,11 +65,42 @@ const brawlers: BrawlStars["brawlers"] = [
                         image: "/images/brawlStars/brawlers/shelly/skins/witch-shelly/pins/neutral.png",
                     },
                 ],
+                sprays: null,
+            },
+            {
+                name: "Americas Shelly",
+                image: "/images/brawlStars/brawlers/shelly/skins/americas-shelly/skin.png",
+                pins: null,
+                sprays: null,
+            },
+            {
+                name: "Boca Juniors Shelly",
+                image: "/images/brawlStars/brawlers/shelly/skins/boca-juniors-shelly/skin.png",
+                pins: null,
+                sprays: null,
+            },
+            {
+                name: "Princess Shelly",
+                image: "/images/brawlStars/brawlers/shelly/skins/princess-shelly/skin.png",
+                pins: null,
+                sprays: null,
+            },
+            {
+                name: "Psg Shelly",
+                image: "/images/brawlStars/brawlers/shelly/skins/psg-shelly/skin.png",
+                pins: null,
+                sprays: null,
+            },
+            {
+                name: "U De Chile Shelly",
+                image: "/images/brawlStars/brawlers/shelly/skins/u-de-chile-shelly/skin.png",
+                pins: null,
+                sprays: null,
             },
         ],
         profile_icon: [
             {
-                image: "/images/brawlStars/brawlers/shelly/profile_icon/normal.png",
+                image: "/images/brawlStars/brawlers/shelly/profile_icon.png",
             },
         ],
         voicelines: [

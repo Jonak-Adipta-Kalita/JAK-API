@@ -38,113 +38,19 @@ const brawlers: BrawlStars["brawlers"] = [
             {
                 image: "/images/brawlStars/brawlers/shelly/pins/special.png",
             },
+            {
+                image: "/images/brawlStars/brawlers/shelly/pins/witch-shelly/neutral.png",
+            },
         ],
         sprays: [
             {
                 image: "/images/brawlStars/brawlers/shelly/sprays/normal.png",
             },
         ],
-        skins: [
-            {
-                name: "Star Shelly",
-                image: "/images/brawlStars/brawlers/shelly/skins/star-shelly/skin.png",
-                pins: null,
-                sprays: null,
-            },
-            {
-                name: "Bandita Shelly",
-                image: "/images/brawlStars/brawlers/shelly/skins/bandita-shelly/skin.png",
-                pins: null,
-                sprays: null,
-            },
-            {
-                name: "Witch Shelly",
-                image: "/images/brawlStars/brawlers/shelly/skins/witch-shelly/skin.png",
-                pins: [
-                    {
-                        image: "/images/brawlStars/brawlers/shelly/skins/witch-shelly/pins/neutral.png",
-                    },
-                ],
-                sprays: null,
-            },
-            {
-                name: "Americas Shelly",
-                image: "/images/brawlStars/brawlers/shelly/skins/americas-shelly/skin.png",
-                pins: null,
-                sprays: null,
-            },
-            {
-                name: "Boca Juniors Shelly",
-                image: "/images/brawlStars/brawlers/shelly/skins/boca-juniors-shelly/skin.png",
-                pins: null,
-                sprays: null,
-            },
-            {
-                name: "Princess Shelly",
-                image: "/images/brawlStars/brawlers/shelly/skins/princess-shelly/skin.png",
-                pins: null,
-                sprays: null,
-            },
-            {
-                name: "Psg Shelly",
-                image: "/images/brawlStars/brawlers/shelly/skins/psg-shelly/skin.png",
-                pins: null,
-                sprays: null,
-            },
-            {
-                name: "U De Chile Shelly",
-                image: "/images/brawlStars/brawlers/shelly/skins/u-de-chile-shelly/skin.png",
-                pins: null,
-                sprays: null,
-            },
-        ],
         profile_icon: [
             {
                 image: "/images/brawlStars/brawlers/shelly/profile_icon.png",
             },
-        ],
-        voicelines: [
-            {
-                type: "Spawning",
-                lines: [
-                    '"Let\'s go!"',
-                    "\"Let's go get 'em.\"",
-                    '"Let\'s do this"',
-                    "Shelly laughs",
-                ],
-            },
-            {
-                type: "Winning",
-                lines: [
-                    '"Winning."',
-                    '"Bling bling."',
-                    '"Incredible!"',
-                    '"Fantastico!"',
-                ],
-            },
-            {
-                type: "Receiving Damage",
-                lines: ["Shelly whimpers", "Shelly groans"],
-            },
-            {
-                type: "Defeating An Enemy",
-                lines: [
-                    '"Asi me gusta!"',
-                    '"Yes!"',
-                    '"Yippee!"',
-                    '"Woo-hoo!"',
-                    "Shelly laughs",
-                ],
-            },
-            {
-                type: "Defeated",
-                lines: [],
-            },
-            {
-                type: "Attacking",
-                lines: null,
-            },
-            { type: "Activating A Super", lines: [] },
         ],
     },
     {

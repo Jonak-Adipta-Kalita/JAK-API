@@ -18,23 +18,12 @@ export interface BrawlStars {
         pins: {
             image: string;
         }[];
-        skins: {
-            name: string;
-            image: string;
-            pins:
-                | {
-                      image: string;
-                  }[]
-                | null;
-            sprays: { image: string }[] | null;
-        }[];
         sprays:
             | {
                   image: string;
               }[]
             | null;
         profile_icon: { image: string }[];
-        voicelines: { type: string; lines: string[] | null }[];
     }[];
     players: {
         pins: {

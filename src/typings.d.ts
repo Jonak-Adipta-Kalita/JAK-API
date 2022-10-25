@@ -11,42 +11,27 @@ export interface BrawlStars {
         id: number;
         name: string;
         image: string;
-        description: string;
         gadget: [string, string | null];
         starpower: [string, string | null];
         category: string;
         pins: {
             image: string;
         }[];
-        skins: {
-            name: string;
-            image: string;
-            pins:
-                | {
-                      image: string;
-                  }[]
-                | null;
-            sprays: { image: string }[] | null;
-        }[];
         sprays:
             | {
                   image: string;
               }[]
             | null;
-        profile_icon: { image: string }[];
-        voicelines: { type: string; lines: string[] | null }[];
+        profile_icon?: { image: string }[];
     }[];
     players: {
         pins: {
-            type: string;
-            values: {
-                image: string;
-            }[];
+            image: string;
         }[];
         sprays: {
             image: string;
         }[];
-        profile_icons: {
+        profile_icons?: {
             image: string;
         }[];
     };

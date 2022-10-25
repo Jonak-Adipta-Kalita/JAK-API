@@ -11,7 +11,6 @@ export interface BrawlStars {
         id: number;
         name: string;
         image: string;
-        description: string;
         gadget: [string, string | null];
         starpower: [string, string | null];
         category: string;
@@ -23,7 +22,7 @@ export interface BrawlStars {
                   image: string;
               }[]
             | null;
-        profile_icon: { image: string }[];
+        profile_icon?: { image: string }[];
     }[];
     players: {
         pins: {

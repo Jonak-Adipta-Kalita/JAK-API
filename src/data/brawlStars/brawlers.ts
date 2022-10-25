@@ -5,8 +5,6 @@ const brawlers: BrawlStars["brawlers"] = [
         id: 0,
         name: "Shelly",
         image: "/images/brawlStars/brawlers/shelly/main.png",
-        description:
-            "Shelly's spread-fire shotgun blasts the other team with buckshot. Her Super destroys cover and keeps her opponents at a distance!",
         gadget: ["Fast Forward", "Clay Pigeon"],
         starpower: ["Shell Shock", "Band-Aid"],
         category: "Common",

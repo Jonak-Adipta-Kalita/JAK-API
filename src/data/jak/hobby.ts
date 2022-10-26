@@ -169,6 +169,14 @@ const hobby: JAK["hobby"] = [
                 link: "https://www.ndemiccreations.com/en/22-plague-inc",
                 imageURL: "/images/jak/hobby/favouriteGames/plague-inc.png",
             },
+            {
+                id: 18,
+                platform: "Personal Computer",
+                value: "Watch Dogs 2",
+                description: "Watch Dogs 2 is an action-adventure game with stealth elements and played from a third-person perspective as Marcus Holloway, a young hacker",
+                link: "https://www.ubisoft.com/en-gb/game/watch-dogs/watch-dogs-2",
+                imageURL: "/images/jak/hobby/favouriteGames/watch-dogs-2.png",
+            },
         ],
     },
     {

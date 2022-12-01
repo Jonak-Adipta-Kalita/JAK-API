@@ -11,7 +11,7 @@
 
 </div>
 
-Go to the [Website](https://jak-api.vercel.app/), [Rapid API](https://rapidapi.com/Jonak-Adipta-Kalita/api/jak_api)
+Go to the [Website](https://api.jonakadiptakalita.tk), [Rapid API](https://rapidapi.com/Jonak-Adipta-Kalita/api/jak_api)
 
 ## Steps
 

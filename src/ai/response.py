@@ -58,8 +58,11 @@ def get_response(intents_list, intents_json):
 
     return result
 
-while True:
-    message = input(">> ")
+def talk(message):
     ints = predict_class(message)
     res = get_response(ints, intents)
-    print(res)
+
+    return res
+
+while True:
+    print(talk(str(input(">> "))))

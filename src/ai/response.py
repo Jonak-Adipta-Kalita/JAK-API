@@ -1,16 +1,16 @@
-import random, json, pickle, nltk
+import random, json, pickle, nltk, sys
 import numpy as np
 
 from nltk.stem import WordNetLemmatizer
 from tensorflow.keras.models import load_model
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open("model/intents.json").read())
+intents = json.loads(open("../../public/model/intents.json").read())
 
-words = pickle.load(open("model/words.pkl", "rb"))
-classes = pickle.load(open("model/classes.pkl", "rb"))
+words = pickle.load(open("../../public/model/words.pkl", "rb"))
+classes = pickle.load(open("../../public/model/classes.pkl", "rb"))
 
-model = load_model("model/alexis.h5")
+model = load_model("../../public/model/alexis.h5")
 
 def clean_up_sentence(sentence):
     sentence_words = nltk.word_tokenize(sentence)
@@ -64,5 +64,8 @@ def talk(message):
 
     return res
 
-while True:
-    print(talk(str(input(">> "))))
+try:
+    message = sys.argv[0]
+    print(talk(message))
+except IndexError:
+    print("Please enter a message.")

@@ -8,7 +8,8 @@ from tensorflow.keras.optimizers import SGD
 from tensorflowjs.converters import save_keras_model
 
 lemmatizer = WordNetLemmatizer()
-intents = json.loads(open("../../public/model/intents.json").read())
+with open("../../public/model/intents.json", "r") as file:
+    intents = json.load(file)
 
 words = []
 classes = []
@@ -65,7 +66,7 @@ sgd = SGD(learning_rate=0.01, decay=1e-6, momentum=0.9, nesterov=True)
 model.compile(loss="categorical_crossentropy", optimizer=sgd, metrics=["accuracy"])
 
 hist = model.fit(np.array(train_x), np.array(train_y), epochs=5000, batch_size=5, verbose=1)
-save_keras_model(model, "model")
+save_keras_model(model, "../../public/model")
 model.save("../../public/model/alexis.h5", hist)
 
 print()

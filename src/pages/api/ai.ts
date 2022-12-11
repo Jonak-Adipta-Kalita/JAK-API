@@ -1,7 +1,6 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import fs from "fs";
+import { spawn } from "child_process";
 import * as tensorflow from "@tensorflow/tfjs";
-import intent from "../../ai/model/intents.json";
 
 /**
  * @swagger
@@ -29,17 +28,26 @@ export default async (
             .json({ error: `Method ${req.method} not allowed` });
     }
 
-    const { message } = req.body;
-    const words = fs.readFileSync("../../ai/model/words.pkl", "binary");
-    const classes = fs.readFileSync("../../ai/model/classes.pkl", "binary");
-    const modal = tensorflow.loadLayersModel(
-        "https://raw.githubusercontent.com/Jonak-Adipta-Kalita/JAK-API/main/src/ai/model.json"
-    );
+    const { message }: { message: string } = req.body;
 
-    const clean_up_sentence = (sentence: string) => {};
-    const bag_of_words = (sentence: string) => {};
-    const predict_class = (sentence: string) => {};
-    const get_response = (intents_list: [], intents_json: object) => {};
+    // const model = await tensorflow.loadLayersModel(
+    //     "http://localhost:8000/model/model.json"
+    // );
 
-    res.status(200).json("");
+    // const prediction = model.predict(
+    //     tensorflow.tensor2d([message], [1, message.length])
+    // ) as tensorflow.Tensor;
+
+    // const index = prediction.argMax(1).dataSync()[0];
+
+    // const response = intent[index].responses;
+
+    const pythonProcess = spawn("python", [
+        "F:\\Hard-disk\\Project\\Works\\JAK API\\src\\ai\\response.py",
+        message,
+    ]);
+    pythonProcess.stdout.on("data", (data: any) => {
+        const reply = data.toString();
+        res.status(200).json(reply);
+    });
 };

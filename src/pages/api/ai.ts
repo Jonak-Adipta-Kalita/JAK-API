@@ -27,6 +27,6 @@ export default async (
     }
 
     const { message }: { message: string } = req.body;
-	
-	res.status(200).json(reply);
+
+    res.status(200).json("");
 };

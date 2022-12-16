@@ -41,7 +41,7 @@
         "swagger-ui-react": "^4.8.0"
     },
     "devDependencies": {
-        "@types/node": "17.0.4",
+        "@types/node": "18.11.16",
         "@types/react": "17.0.38",
         "@types/swagger-ui-react": "^4.1.1",
         "@typescript-eslint/eslint-plugin": "^5.14.0",

@@ -38,6 +38,19 @@ yarn
 
 and hit enter.
 
+### Getting `WEBSITE_BACKEND_URL`
+
+It is the hosted URL of [JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK-Website)'s backend.
+
+### Passing the Required Credentials
+
+Create a new file `.env` in the `backend` folder and new file `.env.local` in the `frontend` folder. In the
+`.env` file, paste the following:
+
+```env
+WEBSITE_BACKEND_URL=<YOUR_WEBSITE_BACKEND_URL>
+```
+
 ### Running the server:
 
 To run the server, open a terminal in the directory. Now type

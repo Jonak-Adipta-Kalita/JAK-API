@@ -199,10 +199,10 @@ const pictures: JAK["pictures"] = [
     },
     {
         id: 31,
-        name: "The Boys in Shivasagar, Assam, India",
+        name: "The Boys of the family in Shivasagar, Assam, India",
         height: "1186",
         width: "1341",
-        image: "/images/jak/pictures/the_boys_in_shivasagar.jpg",
+        image: "/images/jak/pictures/the_boys_of_the_family_in_shivasagar.jpg",
     },
     {
         id: 32,

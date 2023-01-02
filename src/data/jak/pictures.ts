@@ -157,24 +157,24 @@ const pictures: JAK["pictures"] = [
     },
     {
         id: 25,
-        name: "Me and My Cousin Brother 6 In Shivasagar in Shivasagar, Assam, India",
-        height: "1908",
-        width: "4128",
-        image: "/images/jak/pictures/me_and_my_cousin_brother_6_in_shivasagar.jpg",
-    },
-    {
-        id: 26,
         name: "Me and My Dad In Shivasagar in Shivasagar, Assam, India",
         height: "2128",
         width: "4608",
         image: "/images/jak/pictures/me_and_my_dad_in_shivasagar.jpg",
     },
     {
-        id: 27,
+        id: 26,
         name: "Me and My Cousin Brother In Shivasagar in Shivasagar, Assam, India",
         height: "2128",
         width: "4608",
         image: "/images/jak/pictures/me_and_my_cousin_brother_in_shivasagar.jpg",
+    },
+    {
+        id: 27,
+        name: "Me and My Cousin Brother 6 In Shivasagar in Shivasagar, Assam, India",
+        height: "1908",
+        width: "4128",
+        image: "/images/jak/pictures/me_and_my_cousin_brother_6_in_shivasagar.jpg",
     },
     {
         id: 28,
@@ -200,8 +200,8 @@ const pictures: JAK["pictures"] = [
     {
         id: 31,
         name: "The Boys In Shivasagar in Shivasagar, Assam, India",
-        height: "1188",
-        width: "2576",
+        height: "1186",
+        width: "1341",
         image: "/images/jak/pictures/the_boys_in_shivasagar.jpg",
     },
     {

@@ -418,6 +418,15 @@ const holders: Miraculous["holders"] = [
         magical_words: "Bark, Fluff, Unify!",
         main_power: "Fetch, Burrow",
     },
+    {
+        id: 44,
+        name: "Kitty Noir",
+        image: "/images/miraculous/holders/kitty-noir.png",
+        real_name: "Zoé Lee",
+        kwami: ["Plagg"],
+        magical_words: "Plagg, Claws Out!",
+        main_power: "Cataclysm",
+    },
 ];
 
 export default holders;

@@ -28,7 +28,6 @@ export default async (
 
     const { message }: { message: string } = req.body;
 
-    // make a post request with fetch
     const response = await fetch(
         `${process.env.WEBSITE_BACKEND_URL}/api/ai/chatbot`,
         {

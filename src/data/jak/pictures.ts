@@ -164,17 +164,17 @@ const pictures: JAK["pictures"] = [
     },
     {
         id: 26,
-        name: "Me and My Cousin Brother In Shivasagar in Shivasagar, Assam, India",
-        height: "2128",
-        width: "4608",
-        image: "/images/jak/pictures/me_and_my_cousin_brother_in_shivasagar.jpg",
-    },
-    {
-        id: 27,
         name: "Me and My Dad In Shivasagar in Shivasagar, Assam, India",
         height: "2128",
         width: "4608",
         image: "/images/jak/pictures/me_and_my_dad_in_shivasagar.jpg",
+    },
+    {
+        id: 27,
+        name: "Me and My Cousin Brother In Shivasagar in Shivasagar, Assam, India",
+        height: "2128",
+        width: "4608",
+        image: "/images/jak/pictures/me_and_my_cousin_brother_in_shivasagar.jpg",
     },
     {
         id: 28,

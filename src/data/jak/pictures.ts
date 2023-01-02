@@ -172,8 +172,8 @@ const pictures: JAK["pictures"] = [
     {
         id: 27,
         name: "Me and My Cousin Brother 6 in Shivasagar, Assam, India",
-        height: "1908",
-        width: "4128",
+        height: "740",
+        width: "342",
         image: "/images/jak/pictures/me_and_my_cousin_brother_6_in_shivasagar.jpg",
     },
     {
@@ -186,8 +186,8 @@ const pictures: JAK["pictures"] = [
     {
         id: 29,
         name: "Me My Mahi and My Cousin Brother in Shivasagar, Assam, India",
-        height: "1908",
-        width: "4128",
+        height: "740",
+        width: "342",
         image: "/images/jak/pictures/me_my_mahi_and_my_cousin_brother_in_shivasagar.jpg",
     },
     {

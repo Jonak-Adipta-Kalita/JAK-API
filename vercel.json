@@ -3,7 +3,7 @@
     "public": true,
     "builds": [
         {
-            "src": "src/api.ts",
+            "src": "**/*.ts",
             "use": "@vercel/node"
         }
     ],

@@ -31,7 +31,7 @@ const app = express();
 app.use(express.json());
 
 app.get("/", (req, res) => {
-    res.sendFile("/index.html");
+    res.sendFile(__dirname + "/../public/index.html");
 });
 
 /**

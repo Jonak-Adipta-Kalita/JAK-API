@@ -2,10 +2,10 @@
     "version": 2,
     "builds": [
         {
-            "src": "./dist/api.js",
-            "use": "@vercel/node",
+            "src": "*.ts",
+            "use": "@vercel/node-12",
             "config": {
-                "command": "npm run build"
+                "experimentalTsConfig": true
             }
         }
     ],

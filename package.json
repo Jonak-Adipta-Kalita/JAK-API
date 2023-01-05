@@ -9,6 +9,7 @@
     "scripts": {
         "start": "node dist/api.js",
         "dev": "nodemon --watch",
+        "prebuild": "rimraf dist",
         "build": "tsc",
         "test": "echo No Tests provided till now.",
         "lint": "eslint .",
@@ -17,7 +18,7 @@
         "prettier:fix": "prettier --write **/*.{ts,json,md}",
         "format": "eslint --fix . && prettier --write **/*.{ts,json,md}",
         "check:version": "ncu",
-        "prepare": "husky install"
+        "prepare": "husky install && npm run build"
     },
     "repository": {
         "type": "git",

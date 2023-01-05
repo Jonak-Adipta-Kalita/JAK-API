@@ -28,8 +28,6 @@ import mughalEmpireKings from "./data/mughalEmpire/kings";
 dotenv.config();
 const app = express();
 
-app.use(express.static("public"));
-
 app.get("/", (req, res) => {
     res.json({
         working: true,
@@ -47,7 +45,7 @@ app.get("/", (req, res) => {
  *          description: Genshin Impact Data
  */
 app.get(
-    "/api/genshinImpact",
+    "/genshinImpact",
     async (req, res: Response<GenshinImpact | { error: string }>) => {
         if (!(req.method === "GET")) {
             res.setHeader("Allow", ["GET"]);
@@ -72,7 +70,7 @@ app.get(
  *       200:
  *          description: Ben 10 Data
  */
-app.get("/api/ben10", async (req, res: Response<Ben10 | { error: string }>) => {
+app.get("/ben10", async (req, res: Response<Ben10 | { error: string }>) => {
     if (!(req.method === "GET")) {
         res.setHeader("Allow", ["GET"]);
         return res
@@ -95,7 +93,7 @@ app.get("/api/ben10", async (req, res: Response<Ben10 | { error: string }>) => {
  *          description: Brawl Stars Data
  */
 app.get(
-    "/api/brawlStars",
+    "/brawlStars",
     async (req, res: Response<BrawlStars | { error: string }>) => {
         if (!(req.method === "GET")) {
             res.setHeader("Allow", ["GET"]);
@@ -121,7 +119,7 @@ app.get(
  *          description: Miraculous Data
  */
 app.get(
-    "/api/miraculous",
+    "/miraculous",
     async (req, res: Response<Miraculous | { error: string }>) => {
         if (!(req.method === "GET")) {
             res.setHeader("Allow", ["GET"]);
@@ -149,7 +147,7 @@ app.get(
  *          description: The Mughal Empire Data
  */
 app.get(
-    "/api/mughalEmpire",
+    "/mughalEmpire",
     async (req, res: Response<MughalEmpire | { error: string }>) => {
         if (!(req.method === "GET")) {
             res.setHeader("Allow", ["GET"]);
@@ -176,7 +174,7 @@ app.get(
  *       200:
  *          description: JAK Data
  */
-app.get("/api/jak", async (req, res: Response<JAK | { error: string }>) => {
+app.get("/jak", async (req, res: Response<JAK | { error: string }>) => {
     if (!(req.method === "GET")) {
         res.setHeader("Allow", ["GET"]);
         return res
@@ -207,36 +205,33 @@ app.get("/api/jak", async (req, res: Response<JAK | { error: string }>) => {
  *       200:
  *         description: Response from Alexis
  */
-app.post(
-    "/api/ai",
-    async (req, res: Response<Miraculous | { error: string }>) => {
-        if (!(req.method === "GET")) {
-            res.setHeader("Allow", ["GET"]);
-            return res
-                .status(405)
-                .json({ error: `Method ${req.method} not allowed` });
-        }
-
-        const { message }: { message: string } = req.body;
-
-        const response = await fetch(
-            `${process.env.WEBSITE_BACKEND_URL}/api/ai/chatbot`,
-            {
-                method: "POST",
-                headers: {
-                    "Content-Type": "application/json",
-                },
-                body: JSON.stringify({
-                    message: message,
-                }),
-            }
-        );
-
-        const data = await response.json();
-
-        res.status(200).json(data.response || data.error);
+app.post("/ai", async (req, res: Response<Miraculous | { error: string }>) => {
+    if (!(req.method === "GET")) {
+        res.setHeader("Allow", ["GET"]);
+        return res
+            .status(405)
+            .json({ error: `Method ${req.method} not allowed` });
     }
-);
+
+    const { message }: { message: string } = req.body;
+
+    const response = await fetch(
+        `${process.env.WEBSITE_BACKEND_URL}/api/ai/chatbot`,
+        {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+            },
+            body: JSON.stringify({
+                message: message,
+            }),
+        }
+    );
+
+    const data = await response.json();
+
+    res.status(200).json(data.response || data.error);
+});
 
 app.listen(3000, () => {
     console.log("API listening on port 3000");

@@ -2,12 +2,18 @@
     "version": 3,
     "builds": [
         {
-            "src": "*.ts",
-            "use": "@vercel/node-12",
+            "src": "./dist/api.js",
+            "use": "@vercel/node",
             "config": {
-                "experimentalTsConfig": true,
                 "buildCommand": "npm run build"
             }
+        }
+    ],
+    "routes": [
+        {
+            "handle": "filesystem",
+            "src": "/(.*)",
+            "dest": "/"
         }
     ]
 }

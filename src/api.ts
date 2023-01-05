@@ -30,8 +30,16 @@ const app = express();
 
 app.use(express.static("public"));
 
-app.get("/", async (req, res) => {});
-
+/**
+ * @swagger
+ * /api/genshinImpact:
+ *   get:
+ *     description: Get the Data about Genshin Impact
+ *     summary: Get Genshin Impact Data
+ *     responses:
+ *       200:
+ *          description: Genshin Impact Data
+ */
 app.get(
     "/api/genshinImpact",
     async (req, res: Response<GenshinImpact | { error: string }>) => {
@@ -48,6 +56,16 @@ app.get(
     }
 );
 
+/**
+ * @swagger
+ * /api/ben10:
+ *   get:
+ *     description: Get the Data about Ben 10
+ *     summary: Get Ben 10 Data
+ *     responses:
+ *       200:
+ *          description: Ben 10 Data
+ */
 app.get("/api/ben10", async (req, res: Response<Ben10 | { error: string }>) => {
     if (!(req.method === "GET")) {
         res.setHeader("Allow", ["GET"]);
@@ -60,6 +78,16 @@ app.get("/api/ben10", async (req, res: Response<Ben10 | { error: string }>) => {
     });
 });
 
+/**
+ * @swagger
+ * /api/brawlStars:
+ *   get:
+ *     description: Get the Data about Brawl Stars
+ *     summary: Get Brawl Stars Data
+ *     responses:
+ *       200:
+ *          description: Brawl Stars Data
+ */
 app.get(
     "/api/brawlStars",
     async (req, res: Response<BrawlStars | { error: string }>) => {
@@ -76,6 +104,16 @@ app.get(
     }
 );
 
+/**
+ * @swagger
+ * /api/miraculous:
+ *   get:
+ *     description: Get the Data about Miraculous
+ *     summary: Get Miraculous Data
+ *     responses:
+ *       200:
+ *          description: Miraculous Data
+ */
 app.get(
     "/api/miraculous",
     async (req, res: Response<Miraculous | { error: string }>) => {
@@ -94,6 +132,16 @@ app.get(
     }
 );
 
+/**
+ * @swagger
+ * /api/mughalEmpire:
+ *   get:
+ *     description: Get the Data about The Mughal Empire
+ *     summary: Get The Mughal Empire Data
+ *     responses:
+ *       200:
+ *          description: The Mughal Empire Data
+ */
 app.get(
     "/api/mughalEmpire",
     async (req, res: Response<MughalEmpire | { error: string }>) => {
@@ -112,6 +160,16 @@ app.get(
     }
 );
 
+/**
+ * @swagger
+ * /api/jak:
+ *   get:
+ *     description: Get the Data about JAK
+ *     summary: Get JAK Data
+ *     responses:
+ *       200:
+ *          description: JAK Data
+ */
 app.get("/api/jak", async (req, res: Response<JAK | { error: string }>) => {
     if (!(req.method === "GET")) {
         res.setHeader("Allow", ["GET"]);
@@ -128,6 +186,21 @@ app.get("/api/jak", async (req, res: Response<JAK | { error: string }>) => {
     });
 });
 
+/**
+ * @swagger
+ * /api/ai:
+ *   post:
+ *     summary: Talk with Alexis
+ *     description: Talk with Alexis a AI made by JAK
+ *     parameters:
+ *       - name: message
+ *         in: formData
+ *         required: true
+ *         type: string
+ *     responses:
+ *       200:
+ *         description: Response from Alexis
+ */
 app.post(
     "/api/ai",
     async (req, res: Response<Miraculous | { error: string }>) => {

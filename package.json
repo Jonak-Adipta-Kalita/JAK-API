@@ -5,9 +5,9 @@
     "author": "Jonak Adipta Kalita",
     "license": "MIT",
     "private": true,
-    "main": "dist/api.js",
+    "main": "dist/api/index.js",
     "scripts": {
-        "start": "node dist/api.js",
+        "start": "node dist/api/index.js",
         "dev": "nodemon --watch",
         "prebuild": "rimraf dist",
         "build": "tsc",

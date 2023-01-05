@@ -1,12 +1,10 @@
 {
     "version": 2,
+    "public": true,
     "builds": [
         {
-            "src": "./dist/api.js",
-            "use": "@vercel/node",
-            "config": {
-                "command": "npm run build"
-            }
+            "src": "src/api.ts",
+            "use": "@vercel/node"
         }
     ],
     "routes": [

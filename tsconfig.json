@@ -10,6 +10,6 @@
         "moduleResolution": "node",
         "outDir": "dist"
     },
-    "include": ["src/**/*"],
+    "include": ["**/*"],
     "exclude": ["node_modules", ".vscode", "dist", ".husky", ".git", ".github"]
 }

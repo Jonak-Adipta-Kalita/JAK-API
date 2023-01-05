@@ -11,14 +11,10 @@
     },
     "overrides": [
         {
-            "files": ["*.js", "*.jsx", "*.ts", "*.tsx"]
+            "files": ["*.js", "*.ts"]
         }
     ],
-    "extends": [
-        "eslint:recommended",
-        "plugin:react/recommended",
-        "plugin:@typescript-eslint/recommended"
-    ],
+    "extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended"],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
         "ecmaFeatures": {
@@ -27,9 +23,9 @@
         "ecmaVersion": "latest",
         "sourceType": "module"
     },
-    "plugins": ["react", "@typescript-eslint"],
+    "plugins": ["@typescript-eslint"],
     "rules": {
-        "react/react-in-jsx-scope": 0,
+        "require-yield": 0,
         "@typescript-eslint/no-empty-function": 0,
         "@typescript-eslint/no-explicit-any": 0,
         "@typescript-eslint/no-non-null-assertion": 0,

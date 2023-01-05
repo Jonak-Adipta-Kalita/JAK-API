@@ -5,16 +5,16 @@
     "author": "Jonak Adipta Kalita",
     "license": "MIT",
     "private": true,
+    "main": "dist/api.js",
     "scripts": {
-        "dev": "next dev",
-        "build": "next build",
-        "start": "next start",
+        "dev": "nodemon --watch",
+        "build": "tsc",
         "test": "echo No Tests provided till now.",
         "lint": "eslint .",
         "lint:fix": "eslint --fix .",
-        "prettier": "prettier **/*.{ts,tsx,json,md}",
-        "prettier:fix": "prettier --write **/*.{ts,tsx,json,md}",
-        "format": "eslint --fix . && prettier --write **/*.{ts,tsx,json,md}",
+        "prettier": "prettier **/*.{ts,json,md}",
+        "prettier:fix": "prettier --write **/*.{ts,json,md}",
+        "format": "eslint --fix . && prettier --write **/*.{ts,json,md}",
         "check:version": "ncu",
         "prepare": "husky install"
     },
@@ -27,6 +27,8 @@
         "jak",
         "brawl-stars",
         "miraculous",
+        "mughal-empire",
+        "ben-10",
         "genshin-impact"
     ],
     "bugs": {
@@ -34,27 +36,24 @@
     },
     "homepage": "https://github.com/Jonak-Adipta-Kalita/JAK-API#readme",
     "dependencies": {
-        "next": "latest",
-        "next-swagger-doc": "^0.2.1",
-        "react": "^17.0.2",
-        "react-dom": "^17.0.2",
-        "swagger-ui-react": "^4.8.0"
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "swagger-ui-express": "^4.6.0"
     },
     "devDependencies": {
+        "@types/express": "^4.17.15",
         "@types/node": "17.0.4",
-        "@types/react": "17.0.38",
-        "@types/swagger-ui-react": "^4.1.1",
         "@typescript-eslint/eslint-plugin": "^5.14.0",
         "@typescript-eslint/parser": "^5.14.0",
         "autoprefixer": "^10.4.0",
         "eslint": "^8.11.0",
-        "eslint-plugin-react": "^7.29.4",
         "husky": "^7.0.4",
+        "nodemon": "^2.0.20",
         "npm-check-updates": "^12.5.3",
         "postcss": "^8.4.5",
         "prettier": "^2.5.1",
         "prettier-plugin-tailwindcss": "^0.1.1",
         "tailwindcss": "^3.0.7",
-        "typescript": "4.5.4"
+        "typescript": "4.8.4"
     }
 }

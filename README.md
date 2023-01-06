@@ -44,8 +44,8 @@ It is the hosted URL of [JAK-Website](https://github.com/Jonak-Adipta-Kalita/JAK
 
 ### Passing the Required Credentials
 
-Create a new file `.env`
-In the `.env` file, paste the following:
+Create a new file `.env.local`
+In the `.env.local` file, paste the following:
 
 ```env
 WEBSITE_BACKEND_URL=<YOUR_WEBSITE_BACKEND_URL>

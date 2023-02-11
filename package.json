@@ -45,7 +45,7 @@
         "@types/react": "17.0.38",
         "@types/swagger-ui-react": "^4.1.1",
         "@typescript-eslint/eslint-plugin": "^5.14.0",
-        "@typescript-eslint/parser": "^5.14.0",
+        "@typescript-eslint/parser": "^5.51.0",
         "autoprefixer": "^10.4.0",
         "eslint": "^8.11.0",
         "eslint-plugin-react": "^7.29.4",

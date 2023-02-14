@@ -7,8 +7,7 @@ const games: JAK["games"] = [
         value: "JAK Ultimate Adventure Game",
         description:
             "In this RPG adventure game, players navigate through various environments, collecting crystals and defeating enemies in order to complete tasks and progress through the game.",
-        imageURL:
-            "https://img.itch.zone/aW1nLzExMzEzODczLnBuZw==/original/ARW%2BUt.png",
+        imageURL: "/images/jak/games/jak-utimate-adventure-game.png",
         link: "https://jonak-adipta-kalita.itch.io/jak-ultimate-adventure-game",
     },
 ];

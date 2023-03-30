@@ -10,7 +10,7 @@ const games: JAK["games"] = [
         imageURL: "/images/jak/games/jak-utimate-adventure-game.png",
         link: "https://jonak-adipta-kalita.itch.io/jak-ultimate-adventure-game",
     },
-	{
+    {
         id: 1,
         platform: "PC",
         value: "JAK Treasure Collectors Game",

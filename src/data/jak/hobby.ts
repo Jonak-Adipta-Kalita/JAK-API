@@ -249,6 +249,21 @@ const hobby: JAK["hobby"] = [
                 level: 17,
                 imageURL: "/images/jak/hobby/programming/languages/Scratch.png",
             },
+            {
+                id: 9,
+                value: "GDScript",
+                website: "https://godotengine.org/",
+                level: 75,
+                imageURL:
+                    "/images/jak/hobby/programming/languages/GDScript.png",
+            },
+            {
+                id: 10,
+                value: "C#",
+                website: "https://dotnet.microsoft.com/en-us/",
+                level: 45,
+                imageURL: "/images/jak/hobby/programming/languages/C#.png",
+            },
         ],
         frameworks: [
             {
@@ -375,6 +390,14 @@ const hobby: JAK["hobby"] = [
                 level: 84,
                 imageURL:
                     "/images/jak/hobby/programming/frameworks/Electron.png",
+            },
+            {
+                id: 15,
+                value: "Godot",
+                website: "https://godotengine.org/",
+                languages: ["GDScript", "C#", "C++"],
+                level: 70,
+                imageURL: "/images/jak/hobby/programming/frameworks/Godot.png",
             },
         ],
     },

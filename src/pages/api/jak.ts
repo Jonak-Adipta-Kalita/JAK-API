@@ -1,10 +1,8 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import { JAK } from "../../typings";
 import hobby from "../../data/jak/hobby";
-import pictures from "../../data/jak/pictures";
 import games from "../../data/jak/games";
-import fav_food from "../../data/jak/fav_food";
-import social_medias from "../../data/jak/social_medias";
+import social_media from "../../data/jak/social_media";
 
 /**
  * @swagger
@@ -28,9 +26,7 @@ export default (
     }
     res.status(200).json({
         hobby: hobby,
-        pictures: pictures,
         games: games,
-        fav_food: fav_food,
-        social_medias: social_medias,
+        social_media: social_media,
     });
 };

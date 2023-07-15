@@ -67,18 +67,6 @@ export interface JAK {
         {
             id: number;
             value: string;
-            games: {
-                id: number;
-                platform: string;
-                value: string;
-                description: string;
-                imageURL: string;
-                link: string;
-            }[];
-        },
-        {
-            id: number;
-            value: string;
             languages: {
                 id: number;
                 value: string;
@@ -113,20 +101,7 @@ export interface JAK {
         imageURL: string;
         link: string;
     }[];
-    pictures: {
-        id: number;
-        name: string;
-        height: string;
-        width: string;
-        image: string;
-    }[];
-    fav_food: {
-        id: number;
-        value: string;
-        imageURL: string;
-        ingredients: string[];
-    }[];
-    social_medias: {
+    social_media: {
         id: number;
         value: string;
         imageURL: string;

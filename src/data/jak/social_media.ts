@@ -1,6 +1,6 @@
 import { JAK } from "../../typings";
 
-const social_medias: JAK["social_medias"] = [
+const social_medias: JAK["social_media"] = [
     {
         id: 0,
         value: "Github",
